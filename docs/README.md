@@ -1,8 +1,8 @@
-# AI4Bio ArXiv Daily - Usage Instructions
+# AI4polymer ArXiv Daily - Usage Instructions
 
 ## Overview
 
-AI4Bio ArXiv Daily automatically fetches the latest papers from arXiv related to AI for Biology (AI4Bio) topics and organizes them by category.
+AI4Polymer ArXiv Daily automatically fetches the latest papers from arXiv related to AI for Polymer topics and organizes them by category.
 
 ## Usage
 
