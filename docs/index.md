@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.19
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-17**|**Principal Component Analysis-Based Terahertz Self-Supervised Denoising and Deblurring Deep Neural Networks**|Pengfei Zhu et.al.|[2601.12149](http://arxiv.org/abs/2601.12149)|null|
+|**2026-01-16**|**jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation**|Ho Fung Tsoi et.al.|[2601.11719](http://arxiv.org/abs/2601.11719)|null|
 |**2026-01-16**|**Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images**|Pouya Afshin et.al.|[2601.10917](http://arxiv.org/abs/2601.10917)|null|
 |**2026-01-14**|**Linear Complexity Self-Supervised Learning for Music Understanding with Random Quantizer**|Petros Vavaroutsos et.al.|[2601.09603](http://arxiv.org/abs/2601.09603)|null|
 |**2026-01-14**|**Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy**|Qiang Hu et.al.|[2601.09209](http://arxiv.org/abs/2601.09209)|null|
@@ -24,6 +26,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Learning to Dock: Geometric Deep Learning for Predicting Supramolecular Host-Guest Complexes**|Zidi Wang et.al.|[2601.12268](http://arxiv.org/abs/2601.12268)|null|
+|**2026-01-17**|**Space-resolved stress correlations and viscoelastic moduli for polydisperse systems: the faces of the stress noise**|Jörg Baschnagel et.al.|[2601.12069](http://arxiv.org/abs/2601.12069)|null|
+|**2026-01-17**|**Electric Charge Transport and Dielectric Properties of the Barium Titanate Ceramics Obtained by Spark-Plasma Sintering with Different Controlled Carbon Content**|Oleksandr S. Pylypchuk et.al.|[2601.12060](http://arxiv.org/abs/2601.12060)|null|
 |**2026-01-16**|**ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D-IC Systems Considering Nonlinear Leakage and Conductivity**|Qipan Wang et.al.|[2601.11050](http://arxiv.org/abs/2601.11050)|null|
 |**2026-01-16**|**Unconventional thermal conductivity of suspended zigzag graphene nanomesh**|Takamoto Yokosawa et.al.|[2601.10935](http://arxiv.org/abs/2601.10935)|null|
 |**2026-01-14**|**Composite Bogoliubov Fermi liquid in a half-filled Chern band**|Zhengyan Darius Shi et.al.|[2601.09924](http://arxiv.org/abs/2601.09924)|null|
@@ -39,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Multi-modal data-driven microstructure characterization**|Qi Zhang et.al.|[2601.12584](http://arxiv.org/abs/2601.12584)|null|
+|**2026-01-18**|**Fine-Tuning Cycle-GAN for Domain Adaptation of MRI Images**|Mohd Usama et.al.|[2601.12512](http://arxiv.org/abs/2601.12512)|null|
+|**2026-01-18**|**Class-Partitioned VQ-VAE and Latent Flow Matching for Point Cloud Scene Generation**|Dasith de Silva Edirimuni et.al.|[2601.12391](http://arxiv.org/abs/2601.12391)|null|
+|**2026-01-18**|**LB-MCTS: Synergizing Large Language Models and Bayesian Optimization for Efficient CASH**|Beicheng Xu et.al.|[2601.12355](http://arxiv.org/abs/2601.12355)|null|
+|**2026-01-18**|**Bone-conduction Guided Multimodal Speech Enhancement with Conditional Diffusion Models**|Sina Khanagha et.al.|[2601.12354](http://arxiv.org/abs/2601.12354)|null|
+|**2026-01-18**|**Worst-case Nonlinear Regression with Error Bounds**|Alberto Bemporad et.al.|[2601.12334](http://arxiv.org/abs/2601.12334)|null|
+|**2026-01-18**|**FlowIID: Single-Step Intrinsic Image Decomposition via Latent Flow Matching**|Mithlesh Singla et.al.|[2601.12329](http://arxiv.org/abs/2601.12329)|null|
+|**2026-01-18**|**Cross-reality Location Privacy Protection in 6G-enabled Vehicular Metaverses: An LLM-enhanced Hybrid Generative Diffusion Model-based Approach**|Xiaofeng Luo et.al.|[2601.12311](http://arxiv.org/abs/2601.12311)|null|
+|**2026-01-18**|**DiffusionQC: Artifact Detection in Histopathology via Diffusion Model**|Zhenzhen Wang et.al.|[2601.12233](http://arxiv.org/abs/2601.12233)|null|
+|**2026-01-17**|**Significant impact of Al1-xGaxN interlayer on GaN/AlN thermal boundary conductance**|Khalid Zobaid Adnan et.al.|[2601.12151](http://arxiv.org/abs/2601.12151)|null|
 |**2026-01-16**|**UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation**|Ruiheng Zhang et.al.|[2601.11522](http://arxiv.org/abs/2601.11522)|null|
 |**2026-01-16**|**When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models**|Raphaël Razafindralambo et.al.|[2601.11444](http://arxiv.org/abs/2601.11444)|null|
 |**2026-01-16**|**Hyperparameter Optimization of Constraint Programming Solvers**|Hedieh Haddad et.al.|[2601.11389](http://arxiv.org/abs/2601.11389)|null|
@@ -54,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Stochastic Quantum Information Geometry and Speed Limits at the Trajectory Level**|Pedro B. Melo et.al.|[2601.12475](http://arxiv.org/abs/2601.12475)|null|
+|**2026-01-18**|**Thermo-field entanglement description of Markovian two-state relaxation**|Koichi Nakagawa et.al.|[2601.12435](http://arxiv.org/abs/2601.12435)|null|
+|**2026-01-18**|**Universal and non-universal contributions of entanglement under different bipartitions**|Zhe Wang et.al.|[2601.12365](http://arxiv.org/abs/2601.12365)|null|
+|**2026-01-18**|**Large clusters in a correlated percolation model**|Raz Halifa Levi et.al.|[2601.12309](http://arxiv.org/abs/2601.12309)|null|
+|**2026-01-18**|**Logarithmic scaling and stochastic criticality in collective attention**|Keisuke Okamura et.al.|[2601.12306](http://arxiv.org/abs/2601.12306)|null|
+|**2026-01-18**|**Atomic Alignment in PbS Nanocrystal Superlattices with Compact Inorganic Ligands via Reversible Oriented Attachment of Nanocrystals**|Ahhyun Jeong et.al.|[2601.12214](http://arxiv.org/abs/2601.12214)|null|
+|**2026-01-17**|**Hitchhiker's guide to second-generation Car-Parrinello ab-initio molecular dynamics**|Thomas D. Kühne et.al.|[2601.12191](http://arxiv.org/abs/2601.12191)|null|
+|**2026-01-17**|**Thermodynamic and electronic properties of rutile Sn $_{1-x}$Ge$_x$O$_2$ alloys from first principles**|Yann L. Müller et.al.|[2601.12184](http://arxiv.org/abs/2601.12184)|null|
+|**2026-01-17**|**Stochastic dynamics from maximum entropy in action space**|Fabricio de Souza Luiz et.al.|[2601.12135](http://arxiv.org/abs/2601.12135)|null|
+|**2026-01-17**|**Detection of a Millisecond Periodicity in BATSE Short Gamma-Ray Bursts**|Run-Chao Chen et.al.|[2601.12108](http://arxiv.org/abs/2601.12108)|null|
 |**2026-01-16**|**Halide diffusion in mixed-halide perovskites and heterojunctions**|Viren Tyagi et.al.|[2601.11503](http://arxiv.org/abs/2601.11503)|null|
 |**2026-01-16**|**Entanglement complexity of spanning pairs of lattice polygons**|Ryan Blair et.al.|[2601.11481](http://arxiv.org/abs/2601.11481)|null|
 |**2026-01-16**|**Evolution of a Single Impurity Across the Superfluid-Mott insulator Transition in the Bose-Hubbard Model**|Chao Zhang et.al.|[2601.11062](http://arxiv.org/abs/2601.11062)|null|
@@ -69,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Multi-modal data-driven microstructure characterization**|Qi Zhang et.al.|[2601.12584](http://arxiv.org/abs/2601.12584)|null|
 |**2026-01-16**|**Halide diffusion in mixed-halide perovskites and heterojunctions**|Viren Tyagi et.al.|[2601.11503](http://arxiv.org/abs/2601.11503)|null|
 |**2026-01-16**|**Principles of Client Enrichment in Multicomponent Biomolecular Condensates**|Aishani Ghosal et.al.|[2601.11450](http://arxiv.org/abs/2601.11450)|null|
 |**2026-01-14**|**Active alignment-driven coarsening in confined near-critical fluids**|Parameshwaran A et.al.|[2601.09181](http://arxiv.org/abs/2601.09181)|null|
@@ -84,6 +110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**|Yuhao Liu et.al.|[2601.12509](http://arxiv.org/abs/2601.12509)|null|
 |**2026-01-13**|**High-Fidelity Modeling of Stochastic Chemical Dynamics on Complex Manifolds: A Multi-Scale SIREN-PINN Framework for the Curvature-Perturbed Ginzburg-Landau Equation**|Julian Evan Chrisnanto et.al.|[2601.08104](http://arxiv.org/abs/2601.08104)|null|
 |**2026-01-07**|**O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL**|Yi Yao et.al.|[2601.03743](http://arxiv.org/abs/2601.03743)|null|
 |**2025-12-31**|**Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization**|Yuchen Shi et.al.|[2512.24615](http://arxiv.org/abs/2512.24615)|null|
@@ -129,6 +156,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Ehrhart quasi-polynomials via Barnes polynomials and discrete moments of parallelepipeds**|Sinai Robins et.al.|[2601.12596](http://arxiv.org/abs/2601.12596)|null|
+|**2026-01-18**|**SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training**|Xinhao Mei et.al.|[2601.12594](http://arxiv.org/abs/2601.12594)|null|
+|**2026-01-18**|**Do MLLMs See What We See? Analyzing Visualization Literacy Barriers in AI Systems**|Mengli et.al.|[2601.12585](http://arxiv.org/abs/2601.12585)|null|
+|**2026-01-18**|**Giant Damping-like Spin-Torque Conductivity in a GeTe/Py van der Waals Heterostructure**|Himanshu Bangar et.al.|[2601.12581](http://arxiv.org/abs/2601.12581)|null|
+|**2026-01-18**|**The Origin of the Inaccessible Game**|Neil D. Lawrence et.al.|[2601.12576](http://arxiv.org/abs/2601.12576)|null|
+|**2026-01-18**|**INTERFACE Force Field for Alumina with Validated Bulk Phases and a pH-Resolved Surface Model Database for Electrolyte and Organic Interfaces**|Cheng Zhu et.al.|[2601.12570](http://arxiv.org/abs/2601.12570)|null|
+|**2026-01-18**|**Camera Pose Revisited**|Władysław Skarbek et.al.|[2601.12567](http://arxiv.org/abs/2601.12567)|null|
+|**2026-01-18**|**Automated Angular Received-Power Characterization of Embedded mmWave Transmitters Using Geometry-Calibrated Spatial Sampling**|Maaz Qureshi et.al.|[2601.12562](http://arxiv.org/abs/2601.12562)|null|
+|**2026-01-18**|**Life, Machine Learning, and the Search for Habitability: Predicting Biosignature Fluxes for the Habitable Worlds Observatory**|Mark Moussa et.al.|[2601.12557](http://arxiv.org/abs/2601.12557)|null|
+|**2026-01-18**|**Benchmarking Concept-Spilling Across Languages in LLMs**|Ilia Badanin et.al.|[2601.12549](http://arxiv.org/abs/2601.12549)|null|
 |**2026-01-16**|**UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation**|Ruiheng Zhang et.al.|[2601.11522](http://arxiv.org/abs/2601.11522)|null|
 |**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
 |**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514](http://arxiv.org/abs/2601.11514)|null|
