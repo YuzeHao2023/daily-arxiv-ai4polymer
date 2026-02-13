@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò et.al.|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
+|**2026-02-12**|**JEPA-VLA: Video Predictive Embedding is Needed for VLA Models**|Shangchen Miao et.al.|[2602.11832](http://arxiv.org/abs/2602.11832)|null|
+|**2026-02-12**|**Brain4FMs: A Benchmark of Foundation Models for Electrical Brain Signal**|Fanqi Shen et.al.|[2602.11558](http://arxiv.org/abs/2602.11558)|null|
+|**2026-02-12**|**Vascular anatomy-aware self-supervised pre-training for X-ray angiogram analysis**|De-Xing Huang et.al.|[2602.11536](http://arxiv.org/abs/2602.11536)|null|
+|**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
 |**2026-02-11**|**Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning**|Kian Majlessi et.al.|[2602.10744](http://arxiv.org/abs/2602.10744)|null|
 |**2026-02-11**|**A solvable high-dimensional model where nonlinear autoencoders learn structure invisible to PCA while test loss misaligns with generalization**|Vicente Conde Mendes et.al.|[2602.10680](http://arxiv.org/abs/2602.10680)|null|
@@ -114,9 +120,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**A critical assessment of bonding descriptors for predicting materials properties**|Aakash Ashok Naik et.al.|[2602.12109](http://arxiv.org/abs/2602.12109)|null|
+|**2026-02-12**|**Thermal and Dielectric Properties of Juno's Regolith at One Millimeter Wavelength**|Jian-Yang Li et.al.|[2602.12071](http://arxiv.org/abs/2602.12071)|null|
+|**2026-02-12**|**Quantum-geometric thermal conductivity of superconductors**|Maximilian Buthenhoff et.al.|[2602.11608](http://arxiv.org/abs/2602.11608)|null|
 |**2026-02-11**|**Acceleration Waves and the K-Condition in Viscoelastic Solids and Non-Newtonian Fluids**|Tommaso Ruggeri et.al.|[2602.11122](http://arxiv.org/abs/2602.11122)|null|
 |**2026-02-11**|**Reevaluating thermal instability in a uniform plasma: an extended analysis of instability domains**|Varsha Felsy et.al.|[2602.10902](http://arxiv.org/abs/2602.10902)|null|
-|**2026-02-11**|**Distorted polyhedral architecture enabled high thermoelectric performance of columnar double halide perovskites Cs2AgPdCl5 and Cs2AgPtCl5**|Heena et.al.|[2602.10789](http://arxiv.org/abs/2602.10789)|null|
+|**2026-02-12**|**Distorted polyhedral architecture enabled high thermoelectric performance of columnar double halide perovskites Cs2AgPdCl5 and Cs2AgPtCl5**|Heena et.al.|[2602.10789](http://arxiv.org/abs/2602.10789)|null|
 |**2026-02-11**|**Probing Plasmonic Oscillations in 2D Moiré Nanocrystal Superlattices by Low-Loss EELS**|Swarnendu Das et.al.|[2602.10534](http://arxiv.org/abs/2602.10534)|null|
 |**2026-02-11**|**Identifying the source term in a viscoelastic membrane with a Riemann-Liouville time derivative by the partial interior observation**|Zhiwei Yang et.al.|[2602.10440](http://arxiv.org/abs/2602.10440)|null|
 |**2026-02-10**|**Morphological instability of an invasive active-passive interface**|Sumit Sinha et.al.|[2602.10375](http://arxiv.org/abs/2602.10375)|null|
@@ -196,6 +205,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems**|Sofia Mäkinen et.al.|[2602.12234](http://arxiv.org/abs/2602.12234)|null|
+|**2026-02-12**|**Diffusion Alignment Beyond KL: Variance Minimisation as Effective Policy Optimiser**|Zijing Ou et.al.|[2602.12229](http://arxiv.org/abs/2602.12229)|null|
+|**2026-02-12**|**EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data**|Nils Lehmann et.al.|[2602.12177](http://arxiv.org/abs/2602.12177)|null|
+|**2026-02-12**|**Few-Shot Design Optimization by Exploiting Auxiliary Information**|Arjun Mani et.al.|[2602.12112](http://arxiv.org/abs/2602.12112)|null|
+|**2026-02-12**|**GAN-based data augmentation for rare and exotic hadron searches in Pb--Pb collisions in ALICE**|Anisa Khatun et.al.|[2602.12088](http://arxiv.org/abs/2602.12088)|null|
+|**2026-02-12**|**Fourier Transformers for Latent Crystallographic Diffusion and Generative Modeling**|Jed A. Duersch et.al.|[2602.12045](http://arxiv.org/abs/2602.12045)|null|
+|**2026-02-12**|**Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation**|Wei Chen et.al.|[2602.11980](http://arxiv.org/abs/2602.11980)|null|
+|**2026-02-12**|**TAVAE: A VAE with Adaptable Priors Explains Contextual Modulation in the Visual Cortex**|Balázs Meszéna et.al.|[2602.11956](http://arxiv.org/abs/2602.11956)|null|
 |**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
 |**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
 |**2026-02-11**|**The Offline-Frontier Shift: Diagnosing Distributional Limits in Generative Multi-Objective Optimization**|Stephanie Holly et.al.|[2602.11126](http://arxiv.org/abs/2602.11126)|null|
@@ -343,6 +362,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Quantum-Coherent Thermodynamics: Leaf Typicality via Minimum-Variance Foliation**|Maurizio Fagotti et.al.|[2602.12212](http://arxiv.org/abs/2602.12212)|null|
+|**2026-02-12**|**Charged moments and symmetry-resolved entanglement from Ballistic Fluctuation Theory**|Giorgio Li et.al.|[2602.12185](http://arxiv.org/abs/2602.12185)|null|
+|**2026-02-12**|**GAN-based data augmentation for rare and exotic hadron searches in Pb--Pb collisions in ALICE**|Anisa Khatun et.al.|[2602.12088](http://arxiv.org/abs/2602.12088)|null|
+|**2026-02-12**|**Markov State Models for Tracking Reaction Dynamics on Catalytic Nanoparticles**|Caitlin A. McCandler et.al.|[2602.12037](http://arxiv.org/abs/2602.12037)|null|
+|**2026-02-12**|**Topological chiral random walker**|Saeed Osat et.al.|[2602.12020](http://arxiv.org/abs/2602.12020)|null|
+|**2026-02-12**|**Two-point functions in boundary loop models**|Max Downing et.al.|[2602.12000](http://arxiv.org/abs/2602.12000)|null|
+|**2026-02-12**|**Microscopic field theory for active Brownian particles with translational and rotational inertia**|Michael te Vrugt et.al.|[2602.11916](http://arxiv.org/abs/2602.11916)|null|
+|**2026-02-12**|**Multi-period Newsvendor Model**|Valentyn Khokhlov et.al.|[2602.11821](http://arxiv.org/abs/2602.11821)|null|
+|**2026-02-12**|**Early stages of collective cell invasion: Biomechanics**|R. González-Albaladejo et.al.|[2602.11813](http://arxiv.org/abs/2602.11813)|null|
+|**2026-02-12**|**Stacking-dependent magnetic ordering in bilayer ScI $_{2}$**|Soumyajit Sarkar et.al.|[2602.11781](http://arxiv.org/abs/2602.11781)|null|
 |**2026-02-11**|**Nonreciprocal many-body physics**|Michel Fruchart et.al.|[2602.11111](http://arxiv.org/abs/2602.11111)|null|
 |**2026-02-11**|**Reentrance in a Hamiltonian flocking model**|Letian Chen et.al.|[2602.11104](http://arxiv.org/abs/2602.11104)|null|
 |**2026-02-11**|**Data-Efficient Multidimensional Free Energy Estimation via Physics-Informed Score Learning**|Daniel Nagel et.al.|[2602.11098](http://arxiv.org/abs/2602.11098)|null|
@@ -490,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites**|Liz Camayo-Gutierrez et.al.|[2602.12031](http://arxiv.org/abs/2602.12031)|null|
 |**2026-02-11**|**Reentrance in a Hamiltonian flocking model**|Letian Chen et.al.|[2602.11104](http://arxiv.org/abs/2602.11104)|null|
 |**2026-02-11**|**Spontaneous phase separation and pattern formation in a lyotropic nematic mixture**|A. Bensabat et.al.|[2602.11101](http://arxiv.org/abs/2602.11101)|null|
 |**2026-02-10**|**Generalized Kramers-Wannier Self-Duality in Hopf-Ising Models**|Da-Chuan Lu et.al.|[2602.10183](http://arxiv.org/abs/2602.10183)|null|
@@ -561,6 +591,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Systematic Analysis of Penalty-Optimised Illumination Design for Tomographic Volumetric Additive Manufacturing via the Extendable Framework TVAM AID Using the Core Imaging Library**|Nicole Pellizzon et.al.|[2602.12178](http://arxiv.org/abs/2602.12178)|null|
 |**2026-02-10**|**Benchmarking of Massively Parallel Phase-Field Codes for Directional Solidification**|Jiefu Tian et.al.|[2602.10316](http://arxiv.org/abs/2602.10316)|null|
 |**2026-02-10**|**Comprehensive Study of 3D Liquid Flow Fields in Additive Manufactured Structures for SMART Reactors Using Large-Scale Vertical Magnetic Resonance Imaging and Computational Fluid Dynamics**|Timo Merbach et.al.|[2602.09750](http://arxiv.org/abs/2602.09750)|null|
 |**2026-02-10**|**Facade Inspection: Design, Prototyping, and Testing of a Hybrid Cable-Driven Parallel Robot**|Ginna Marcela García-Rodríguez et.al.|[2602.09557](http://arxiv.org/abs/2602.09557)|null|
@@ -622,6 +653,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**Reionization Bubbles from Real-Space Cross Correlations of Line Intensity Maps**|Emilie Thélie et.al.|[2602.12277](http://arxiv.org/abs/2602.12277)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization**|Tunyu Zhang et.al.|[2602.12262](http://arxiv.org/abs/2602.12262)|null|
+|**2026-02-12**|**Half-plane non-coexistence without FKG**|Frederik Ravn Klausen et.al.|[2602.12261](http://arxiv.org/abs/2602.12261)|null|
+|**2026-02-12**|**Think like a Scientist: Physics-guided LLM Agent for Equation Discovery**|Jianke Yang et.al.|[2602.12259](http://arxiv.org/abs/2602.12259)|null|
+|**2026-02-12**|**Post-measurement states are (very) useful for measurement discrimination**|Charbel Eid et.al.|[2602.12258](http://arxiv.org/abs/2602.12258)|null|
+|**2026-02-12**|**Vision Transformer for Multi-Domain Phase Retrieval in Coherent Diffraction Imaging**|Jialun Liu et.al.|[2602.12255](http://arxiv.org/abs/2602.12255)|null|
+|**2026-02-12**|**Community Concealment from Unsupervised Graph Learning-Based Clustering**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|null|
+|**2026-02-12**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](http://arxiv.org/abs/2602.12249)|null|
 |**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
 |**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
 |**2026-02-11**|**Unmasking LHAASO J2108+5157: Near Infrared Insights into a Mysterious TeV Source**|Josep Martí et.al.|[2602.11148](http://arxiv.org/abs/2602.11148)|null|
