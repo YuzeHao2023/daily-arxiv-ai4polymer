@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction**|Amartyaveer et.al.|[2602.15484](http://arxiv.org/abs/2602.15484)|null|
+|**2026-02-17**|**Benchmarking Self-Supervised Models for Cardiac Ultrasound View Classification**|Youssef Megahed et.al.|[2602.15339](http://arxiv.org/abs/2602.15339)|null|
+|**2026-02-17**|**What Do Neurons Listen To? A Neuron-level Dissection of a General-purpose Audio Model**|Takao Kawamura et.al.|[2602.15307](http://arxiv.org/abs/2602.15307)|null|
 |**2026-02-16**|**Neurosim: A Fast Simulator for Neuromorphic Robot Perception**|Richeek Das et.al.|[2602.15018](http://arxiv.org/abs/2602.15018)|null|
 |**2026-02-16**|**BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs**|Tianyi Ma et.al.|[2602.14919](http://arxiv.org/abs/2602.14919)|null|
 |**2026-02-16**|**SA-SSL-MOS: Self-supervised Learning MOS Prediction with Spectral Augmentation for Generalized Multi-Rate Speech Assessment**|Fengyuan Cao et.al.|[2602.14785](http://arxiv.org/abs/2602.14785)|null|
@@ -116,6 +119,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Revealing 3D Strain and Carbide Architectures in Additively Manufactured Ni Superalloys**|James A. D. Ball et.al.|[2602.15729](http://arxiv.org/abs/2602.15729)|null|
+|**2026-02-17**|**Spectroscopic analysis and RHD modeling of the first Ca II H and H-epsilon flare spectra from DKIST/ViSP**|Cole Tamburri et.al.|[2602.15658](http://arxiv.org/abs/2602.15658)|null|
+|**2026-02-17**|**Deformation and orientation of a capsule with viscosity contrast in linear flows: a theoretical study**|Paul Regazzi et.al.|[2602.15626](http://arxiv.org/abs/2602.15626)|null|
+|**2026-02-17**|**Anomalous transport in the Fermi-Pasta-Ulam-Tsingou model: a review and open problems**|Stefano Lepri et.al.|[2602.15512](http://arxiv.org/abs/2602.15512)|null|
+|**2026-02-17**|**On the dynamics, thermodynamics and fine structure of virtual erupting filaments**|Dion Donné et.al.|[2602.15401](http://arxiv.org/abs/2602.15401)|null|
+|**2026-02-17**|**OSCAR: An Ovipositor-Inspired Self-Propelling Capsule Robot for Colonoscopy**|Mostafa A. Atalla et.al.|[2602.15309](http://arxiv.org/abs/2602.15309)|null|
+|**2026-02-16**|**Coupled Map Lattice for Astronomical Object Formation: A Scenario for Evolution from Star to Disk, Arms, and Companions**|Erika Nozawa et.al.|[2602.15083](http://arxiv.org/abs/2602.15083)|null|
 |**2026-02-16**|**Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide**|Yongjian Zhou et.al.|[2602.15002](http://arxiv.org/abs/2602.15002)|null|
 |**2026-02-16**|**Wavemaker and endogeneity of gravitationally stretched weakly viscoelastic jets**|Daniel Moreno-Boza et.al.|[2602.14627](http://arxiv.org/abs/2602.14627)|null|
 |**2026-02-15**|**Autonomous Robotic Tissue Palpation and Abnormalities Characterisation via Ergodic Exploration**|Luca Beber et.al.|[2602.14287](http://arxiv.org/abs/2602.14287)|null|
@@ -207,6 +217,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
+|**2026-02-17**|**PRISM: Photonics-Informed Inverse Lithography for Manufacturable Inverse-Designed Photonic Integrated Circuits**|Hongjian Zhou et.al.|[2602.15762](http://arxiv.org/abs/2602.15762)|null|
+|**2026-02-17**|**Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries**|Belén Martín-Urcelay et.al.|[2602.15738](http://arxiv.org/abs/2602.15738)|null|
+|**2026-02-17**|**Bayesian Optimization for Design Parameters of 3D Image Data Analysis**|David Exler et.al.|[2602.15660](http://arxiv.org/abs/2602.15660)|null|
+|**2026-02-17**|**Guided Diffusion by Optimized Loss Functions on Relaxed Parameters for Inverse Material Design**|Jens U. Kreber et.al.|[2602.15648](http://arxiv.org/abs/2602.15648)|null|
+|**2026-02-17**|**Uni-Flow: a unified autoregressive-diffusion model for complex multiscale flows**|Xiao Xue et.al.|[2602.15592](http://arxiv.org/abs/2602.15592)|null|
+|**2026-02-17**|**Adjusted Scores for Discrete Langevin Algorithms**|Armand Gissler et.al.|[2602.15587](http://arxiv.org/abs/2602.15587)|null|
+|**2026-02-17**|**Latent Regularization in Generative Test Input Generation**|Giorgi Merabishvili et.al.|[2602.15552](http://arxiv.org/abs/2602.15552)|null|
+|**2026-02-17**|**CEPAE: Conditional Entropy-Penalized Autoencoders for Time Series Counterfactuals**|Tomàs Garriga et.al.|[2602.15546](http://arxiv.org/abs/2602.15546)|null|
+|**2026-02-17**|**Fine-Refine: Iterative Fine-grained Refinement for Mitigating Dialogue Hallucination**|Xiangyan Chen et.al.|[2602.15509](http://arxiv.org/abs/2602.15509)|null|
 |**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
 |**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
 |**2026-02-16**|**Scaling Beyond Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2602.15014](http://arxiv.org/abs/2602.15014)|null|
@@ -382,6 +402,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Temperley-Lieb modules and local operators for critical ADE models**|Yacine Ikhlef et.al.|[2602.15742](http://arxiv.org/abs/2602.15742)|null|
+|**2026-02-17**|**Entropy production reveals hidden dynamical constraints rather than stochastic disorder**|Patrick Romanescu et.al.|[2602.15663](http://arxiv.org/abs/2602.15663)|null|
+|**2026-02-17**|**Self-phoretic oscillatory motion in a one-dimensional channel**|Leah Anderson et.al.|[2602.15657](http://arxiv.org/abs/2602.15657)|null|
+|**2026-02-17**|**Equilibrium statistical mechanics of waves in inhomogeneous moving media**|Alexandre Tlili et.al.|[2602.15639](http://arxiv.org/abs/2602.15639)|null|
+|**2026-02-17**|**Fastest first-passage time for multiple searchers with finite speed**|Denis S. Grebenkov et.al.|[2602.15627](http://arxiv.org/abs/2602.15627)|null|
+|**2026-02-17**|**Observing quantum many-body dynamics in emergent curved spacetime using programmable quantum processors**|Brendan Rhyno et.al.|[2602.15524](http://arxiv.org/abs/2602.15524)|null|
+|**2026-02-17**|**Anomalous transport in the Fermi-Pasta-Ulam-Tsingou model: a review and open problems**|Stefano Lepri et.al.|[2602.15512](http://arxiv.org/abs/2602.15512)|null|
+|**2026-02-17**|**Ising Model with Power Law Resetting**|Anagha V K et.al.|[2602.15495](http://arxiv.org/abs/2602.15495)|null|
+|**2026-02-17**|**Generalized Geometric Brownian motion and the Infinite Ergodicity concept**|S. Giordano et.al.|[2602.15494](http://arxiv.org/abs/2602.15494)|null|
+|**2026-02-17**|**Effects of quenched disorder in three-dimensional lattice ${\mathbb Z}_2$ gauge Higgs models**|Claudio Bonati et.al.|[2602.15418](http://arxiv.org/abs/2602.15418)|null|
 |**2026-02-16**|**Modeling isolated magnetar spin-down evolution and implications for long-period radio transients**|Jon Kwong et.al.|[2602.15024](http://arxiv.org/abs/2602.15024)|null|
 |**2026-02-16**|**Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces**|Nicolaï Gouraud et.al.|[2602.14975](http://arxiv.org/abs/2602.14975)|null|
 |**2026-02-16**|**From Classical to Quantum: Extending Prometheus for Unsupervised Discovery of Phase Transitions in Three Dimensions and Quantum Systems**|Brandon Yee et.al.|[2602.14928](http://arxiv.org/abs/2602.14928)|null|
@@ -557,6 +587,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Effects of quenched disorder in three-dimensional lattice ${\mathbb Z}_2$ gauge Higgs models**|Claudio Bonati et.al.|[2602.15418](http://arxiv.org/abs/2602.15418)|null|
 |**2026-02-16**|**Strongly correlated Josephson junction: proximity effect in the single-layer Hubbard model**|Don Rolih et.al.|[2602.14796](http://arxiv.org/abs/2602.14796)|null|
 |**2026-02-16**|**Programming active-molecule dynamics via intramolecular nonreciprocity**|Ye Zhang et.al.|[2602.14400](http://arxiv.org/abs/2602.14400)|null|
 |**2026-02-11**|**StrAPS: Structural Angular Power Spectrum for Discovering Novel Morphologies in Block Copolymers**|Dominic M. Robe et.al.|[2602.13337](http://arxiv.org/abs/2602.13337)|null|
@@ -635,6 +666,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Surface Block Identity Controls Transport of Symmetric Diblock Copolymer Through Nanopores**|Sang Yup Lee et.al.|[2602.15795](http://arxiv.org/abs/2602.15795)|null|
+|**2026-02-17**|**Revealing 3D Strain and Carbide Architectures in Additively Manufactured Ni Superalloys**|James A. D. Ball et.al.|[2602.15729](http://arxiv.org/abs/2602.15729)|null|
 |**2026-02-14**|**Biocompatibility of Additively Manufactured Fe-AZ31 Biodegradable Composites for Craniofacial Implant Applications**|Xue Dong et.al.|[2602.13535](http://arxiv.org/abs/2602.13535)|null|
 |**2026-02-12**|**Systematic Analysis of Penalty-Optimised Illumination Design for Tomographic Volumetric Additive Manufacturing via the Extendable Framework TVAM AID Using the Core Imaging Library**|Nicole Pellizzon et.al.|[2602.12178](http://arxiv.org/abs/2602.12178)|null|
 |**2026-02-10**|**Benchmarking of Massively Parallel Phase-Field Codes for Directional Solidification**|Jiefu Tian et.al.|[2602.10316](http://arxiv.org/abs/2602.10316)|null|
@@ -697,6 +730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
+|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
+|**2026-02-17**|**Computation and Size of Interpolants for Hybrid Modal Logics**|Jean Christoph Jung et.al.|[2602.15821](http://arxiv.org/abs/2602.15821)|null|
+|**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
+|**2026-02-17**|**Avey-B**|Devang Acharya et.al.|[2602.15814](http://arxiv.org/abs/2602.15814)|null|
+|**2026-02-17**|**Decision Quality Evaluation Framework at Pinterest**|Yuqi Tian et.al.|[2602.15809](http://arxiv.org/abs/2602.15809)|null|
+|**2026-02-17**|**Deformed Heisenberg algebra and its Hilbert space representations**|Latévi M. Lawson et.al.|[2602.15801](http://arxiv.org/abs/2602.15801)|null|
+|**2026-02-17**|**Entanglement in the Dicke subspace**|Aabhas Gulati et.al.|[2602.15800](http://arxiv.org/abs/2602.15800)|null|
+|**2026-02-17**|**Meteorological data and Sky Images meets Neural Models for Photovoltaic Power Forecasting**|Ines Montoya-Espinagosa et.al.|[2602.15782](http://arxiv.org/abs/2602.15782)|null|
+|**2026-02-17**|**TAC: Timestamped Audio Captioning**|Sonal Kumar et.al.|[2602.15766](http://arxiv.org/abs/2602.15766)|null|
 |**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
 |**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
 |**2026-02-16**|**Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
