@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection**|Yichen Lu et.al.|[2602.17484](http://arxiv.org/abs/2602.17484)|null|
 |**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
 |**2026-02-18**|**BAT: Better Audio Transformer Guided by Convex Gated Probing**|Houtan Ghaffari et.al.|[2602.16305](http://arxiv.org/abs/2602.16305)|null|
 |**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[2602.15967](http://arxiv.org/abs/2602.15967)|null|
@@ -122,6 +123,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Charge and energy transport in graphene with smooth finite-range disorder**|Juan A. Cañas et.al.|[2602.17453](http://arxiv.org/abs/2602.17453)|null|
+|**2026-02-19**|**Effect of oxygen content on optical, structural, and dielectric properties of Al $_x$Ta$_y$O$_z$$ thin films**|Pavel Ondračka et.al.|[2602.17302](http://arxiv.org/abs/2602.17302)|null|
+|**2026-02-19**|**Dielectric Screening in Floquet-Volkov Dressing of Semiconductors**|Quentin Courtade et.al.|[2602.17214](http://arxiv.org/abs/2602.17214)|null|
+|**2026-02-19**|**Penetration of impact-induced jets into skin-simulating materials**|Kohei Yamagata et.al.|[2602.17156](http://arxiv.org/abs/2602.17156)|null|
+|**2026-02-19**|**Rotational Soft Modes and Octahedral Distortion as Design Principles for Ultralow Thermal Conductivity in Halide Materials**|Yu Wu et.al.|[2602.17147](http://arxiv.org/abs/2602.17147)|null|
+|**2026-02-19**|**Fluid viscoelasticity controls acoustic streaming via shear waves**|T. Sujith et.al.|[2602.17081](http://arxiv.org/abs/2602.17081)|null|
 |**2026-02-18**|**Computation of thermal conductivity based on Path Integral Monte Carlo methods**|Vladislav Efremkin et.al.|[2602.16405](http://arxiv.org/abs/2602.16405)|null|
 |**2026-02-18**|**Enhanced Graphene-Water Thermal Transport via Edge Functionalization without Compromising In-Plane Thermal Conductivity**|John Crosby et.al.|[2602.16121](http://arxiv.org/abs/2602.16121)|null|
 |**2026-02-17**|**Revealing 3D Strain and Carbide Architectures in Additively Manufactured Ni Superalloys**|James A. D. Ball et.al.|[2602.15729](http://arxiv.org/abs/2602.15729)|null|
@@ -222,6 +229,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
+|**2026-02-19**|**Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery**|Jowaria Khan et.al.|[2602.17605](http://arxiv.org/abs/2602.17605)|null|
+|**2026-02-19**|**MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models**|Hojung Jung et.al.|[2602.17602](http://arxiv.org/abs/2602.17602)|null|
+|**2026-02-19**|**Art2Mus: Artwork-to-Music Generation via Visual Conditioning and Large-Scale Cross-Modal Alignment**|Ivan Rinaldi et.al.|[2602.17599](http://arxiv.org/abs/2602.17599)|null|
+|**2026-02-19**|**Discovery of Polymer Electrolytes with Bayesian Optimization and High-Throughput Molecular Dynamics simulations**|Antonia S. Kuhn et.al.|[2602.17595](http://arxiv.org/abs/2602.17595)|null|
+|**2026-02-19**|**Interpretable Machine Learning of Nanoparticle Stability through Topological Layer Embeddings**|Felipe Hawthorne et.al.|[2602.17528](http://arxiv.org/abs/2602.17528)|null|
+|**2026-02-19**|**Variational Grey-Box Dynamics Matching**|Gurjeet Sangra Singh et.al.|[2602.17477](http://arxiv.org/abs/2602.17477)|null|
+|**2026-02-19**|**A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities**|Michele Zanitti et.al.|[2602.17402](http://arxiv.org/abs/2602.17402)|null|
+|**2026-02-19**|**Physics Encoded Spatial and Temporal Generative Adversarial Network for Tropical Cyclone Image Super-resolution**|Ruoyi Zhang et.al.|[2602.17277](http://arxiv.org/abs/2602.17277)|null|
+|**2026-02-19**|**WFST Supernovae in the First Year: III. Systematical Study of the Photometric Behavior of Early-phase Core-collapse Supernovae**|Junhan Zhao et.al.|[2602.17275](http://arxiv.org/abs/2602.17275)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
 |**2026-02-18**|**Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens**|Potsawee Manakul et.al.|[2602.16687](http://arxiv.org/abs/2602.16687)|null|
 |**2026-02-18**|**Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models**|Yu Xie et.al.|[2602.16634](http://arxiv.org/abs/2602.16634)|null|
@@ -417,6 +434,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|
+|**2026-02-19**|**Realization of fractional Fermi seas**|Yi Zeng et.al.|[2602.17657](http://arxiv.org/abs/2602.17657)|null|
+|**2026-02-19**|**Exotic critical states as fractional Fermi seas in the one-dimensional Bose gas**|Alvise Bastianello et.al.|[2602.17656](http://arxiv.org/abs/2602.17656)|null|
+|**2026-02-19**|**Planckian bound on the local equilibration time**|Marvin Qi et.al.|[2602.17638](http://arxiv.org/abs/2602.17638)|null|
+|**2026-02-19**|**Towards Anytime-Valid Statistical Watermarking**|Baihe Huang et.al.|[2602.17608](http://arxiv.org/abs/2602.17608)|null|
+|**2026-02-19**|**Momentum Measurement of Charged Particles in FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2602.17575](http://arxiv.org/abs/2602.17575)|null|
+|**2026-02-19**|**Hybrid Monte Carlo for Fractional Quantum Hall States**|Ting-Tung Wang et.al.|[2602.17564](http://arxiv.org/abs/2602.17564)|null|
+|**2026-02-19**|**Matrix-product operator dualities in integrable lattice models**|Yuan Miao et.al.|[2602.17436](http://arxiv.org/abs/2602.17436)|null|
+|**2026-02-19**|**A covariant fermionic path integral for scalar Langevin processes with multiplicative white noise**|Daniel G. Barci et.al.|[2602.17398](http://arxiv.org/abs/2602.17398)|null|
+|**2026-02-19**|**Quantifying non-Markovianity in magnetization dynamics via entropy production rates**|Felix Hartmann et.al.|[2602.17384](http://arxiv.org/abs/2602.17384)|null|
 |**2026-02-18**|**Optimizing p-spin models through hypergraph neural networks and deep reinforcement learning**|Li Zeng et.al.|[2602.16665](http://arxiv.org/abs/2602.16665)|null|
 |**2026-02-18**|**Exponential concentration of fluctuations in mean-field boson dynamics**|Matias Gabriel Ginzburg et.al.|[2602.16658](http://arxiv.org/abs/2602.16658)|null|
 |**2026-02-18**|**Factorization Machine with Quadratic-Optimization Annealing for RNA Inverse Folding and Evaluation of Binary-Integer Encoding and Nucleotide Assignment**|Shuta Kikuchi et.al.|[2602.16643](http://arxiv.org/abs/2602.16643)|null|
@@ -612,6 +639,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**An Allen-Cahn equation with jump-diffusion noise for biological damage and repair processes**|Andrea Di Primio et.al.|[2602.17495](http://arxiv.org/abs/2602.17495)|null|
 |**2026-02-18**|**Phase-Field Models for Particle-Stabilised Emulsions**|Elisabeth C. Eij et.al.|[2602.16622](http://arxiv.org/abs/2602.16622)|null|
 |**2026-02-17**|**Super Arrhenius temperature dependent viscosity due to liquid-liquid phase separation in the super-cooled Kob-Andersen model**|Jayme Brickley et.al.|[2602.16060](http://arxiv.org/abs/2602.16060)|null|
 |**2026-02-17**|**Effects of quenched disorder in three-dimensional lattice ${\mathbb Z}_2$ gauge Higgs models**|Claudio Bonati et.al.|[2602.15418](http://arxiv.org/abs/2602.15418)|null|
@@ -693,6 +721,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**3D-printed Soft Optical sensor with a Lens (SOLen) for light guidance in mechanosensing**|Diana Cafiso et.al.|[2602.17421](http://arxiv.org/abs/2602.17421)|null|
 |**2026-02-18**|**In-Situ Analysis of Vibration and Acoustic Data in Additive Manufacturing**|Muhammad Fasih Waheed et.al.|[2602.16119](http://arxiv.org/abs/2602.16119)|null|
 |**2026-02-18**|**Advancing Industry 4.0: Multimodal Sensor Fusion for AI-Based Fault Detection in 3D Printing**|Muhammad Fasih Waheed et.al.|[2602.16108](http://arxiv.org/abs/2602.16108)|null|
 |**2026-02-17**|**Surface Block Identity Controls Transport of Symmetric Diblock Copolymer Through Nanopores**|Sang Yup Lee et.al.|[2602.15795](http://arxiv.org/abs/2602.15795)|null|
@@ -731,6 +760,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Discovery of Polymer Electrolytes with Bayesian Optimization and High-Throughput Molecular Dynamics simulations**|Antonia S. Kuhn et.al.|[2602.17595](http://arxiv.org/abs/2602.17595)|null|
 |**2026-02-15**|**Delocalisation explains efficient transport and charge generation in neat Y6 organic photovoltaics**|Daniel Balzer et.al.|[2602.14097](http://arxiv.org/abs/2602.14097)|null|
 |**2026-02-13**|**Eco-Friendly Supercapacitor Architecture Based on Cotton Textile Waste and Biopolymer-Based Electrodes**|Luis Torres Quispe et.al.|[2602.13432](http://arxiv.org/abs/2602.13432)|null|
 |**2026-02-13**|**Starch granules are instructive scaffolds for synergistic reinforcement and dissipation in hydrogel composites**|Shirlaine Juliano et.al.|[2602.12538](http://arxiv.org/abs/2602.12538)|null|
@@ -759,6 +789,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|null|
+|**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|
+|**2026-02-19**|**Benchmarking quantum phase-space methods for near-resonant light propagation**|Mojdeh S. Najafabadi et.al.|[2602.17660](http://arxiv.org/abs/2602.17660)|null|
+|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|
+|**2026-02-19**|**Exotic critical states as fractional Fermi seas in the one-dimensional Bose gas**|Alvise Bastianello et.al.|[2602.17656](http://arxiv.org/abs/2602.17656)|null|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
+|**2026-02-19**|**IntRec: Intent-based Retrieval with Contrastive Refinement**|Pourya Shamsolmoali et.al.|[2602.17639](http://arxiv.org/abs/2602.17639)|null|
+|**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
+|**2026-02-19**|**Unmasking the Factual-Conceptual Gap in Persian Language Models**|Alireza Sakhaeirad et.al.|[2602.17623](http://arxiv.org/abs/2602.17623)|null|
+|**2026-02-19**|**What Makes a Good LLM Agent for Real-world Penetration Testing?**|Gelei Deng et.al.|[2602.17622](http://arxiv.org/abs/2602.17622)|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|
 |**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
 |**2026-02-18**|**Causality is Key for Interpretability Claims to Generalise**|Shruti Joshi et.al.|[2602.16698](http://arxiv.org/abs/2602.16698)|null|
