@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis**|Junkai Liu et.al.|[2602.17901](http://arxiv.org/abs/2602.17901)|null|
+|**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|null|
 |**2026-02-19**|**Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection**|Yichen Lu et.al.|[2602.17484](http://arxiv.org/abs/2602.17484)|null|
 |**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
 |**2026-02-18**|**BAT: Better Audio Transformer Guided by Convex Gated Probing**|Houtan Ghaffari et.al.|[2602.16305](http://arxiv.org/abs/2602.16305)|null|
@@ -123,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models**|Chenyi Ji et.al.|[2602.17750](http://arxiv.org/abs/2602.17750)|null|
 |**2026-02-19**|**Charge and energy transport in graphene with smooth finite-range disorder**|Juan A. Cañas et.al.|[2602.17453](http://arxiv.org/abs/2602.17453)|null|
 |**2026-02-19**|**Effect of oxygen content on optical, structural, and dielectric properties of Al $_x$Ta$_y$O$_z$$ thin films**|Pavel Ondračka et.al.|[2602.17302](http://arxiv.org/abs/2602.17302)|null|
 |**2026-02-19**|**Dielectric Screening in Floquet-Volkov Dressing of Semiconductors**|Quentin Courtade et.al.|[2602.17214](http://arxiv.org/abs/2602.17214)|null|
@@ -229,6 +232,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**|Mojtaba Sahraee-Ardakan et.al.|[2602.18428](http://arxiv.org/abs/2602.18428)|null|
+|**2026-02-20**|**Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks**|Kameswara Bharadwaj Mantha et.al.|[2602.18426](http://arxiv.org/abs/2602.18426)|null|
+|**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
+|**2026-02-20**|**Exploiting Completeness Perception with Diffusion Transformer for Unified 3D MRI Synthesis**|Junkai Liu et.al.|[2602.18400](http://arxiv.org/abs/2602.18400)|null|
+|**2026-02-20**|**A stochastic simulation of the dislocation-mediated etching of porous GaN distributed Bragg reflectors**|Piotr Sokolinski et.al.|[2602.18336](http://arxiv.org/abs/2602.18336)|null|
+|**2026-02-20**|**Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation**|Ziyue Liu et.al.|[2602.18309](http://arxiv.org/abs/2602.18309)|null|
+|**2026-02-20**|**Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies**|Zhuoran Li et.al.|[2602.18291](http://arxiv.org/abs/2602.18291)|null|
+|**2026-02-20**|**Variational Distributional Neuron**|Yves Ruffenach et.al.|[2602.18250](http://arxiv.org/abs/2602.18250)|null|
+|**2026-02-20**|**Generative Model via Quantile Assignment**|Georgi Hrusanov et.al.|[2602.18216](http://arxiv.org/abs/2602.18216)|null|
 |**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
 |**2026-02-19**|**Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery**|Jowaria Khan et.al.|[2602.17605](http://arxiv.org/abs/2602.17605)|null|
 |**2026-02-19**|**MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models**|Hojung Jung et.al.|[2602.17602](http://arxiv.org/abs/2602.17602)|null|
@@ -434,6 +447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Convex Block-Cholesky Approach to Risk-Constrained Low-thrust Trajectory Design under Operational Uncertainty**|Kenshiro Oguri et.al.|[2602.18416](http://arxiv.org/abs/2602.18416)|null|
+|**2026-02-20**|**Near-optimality of conservative driving in discrete systems**|Jann van der Meer et.al.|[2602.18321](http://arxiv.org/abs/2602.18321)|null|
+|**2026-02-20**|**Analytical solutions for a charged particle with white, thermal, and active noises in the presence of a uniform magnetic field**|Y. J. Kang et.al.|[2602.18273](http://arxiv.org/abs/2602.18273)|null|
+|**2026-02-20**|**Higher-order spatial photon interference versus dipole blockade effect**|Arthur Rotari et.al.|[2602.18269](http://arxiv.org/abs/2602.18269)|null|
+|**2026-02-20**|**Emergence of generic first-passage time distributions for large Markovian networks**|Julian B. Voits et.al.|[2602.18265](http://arxiv.org/abs/2602.18265)|null|
+|**2026-02-20**|**Machine-learning force-field models for dynamical simulations of metallic magnets**|Gia-Wei Chern et.al.|[2602.18213](http://arxiv.org/abs/2602.18213)|null|
+|**2026-02-20**|**Twisted symmetric exclusion processes and set-theoretical $R$ -matrices**|Mathieu Dabrowski et.al.|[2602.18204](http://arxiv.org/abs/2602.18204)|null|
+|**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
+|**2026-02-20**|**A contour for the entanglement negativity of bosonic Gaussian states**|Gioele Zambotti et.al.|[2602.18099](http://arxiv.org/abs/2602.18099)|null|
+|**2026-02-20**|**A mobility based approach to transport in chiral fluids**|Filippo Faedi et.al.|[2602.18091](http://arxiv.org/abs/2602.18091)|null|
 |**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|
 |**2026-02-19**|**Realization of fractional Fermi seas**|Yi Zeng et.al.|[2602.17657](http://arxiv.org/abs/2602.17657)|null|
 |**2026-02-19**|**Exotic critical states as fractional Fermi seas in the one-dimensional Bose gas**|Alvise Bastianello et.al.|[2602.17656](http://arxiv.org/abs/2602.17656)|null|
@@ -639,6 +662,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Solutocapillary bubble centering in a confined ethanol plume in water**|Tobias Baier et.al.|[2602.18349](http://arxiv.org/abs/2602.18349)|null|
+|**2026-02-20**|**Machine-learning force-field models for dynamical simulations of metallic magnets**|Gia-Wei Chern et.al.|[2602.18213](http://arxiv.org/abs/2602.18213)|null|
 |**2026-02-19**|**An Allen-Cahn equation with jump-diffusion noise for biological damage and repair processes**|Andrea Di Primio et.al.|[2602.17495](http://arxiv.org/abs/2602.17495)|null|
 |**2026-02-18**|**Phase-Field Models for Particle-Stabilised Emulsions**|Elisabeth C. Eij et.al.|[2602.16622](http://arxiv.org/abs/2602.16622)|null|
 |**2026-02-17**|**Super Arrhenius temperature dependent viscosity due to liquid-liquid phase separation in the super-cooled Kob-Andersen model**|Jayme Brickley et.al.|[2602.16060](http://arxiv.org/abs/2602.16060)|null|
@@ -721,6 +746,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks**|Lionel Salesses et.al.|[2602.18146](http://arxiv.org/abs/2602.18146)|null|
+|**2026-02-19**|**Optimization of Higher-Order Harmonic Surface Tessellations for Additively Manufactured Air-to-Air Heat Exchangers**|Patrick Adegbaye et.al.|[2602.17824](http://arxiv.org/abs/2602.17824)|null|
 |**2026-02-19**|**3D-printed Soft Optical sensor with a Lens (SOLen) for light guidance in mechanosensing**|Diana Cafiso et.al.|[2602.17421](http://arxiv.org/abs/2602.17421)|null|
 |**2026-02-18**|**In-Situ Analysis of Vibration and Acoustic Data in Additive Manufacturing**|Muhammad Fasih Waheed et.al.|[2602.16119](http://arxiv.org/abs/2602.16119)|null|
 |**2026-02-18**|**Advancing Industry 4.0: Multimodal Sensor Fusion for AI-Based Fault Detection in 3D Printing**|Muhammad Fasih Waheed et.al.|[2602.16108](http://arxiv.org/abs/2602.16108)|null|
@@ -789,6 +816,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Chandra Proper Motions and Milliarcsecond Astrometry of Nineteen Pulsars**|Jack T. Dinsmore et.al.|[2602.18436](http://arxiv.org/abs/2602.18436)|null|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
+|**2026-02-20**|**Polytopes of alternating sign matrices with dihedral-subgroup symmetry**|Péter Madarasi et.al.|[2602.18427](http://arxiv.org/abs/2602.18427)|null|
+|**2026-02-20**|**CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation**|Xia Su et.al.|[2602.18424](http://arxiv.org/abs/2602.18424)|null|
+|**2026-02-20**|**SPQ: An Ensemble Technique for Large Language Model Compression**|Jiamin Yao et.al.|[2602.18420](http://arxiv.org/abs/2602.18420)|null|
+|**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[2602.18419](http://arxiv.org/abs/2602.18419)|null|
+|**2026-02-20**|**Latent Equivariant Operators for Robust Object Recognition: Promise and Challenges**|Minh Dinh et.al.|[2602.18406](http://arxiv.org/abs/2602.18406)|null|
+|**2026-02-20**|**Self-Aware Object Detection via Degradation Manifolds**|Stefan Becker et.al.|[2602.18394](http://arxiv.org/abs/2602.18394)|null|
+|**2026-02-20**|**Two-over-Two Lattice Flavor from a Single Flavon with Three Messenger Chains**|Vernon Barger et.al.|[2602.18393](http://arxiv.org/abs/2602.18393)|null|
 |**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|null|
 |**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|
 |**2026-02-19**|**Benchmarking quantum phase-space methods for near-resonant light propagation**|Mojdeh S. Najafabadi et.al.|[2602.17660](http://arxiv.org/abs/2602.17660)|null|
