@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction**|Jiele Wu et.al.|[2602.20344](http://arxiv.org/abs/2602.20344)|null|
+|**2026-02-23**|**Fast Spectrogram Event Extraction via Offline Self-Supervised Learning: From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
 |**2026-02-22**|**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**|Sirine Bhouri et.al.|[2602.19348](http://arxiv.org/abs/2602.19348)|null|
 |**2026-02-22**|**US-JEPA: A Joint Embedding Predictive Architecture for Medical Ultrasound**|Ashwath Radhachandran et.al.|[2602.19322](http://arxiv.org/abs/2602.19322)|null|
@@ -144,6 +146,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Closed-loop control of a monolithically 3D nano-printed electromagnetic lens scanner with an integrated Hall sensor**|Florian Lux et.al.|[2602.20779](http://arxiv.org/abs/2602.20779)|null|
 |**2026-02-23**|**Role of octahedral tilting induced acoustic softening on limiting thermal transport in SrSnO3**|Yuzhou Hao et.al.|[2602.20142](http://arxiv.org/abs/2602.20142)|null|
 |**2026-02-23**|**Tunable dislocations overcome mechano-functional tradeoff in perovskite oxides**|Jiawen Zhang et.al.|[2602.20121](http://arxiv.org/abs/2602.20121)|null|
 |**2026-02-23**|**Dielectric response in proteins: The proteotronics approach**|E. Alfinito et.al.|[2602.19899](http://arxiv.org/abs/2602.19899)|null|
@@ -263,6 +266,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Human Video Generation from a Single Image with 3D Pose and View Control**|Tiantian Wang et.al.|[2602.21188](http://arxiv.org/abs/2602.21188)|null|
+|**2026-02-24**|**The Diffusion Duality, Chapter II: $Ψ$ -Samplers and Efficient Curriculum**|Justin Deschenaux et.al.|[2602.21185](http://arxiv.org/abs/2602.21185)|null|
+|**2026-02-24**|**SOM-VQ: Topology-Aware Tokenization for Interactive Generative Models**|Alessandro Londei et.al.|[2602.21133](http://arxiv.org/abs/2602.21133)|null|
+|**2026-02-24**|**Accessibility of doping ranges of semiconductors by terahertz spectroscopy**|Joshua Hennig et.al.|[2602.21094](http://arxiv.org/abs/2602.21094)|null|
+|**2026-02-24**|**Cycle-Consistent Tuning for Layered Image Decomposition**|Zheng Gu et.al.|[2602.20989](http://arxiv.org/abs/2602.20989)|null|
+|**2026-02-24**|**Determining Atomic Structure from Spectroscopy via an Active Learning Framework**|Ian Slagle et.al.|[2602.20959](http://arxiv.org/abs/2602.20959)|null|
+|**2026-02-24**|**See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis**|Jaehyun Park et.al.|[2602.20951](http://arxiv.org/abs/2602.20951)|null|
+|**2026-02-24**|**ParkDiffusion++: Ego Intention Conditioned Joint Multi-Agent Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2602.20923](http://arxiv.org/abs/2602.20923)|null|
+|**2026-02-24**|**Task-oriented grasping for dexterous robots using postural synergies and reinforcement learning**|Dimitrios Dimou et.al.|[2602.20915](http://arxiv.org/abs/2602.20915)|null|
+|**2026-02-24**|**When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance**|Yongli Xiang et.al.|[2602.20880](http://arxiv.org/abs/2602.20880)|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
 |**2026-02-23**|**Benchmarking Unlearning for Vision Transformers**|Kairan Zhao et.al.|[2602.20114](http://arxiv.org/abs/2602.20114)|null|
 |**2026-02-23**|**SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis**|Xinya Chen et.al.|[2602.20079](http://arxiv.org/abs/2602.20079)|null|
@@ -490,6 +503,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Exact quantum transport in non-Markovian open Gaussian systems**|Guglielmo Pellitteri et.al.|[2602.21190](http://arxiv.org/abs/2602.21190)|null|
+|**2026-02-24**|**Density Functional Theory Predictions of Derivative Thermodynamic Properties of a Confined Fluid**|Gennady Y. Gor et.al.|[2602.21111](http://arxiv.org/abs/2602.21111)|null|
+|**2026-02-24**|**Beyond Mean Field: Fluctuation Diagnostics and Fixed-Point Behavior**|Pok Man Lo et.al.|[2602.21095](http://arxiv.org/abs/2602.21095)|null|
+|**2026-02-24**|**Probing frustrated spin systems with impurities**|Maksymilian Kliczkowski et.al.|[2602.21086](http://arxiv.org/abs/2602.21086)|null|
+|**2026-02-24**|**Criticality Beyond Nonanalyticity: Intrinsic Microcanonical Signatures of Phase Transitions**|Loris Di Cairano et.al.|[2602.21003](http://arxiv.org/abs/2602.21003)|null|
+|**2026-02-24**|**Error correction with brickwork Clifford circuits**|Twan Kroll et.al.|[2602.20900](http://arxiv.org/abs/2602.20900)|null|
+|**2026-02-24**|**The Jammed Phase of Infinitely Persistent Active Matter**|M. C. Gandikota et.al.|[2602.20776](http://arxiv.org/abs/2602.20776)|null|
+|**2026-02-24**|**Tipping points in complex ecological systems**|Alan Hastings et.al.|[2602.20702](http://arxiv.org/abs/2602.20702)|null|
+|**2026-02-24**|**Spatial Entanglement Sudden Death in Spin Chains at All Temperatures**|Samuel O. Scalet et.al.|[2602.20694](http://arxiv.org/abs/2602.20694)|null|
+|**2026-02-24**|**Physics-based phenomenological characterization of cross-modal bias in multimodal models**|Hyeongmo Kim et.al.|[2602.20624](http://arxiv.org/abs/2602.20624)|null|
 |**2026-02-23**|**Development of a Cherenkov-Based Time-of-Flight Detector Using Silicon Photomultipliers**|Liliana Congedo et.al.|[2602.20139](http://arxiv.org/abs/2602.20139)|null|
 |**2026-02-23**|**Enormous Fluid Antenna Systems (E-FAS)--Part II: Channel Estimation**|Farshad Rostami Ghadi et.al.|[2602.20127](http://arxiv.org/abs/2602.20127)|null|
 |**2026-02-23**|**Energy gap of quantum spin glasses: a projection quantum Monte Carlo study**|L. Brodoloni et.al.|[2602.20108](http://arxiv.org/abs/2602.20108)|null|
@@ -717,7 +740,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-20**|**The Interplay Between Liquid-Liquid Phase Equilibria, Sequence, and Tg in Copolymers**|Makayla R. Branham-Ferrari et.al.|[2602.18659](http://arxiv.org/abs/2602.18659)|null|
+|**2026-02-24**|**Semantic Novelty at Scale: Narrative Shape Taxonomy and Readership Prediction in 28,606 Books**|W. Frederick Zimmerman et.al.|[2602.20647](http://arxiv.org/abs/2602.20647)|null|
+|**2026-02-24**|**The Interplay Between Liquid-Liquid Phase Equilibria, Sequence, and Tg in Copolymers**|Makayla R. Branham-Ferrari et.al.|[2602.18659](http://arxiv.org/abs/2602.18659)|null|
 |**2026-02-20**|**Solutocapillary bubble centering in a confined ethanol plume in water**|Tobias Baier et.al.|[2602.18349](http://arxiv.org/abs/2602.18349)|null|
 |**2026-02-20**|**Machine-learning force-field models for dynamical simulations of metallic magnets**|Gia-Wei Chern et.al.|[2602.18213](http://arxiv.org/abs/2602.18213)|null|
 |**2026-02-19**|**An Allen-Cahn equation with jump-diffusion noise for biological damage and repair processes**|Andrea Di Primio et.al.|[2602.17495](http://arxiv.org/abs/2602.17495)|null|
@@ -773,6 +797,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Automated Detection and Mitigation of Dependability Failures in Healthcare Scenarios through Digital Twins**|Bruno Guindani et.al.|[2602.21037](http://arxiv.org/abs/2602.21037)|null|
 |**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
 |**2026-02-15**|**GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training**|Yuan Cao et.al.|[2602.14093](http://arxiv.org/abs/2602.14093)|null|
 |**2026-02-13**|**Protect $^*$ : Steerable Retrosynthesis through Neuro-Symbolic State Encoding**|Shreyas Vinaya Sathyanarayana et.al.|[2602.13419](http://arxiv.org/abs/2602.13419)|null|
@@ -881,6 +906,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs**|Yining Hong et.al.|[2602.21198](http://arxiv.org/abs/2602.21198)|null|
+|**2026-02-24**|**The Universe Fan**|Hadleigh Frost et.al.|[2602.21194](http://arxiv.org/abs/2602.21194)|null|
+|**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
+|**2026-02-24**|**Bayesian Parametric Portfolio Policies**|Miguel C. Herculano et.al.|[2602.21173](http://arxiv.org/abs/2602.21173)|null|
+|**2026-02-24**|**Revisiting CPL with sign-switching density: to cross or not to cross the NECB**|Mine Gökçen et.al.|[2602.21169](http://arxiv.org/abs/2602.21169)|null|
+|**2026-02-24**|**Wireless-Fed Pinching-Antenna Systems with Horn Antennas**|Hao Feng et.al.|[2602.21167](http://arxiv.org/abs/2602.21167)|null|
+|**2026-02-24**|**A Novel Explicit Filter for the Approximate Deconvolution in Large-Eddy Simulation on General Unstructured Grids: A posteriori tests on highly stretched grids**|Mohammad Bagher Molaei et.al.|[2602.21166](http://arxiv.org/abs/2602.21166)|null|
+|**2026-02-24**|**Phase-Aware Localization in Pinching Antenna Systems: CRLB Analysis and ML Estimation**|Hao Feng et.al.|[2602.21162](http://arxiv.org/abs/2602.21162)|null|
+|**2026-02-24**|**Not Just How Much, But Where: Decomposing Epistemic Uncertainty into Per-Class Contributions**|Mame Diarra Toure et.al.|[2602.21160](http://arxiv.org/abs/2602.21160)|null|
+|**2026-02-24**|**SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards**|Dengjia Zhang et.al.|[2602.21158](http://arxiv.org/abs/2602.21158)|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
 |**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|
 |**2026-02-23**|**Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning**|Zhongxiao Cong et.al.|[2602.20157](http://arxiv.org/abs/2602.20157)|null|
