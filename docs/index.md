@@ -9,9 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**RhythmBERT: A Self-Supervised Language Model Based on Latent Representations of ECG Waveforms for Heart Disease Detection**|Xin Wang et.al.|[2602.23060](http://arxiv.org/abs/2602.23060)|null|
+|**2026-02-26**|**BRepMAE: Self-Supervised Masked BRep Autoencoders for Machining Feature Recognition**|Can Yao et.al.|[2602.22701](http://arxiv.org/abs/2602.22701)|null|
+|**2026-02-25**|**MolFM-Lite: Multi-Modal Molecular Property Prediction with Conformer Ensemble Attention and Cross-Modal Fusion**|Syed Omer Shah et.al.|[2602.22405](http://arxiv.org/abs/2602.22405)|null|
+|**2026-02-25**|**Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging**|Victor Sechaud et.al.|[2602.22279](http://arxiv.org/abs/2602.22279)|null|
+|**2026-02-24**|**Improving Spatial Allocation for Energy System Coupling with Graph Neural Networks**|Xuanhao Mu et.al.|[2602.22249](http://arxiv.org/abs/2602.22249)|null|
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-23**|**Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction**|Jiele Wu et.al.|[2602.20344](http://arxiv.org/abs/2602.20344)|null|
-|**2026-02-23**|**Fast Spectrogram Event Extraction via Offline Self-Supervised Learning: From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
+|**2026-02-26**|**TokEye: Fast Signal Extraction for Fluctuating Time Series via Offline Self-Supervised Learning From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
 |**2026-02-22**|**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**|Sirine Bhouri et.al.|[2602.19348](http://arxiv.org/abs/2602.19348)|null|
 |**2026-02-22**|**US-JEPA: A Joint Embedding Predictive Architecture for Medical Ultrasound**|Ashwath Radhachandran et.al.|[2602.19322](http://arxiv.org/abs/2602.19322)|null|
@@ -134,6 +139,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**First-principles and tight-binding analysis of thermoelectricity in irradiated WSe $_2$**|Cynthia Ihuoma Osuala et.al.|[2602.22789](http://arxiv.org/abs/2602.22789)|null|
+|**2026-02-24**|**Seamlessly joining length scales: From atomistic thermal graphs to anisotropic continuum conductivity**|C. Ugwumadu et.al.|[2602.22256](http://arxiv.org/abs/2602.22256)|null|
 |**2026-02-25**|**Tire tread block dynamics**|N. Miyashita et.al.|[2602.22078](http://arxiv.org/abs/2602.22078)|null|
 |**2026-02-25**|**2D incompressible inviscid Oldroyd-B equations: ill-posedness, long time existence, and high Weissenberg number limit**|Xin Liu et.al.|[2602.21921](http://arxiv.org/abs/2602.21921)|null|
 |**2026-02-25**|**Stress Relaxation in Monodisperse Entangled Polymer Melts: Correlation Between Viscoelastic Response and Single-Chain Relaxation via Molecular Dynamics Simulations**|Alireza F. Behbahani et.al.|[2602.21884](http://arxiv.org/abs/2602.21884)|null|
@@ -258,6 +265,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**SemanticVocoder: Bridging Audio Generation and Audio Understanding via Semantic Latents**|Zeyu Xie et.al.|[2602.23333](http://arxiv.org/abs/2602.23333)|null|
+|**2026-02-26**|**A Proper Scoring Rule for Virtual Staining**|Samuel Tonks et.al.|[2602.23305](http://arxiv.org/abs/2602.23305)|null|
+|**2026-02-26**|**ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation**|Ayush Roy et.al.|[2602.23295](http://arxiv.org/abs/2602.23295)|null|
+|**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
+|**2026-02-26**|**The Axion-Photon Mixing and the Extragalactic Magnetic Background: Plateau Regimes, Resonances, and Non-Gaussian Boosts**|Andrea Addazi et.al.|[2602.23249](http://arxiv.org/abs/2602.23249)|null|
+|**2026-02-26**|**Efficient training of generative models from multireference simulations and its application to the design of Dy complexes with large magnetic anisotropy**|Zahra Khatibi et.al.|[2602.23230](http://arxiv.org/abs/2602.23230)|null|
+|**2026-02-26**|**ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation**|Junhu Fu et.al.|[2602.23203](http://arxiv.org/abs/2602.23203)|null|
+|**2026-02-26**|**Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation**|Ismaël Zighed et.al.|[2602.23188](http://arxiv.org/abs/2602.23188)|null|
+|**2026-02-26**|**From synthetic turbulence to true solutions: A deep diffusion model for discovering periodic orbits in the Navier-Stokes equations**|Jeremy P Parker et.al.|[2602.23181](http://arxiv.org/abs/2602.23181)|null|
+|**2026-02-26**|**Prediction of Diffusion Coefficients in Mixtures with Tensor Completion**|Zeno Romero et.al.|[2602.23142](http://arxiv.org/abs/2602.23142)|null|
 |**2026-02-25**|**Probing the Geometry of Diffusion Models with the String Method**|Elio Moreau et.al.|[2602.22122](http://arxiv.org/abs/2602.22122)|null|
 |**2026-02-25**|**Learning Quantum Data Distribution via Chaotic Quantum Diffusion Model**|Quoc Hoan Tran et.al.|[2602.22061](http://arxiv.org/abs/2602.22061)|null|
 |**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](http://arxiv.org/abs/2602.21987)|null|
@@ -503,6 +520,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid**|Souvik Kundu et.al.|[2602.23362](http://arxiv.org/abs/2602.23362)|null|
+|**2026-02-26**|**Memory-induced active particle ratchets: Mean currents and large deviations**|Venkata D. Pamulaparthy et.al.|[2602.23327](http://arxiv.org/abs/2602.23327)|null|
+|**2026-02-26**|**Discrete turn strategies emerge in information-limited navigation**|Jose M. Betancourt et.al.|[2602.23324](http://arxiv.org/abs/2602.23324)|null|
+|**2026-02-26**|**Ceci n'est pas un committor, yet it samples like one: efficient sampling via approximated committor functions**|Enrico Trizio et.al.|[2602.23236](http://arxiv.org/abs/2602.23236)|null|
+|**2026-02-26**|**Quantum diffusion for a quantum particle with a correlated Gaussian noise**|Yun Jeong Kang et.al.|[2602.23226](http://arxiv.org/abs/2602.23226)|null|
+|**2026-02-26**|**Mesoscopic fluctuation theory of particle systems driven by Poisson noise: study of the $q$ -TASEP**|Alexandre Krajenbrink et.al.|[2602.23209](http://arxiv.org/abs/2602.23209)|null|
+|**2026-02-26**|**Symmetric Mass Generation via Multicriticality in a 3D Lattice Gross-Neveu Model**|Sandip Maiti et.al.|[2602.23158](http://arxiv.org/abs/2602.23158)|null|
+|**2026-02-26**|**Thermodynamic uncertainty relation under continuous measurement and feedback with quantum-classical-transfer entropy**|Kaito Tojo et.al.|[2602.23110](http://arxiv.org/abs/2602.23110)|null|
+|**2026-02-26**|**Coupling between Phase Separation and Geometry on a Closed Elastic Curve: Free Energy Minimization and Dynamics**|Hanchun Wang et.al.|[2602.22977](http://arxiv.org/abs/2602.22977)|null|
+|**2026-02-26**|**Exact Rheology of Uniform Shear Flow in a Gas of Inelastic and Rough Maxwell Particles**|Andrés Santos et.al.|[2602.22927](http://arxiv.org/abs/2602.22927)|null|
 |**2026-02-25**|**Quantum jumps in open cavity optomechanics and Liouvillian versus Hamiltonian exceptional points**|Aritra Ghosh et.al.|[2602.22205](http://arxiv.org/abs/2602.22205)|null|
 |**2026-02-25**|**Tempered Christoffel-Weighted Polynomial Chaos Expansion for Resilience-Oriented Uncertainty Quantification**|Mahsa Ebadat-Parast et.al.|[2602.22133](http://arxiv.org/abs/2602.22133)|null|
 |**2026-02-25**|**MBD-ML: Many-body dispersion from machine learning for molecules and materials**|Evgeny Moerman et.al.|[2602.22086](http://arxiv.org/abs/2602.22086)|null|
@@ -748,6 +775,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Extended Ashkin-Teller transition in two coupled frustrated Haldane chains**|Bowy M. La Rivière et.al.|[2602.23187](http://arxiv.org/abs/2602.23187)|null|
+|**2026-02-26**|**$Z_3$ confined and deconfined Coulomb liquids in $S_{\rm eff} = 3/2$ pyrochlore magnets**|Jay Pandey et.al.|[2602.23041](http://arxiv.org/abs/2602.23041)|null|
+|**2026-02-26**|**Coupling between Phase Separation and Geometry on a Closed Elastic Curve: Free Energy Minimization and Dynamics**|Hanchun Wang et.al.|[2602.22977](http://arxiv.org/abs/2602.22977)|null|
+|**2026-02-25**|**An Information-theoretic Collective Variable for Configurational Entropy**|Ashley Z. Guo et.al.|[2602.22440](http://arxiv.org/abs/2602.22440)|null|
 |**2026-02-24**|**Semantic Novelty at Scale: Narrative Shape Taxonomy and Readership Prediction in 28,606 Books**|W. Frederick Zimmerman et.al.|[2602.20647](http://arxiv.org/abs/2602.20647)|null|
 |**2026-02-24**|**The Interplay Between Liquid-Liquid Phase Equilibria, Sequence, and Tg in Copolymers**|Makayla R. Branham-Ferrari et.al.|[2602.18659](http://arxiv.org/abs/2602.18659)|null|
 |**2026-02-20**|**Solutocapillary bubble centering in a confined ethanol plume in water**|Tobias Baier et.al.|[2602.18349](http://arxiv.org/abs/2602.18349)|null|
@@ -803,6 +834,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Q-Tag: Watermarking Quantum Circuit Generative Models**|Yang Yang et.al.|[2602.23085](http://arxiv.org/abs/2602.23085)|null|
 |**2026-02-24**|**Automated Detection and Mitigation of Dependability Failures in Healthcare Scenarios through Digital Twins**|Bruno Guindani et.al.|[2602.21037](http://arxiv.org/abs/2602.21037)|null|
 |**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
 |**2026-02-15**|**GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training**|Yuan Cao et.al.|[2602.14093](http://arxiv.org/abs/2602.14093)|null|
@@ -878,6 +910,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Mapping the Landscape of Artificial Intelligence in Life Cycle Assessment Using Large Language Models**|Anastasija Mensikova et.al.|[2602.22500](http://arxiv.org/abs/2602.22500)|null|
 |**2026-02-25**|**Measuring elastic properties of granular hydrogels: Effects of capillary interaction and ionic conditions**|Jiayin Zhao et.al.|[2602.21457](http://arxiv.org/abs/2602.21457)|null|
 |**2026-02-19**|**Discovery of Polymer Electrolytes with Bayesian Optimization and High-Throughput Molecular Dynamics simulations**|Antonia S. Kuhn et.al.|[2602.17595](http://arxiv.org/abs/2602.17595)|null|
 |**2026-02-15**|**Delocalisation explains efficient transport and charge generation in neat Y6 organic photovoltaics**|Daniel Balzer et.al.|[2602.14097](http://arxiv.org/abs/2602.14097)|null|
@@ -908,6 +941,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
+|**2026-02-26**|**SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport**|Simon Roschmann et.al.|[2602.23353](http://arxiv.org/abs/2602.23353)|null|
+|**2026-02-26**|**Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning**|Amita Kamath et.al.|[2602.23351](http://arxiv.org/abs/2602.23351)|null|
+|**2026-02-26**|**FlashOptim: Optimizers for Memory Efficient Training**|Jose Javier Gonzalez Ortiz et.al.|[2602.23349](http://arxiv.org/abs/2602.23349)|null|
+|**2026-02-26**|**Molecular Beam Epitaxy Growth of Wafer-scale SnSe van der Waals Ultrathin Layers**|Qihua Zhang et.al.|[2602.23346](http://arxiv.org/abs/2602.23346)|null|
+|**2026-02-26**|**LLM Novice Uplift on Dual-Use, In Silico Biology Tasks**|Chen Bo Calvin Zhang et.al.|[2602.23329](http://arxiv.org/abs/2602.23329)|null|
+|**2026-02-26**|**Modeling Large-Scale Adversarial Swarm Engagements using Optimal Control**|Claire Walton et.al.|[2602.23323](http://arxiv.org/abs/2602.23323)|null|
+|**2026-02-26**|**ParamMem: Augmenting Language Agents with Parametric Reflective Memory**|Tianjun Yao et.al.|[2602.23320](http://arxiv.org/abs/2602.23320)|null|
+|**2026-02-26**|**Lyapunov exponents for random products of non-negative matrices**|Nima Alibabaei et.al.|[2602.23317](http://arxiv.org/abs/2602.23317)|null|
+|**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312](http://arxiv.org/abs/2602.23312)|null|
 |**2026-02-25**|**Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences**|Julian Kaltheuner et.al.|[2602.22212](http://arxiv.org/abs/2602.22212)|null|
 |**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
 |**2026-02-25**|**Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets**|Hanna Yukhymenko et.al.|[2602.22207](http://arxiv.org/abs/2602.22207)|null|
