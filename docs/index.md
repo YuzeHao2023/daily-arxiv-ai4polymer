@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**The Geometry of Transfer: Unlocking Medical Vision Manifolds for Training-Free Model Ranking**|Jiaqi Tang et.al.|[2602.23916](http://arxiv.org/abs/2602.23916)|null|
+|**2026-02-27**|**When Does Multimodal Learning Help in Healthcare? A Benchmark on EHR and Chest X-Ray Fusion**|Kejing Yin et.al.|[2602.23614](http://arxiv.org/abs/2602.23614)|null|
 |**2026-02-26**|**RhythmBERT: A Self-Supervised Language Model Based on Latent Representations of ECG Waveforms for Heart Disease Detection**|Xin Wang et.al.|[2602.23060](http://arxiv.org/abs/2602.23060)|null|
 |**2026-02-26**|**BRepMAE: Self-Supervised Masked BRep Autoencoders for Machining Feature Recognition**|Can Yao et.al.|[2602.22701](http://arxiv.org/abs/2602.22701)|null|
 |**2026-02-25**|**MolFM-Lite: Multi-Modal Molecular Property Prediction with Conformer Ensemble Attention and Cross-Modal Fusion**|Syed Omer Shah et.al.|[2602.22405](http://arxiv.org/abs/2602.22405)|null|
@@ -139,6 +141,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**SpikingTac: A Miniaturized Neuromorphic Visuotactile Sensor for High-Precision Dynamic Tactile Imprint Tracking**|Tianyu Jiang et.al.|[2602.23654](http://arxiv.org/abs/2602.23654)|null|
+|**2026-02-26**|**Multiple states of turbulence at vanishing inertia**|Ziyin Lu et.al.|[2602.23498](http://arxiv.org/abs/2602.23498)|null|
+|**2026-02-26**|**Flux-induced strengthening of the magnetic couplings in a flat-band diamond chain**|Biplab Pal et.al.|[2602.23430](http://arxiv.org/abs/2602.23430)|null|
 |**2026-02-26**|**First-principles and tight-binding analysis of thermoelectricity in irradiated WSe $_2$**|Cynthia Ihuoma Osuala et.al.|[2602.22789](http://arxiv.org/abs/2602.22789)|null|
 |**2026-02-24**|**Seamlessly joining length scales: From atomistic thermal graphs to anisotropic continuum conductivity**|C. Ugwumadu et.al.|[2602.22256](http://arxiv.org/abs/2602.22256)|null|
 |**2026-02-25**|**Tire tread block dynamics**|N. Miyashita et.al.|[2602.22078](http://arxiv.org/abs/2602.22078)|null|
@@ -265,6 +270,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
+|**2026-02-27**|**GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction**|Chao Xu et.al.|[2602.24161](http://arxiv.org/abs/2602.24161)|null|
+|**2026-02-27**|**HumanOrbit: 3D Human Reconstruction as 360° Orbit Generation**|Keito Suzuki et.al.|[2602.24148](http://arxiv.org/abs/2602.24148)|null|
+|**2026-02-27**|**DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer**|Yuxuan Zhang et.al.|[2602.24096](http://arxiv.org/abs/2602.24096)|null|
+|**2026-02-27**|**Solubilization kinetics of oils by ionic and nonionic micelles: theoretical model**|Alexey Kabalnov et.al.|[2602.24052](http://arxiv.org/abs/2602.24052)|null|
+|**2026-02-27**|**Stellarator island divertor shape optimization for reduced peak heat fluxes**|Avigdor Veksler et.al.|[2602.24049](http://arxiv.org/abs/2602.24049)|null|
+|**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|null|
+|**2026-02-27**|**RewardUQ: A Unified Framework for Uncertainty-Aware Reward Models**|Daniel Yang et.al.|[2602.24040](http://arxiv.org/abs/2602.24040)|null|
+|**2026-02-27**|**Ordinal Diffusion Models for Color Fundus Images**|Gustav Schmidt et.al.|[2602.24013](http://arxiv.org/abs/2602.24013)|null|
+|**2026-02-27**|**Learning Generation Orders for Masked Discrete Diffusion Models via Variational Inference**|David Fox et.al.|[2602.23968](http://arxiv.org/abs/2602.23968)|null|
 |**2026-02-26**|**SemanticVocoder: Bridging Audio Generation and Audio Understanding via Semantic Latents**|Zeyu Xie et.al.|[2602.23333](http://arxiv.org/abs/2602.23333)|null|
 |**2026-02-26**|**A Proper Scoring Rule for Virtual Staining**|Samuel Tonks et.al.|[2602.23305](http://arxiv.org/abs/2602.23305)|null|
 |**2026-02-26**|**ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation**|Ayush Roy et.al.|[2602.23295](http://arxiv.org/abs/2602.23295)|null|
@@ -520,6 +535,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
+|**2026-02-27**|**Asymptotically Solvable Quantum Circuits**|Samuel H. Pickering et.al.|[2602.24276](http://arxiv.org/abs/2602.24276)|null|
+|**2026-02-27**|**Active fluctuations induce buckling of living surfaces**|Matteo Ciarchi et.al.|[2602.24272](http://arxiv.org/abs/2602.24272)|null|
+|**2026-02-27**|**A model of tuberculosis progression using CompuCell3D**|James W. G. Doran et.al.|[2602.24258](http://arxiv.org/abs/2602.24258)|null|
+|**2026-02-27**|**Anomalous hydrodynamic fluctuations in the quantum XXZ spin chain**|Takato Yoshimura et.al.|[2602.24242](http://arxiv.org/abs/2602.24242)|null|
+|**2026-02-27**|**Empirical Challenges with Peers-of-Peers Instruments in the Linear-In-Means Model**|Nathan Canen et.al.|[2602.24215](http://arxiv.org/abs/2602.24215)|null|
+|**2026-02-27**|**Vacancy-induced local moments in quantum paramagnetic phases: An SU( $N$ ) designer Hamiltonian study**|Md Zahid Ansari et.al.|[2602.24203](http://arxiv.org/abs/2602.24203)|null|
+|**2026-02-27**|**Emergence of geometric order from topological constraints in a three-dimensional Coulomb phase**|Benjamin Canals et.al.|[2602.24051](http://arxiv.org/abs/2602.24051)|null|
+|**2026-02-27**|**Exact Anomalous Current Fluctuations in Quantum Many-Body Dynamics**|Kazuya Fujimoto et.al.|[2602.24008](http://arxiv.org/abs/2602.24008)|null|
+|**2026-02-27**|**Information bound on navigation speed in smart active matter**|Kristian Stølevik Olsen et.al.|[2602.23988](http://arxiv.org/abs/2602.23988)|null|
 |**2026-02-26**|**Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid**|Souvik Kundu et.al.|[2602.23362](http://arxiv.org/abs/2602.23362)|null|
 |**2026-02-26**|**Memory-induced active particle ratchets: Mean currents and large deviations**|Venkata D. Pamulaparthy et.al.|[2602.23327](http://arxiv.org/abs/2602.23327)|null|
 |**2026-02-26**|**Discrete turn strategies emerge in information-limited navigation**|Jose M. Betancourt et.al.|[2602.23324](http://arxiv.org/abs/2602.23324)|null|
@@ -775,6 +800,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Optimization of Edge Directions and Weights for Mixed Guidance Graphs in Lifelong Multi-Agent Path Finding**|Yulun Zhang et.al.|[2602.23468](http://arxiv.org/abs/2602.23468)|null|
 |**2026-02-26**|**Extended Ashkin-Teller transition in two coupled frustrated Haldane chains**|Bowy M. La Rivière et.al.|[2602.23187](http://arxiv.org/abs/2602.23187)|null|
 |**2026-02-26**|**$Z_3$ confined and deconfined Coulomb liquids in $S_{\rm eff} = 3/2$ pyrochlore magnets**|Jay Pandey et.al.|[2602.23041](http://arxiv.org/abs/2602.23041)|null|
 |**2026-02-26**|**Coupling between Phase Separation and Geometry on a Closed Elastic Curve: Free Energy Minimization and Dynamics**|Hanchun Wang et.al.|[2602.22977](http://arxiv.org/abs/2602.22977)|null|
@@ -867,6 +893,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Polyvinylpyrrolidone planarized liquid crystalline 1T-WS2/rGO hybrid nanocomposites-based humidity sensing platform**|A. Vasilev et.al.|[2602.23385](http://arxiv.org/abs/2602.23385)|null|
 |**2026-02-24**|**Passive freeze-out of the Richtmyer-Meshkov instability**|J. Strucka et.al.|[2602.21375](http://arxiv.org/abs/2602.21375)|null|
 |**2026-02-21**|**Work-hardening exhaustion as the origin of low toughness in L-PBF alloys: A case study on the role of intrinsic vs. extrinsic defects in SS316L**|KenHee Ryou et.al.|[2602.18954](http://arxiv.org/abs/2602.18954)|null|
 |**2026-02-20**|**Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks**|Lionel Salesses et.al.|[2602.18146](http://arxiv.org/abs/2602.18146)|null|
@@ -941,6 +968,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
+|**2026-02-27**|**Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations**|Shruti Joshi et.al.|[2602.24278](http://arxiv.org/abs/2602.24278)|null|
+|**2026-02-27**|**Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment**|Dake Zhang et.al.|[2602.24277](http://arxiv.org/abs/2602.24277)|null|
+|**2026-02-27**|**Hierarchical Action Learning for Weakly-Supervised Action Segmentation**|Junxian Huang et.al.|[2602.24275](http://arxiv.org/abs/2602.24275)|null|
+|**2026-02-27**|**A Minimal Agent for Automated Theorem Proving**|Borja Requena Pozo et.al.|[2602.24273](http://arxiv.org/abs/2602.24273)|null|
+|**2026-02-27**|**Active fluctuations induce buckling of living surfaces**|Matteo Ciarchi et.al.|[2602.24272](http://arxiv.org/abs/2602.24272)|null|
+|**2026-02-27**|**Curriculum-Based Soft Actor-Critic for Multi-Section R2R Tension Control**|Shihao Li et.al.|[2602.24259](http://arxiv.org/abs/2602.24259)|null|
+|**2026-02-27**|**Histopathology Image Normalization via Latent Manifold Compaction**|Xiaolong Zhang et.al.|[2602.24251](http://arxiv.org/abs/2602.24251)|null|
+|**2026-02-27**|**Time Series Foundation Models as Strong Baselines in Transportation Forecasting: A Large-Scale Benchmark Analysis**|Javier Pulido et.al.|[2602.24238](http://arxiv.org/abs/2602.24238)|null|
+|**2026-02-27**|**Relativistic Complete Active Space Self-consistent-Field Method with a Hierarchy of Exact Two-Component Hamiltonians**|Xubo Wang et.al.|[2602.24236](http://arxiv.org/abs/2602.24236)|null|
 |**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
 |**2026-02-26**|**SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport**|Simon Roschmann et.al.|[2602.23353](http://arxiv.org/abs/2602.23353)|null|
 |**2026-02-26**|**Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning**|Amita Kamath et.al.|[2602.23351](http://arxiv.org/abs/2602.23351)|null|
