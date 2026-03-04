@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features**|Kyle Janse van Rensburg et.al.|[2603.03096](http://arxiv.org/abs/2603.03096)|null|
+|**2026-03-03**|**GloPath: An Entity-Centric Foundation Model for Glomerular Lesion Assessment and Clinicopathological Insights**|Qiming He et.al.|[2603.02926](http://arxiv.org/abs/2603.02926)|null|
+|**2026-03-03**|**DSBA: Dynamic Stealthy Backdoor Attack with Collaborative Optimization in Self-Supervised Learning**|Jiayao Wang et.al.|[2603.02849](http://arxiv.org/abs/2603.02849)|null|
+|**2026-03-03**|**NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining**|Liang Zeng et.al.|[2603.02522](http://arxiv.org/abs/2603.02522)|null|
+|**2026-03-02**|**DINOv3 Visual Representations for Blueberry Perception Toward Robotic Harvesting**|Rui-Feng Wang et.al.|[2603.02419](http://arxiv.org/abs/2603.02419)|null|
+|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection**|Hashim Ali et.al.|[2603.01482](http://arxiv.org/abs/2603.01482)|null|
 |**2026-03-01**|**Fake It Right: Injecting Anatomical Logic into Synthetic Supervised Pre-training for Medical Segmentation**|Jiaqi Tang et.al.|[2603.00979](http://arxiv.org/abs/2603.00979)|null|
 |**2026-02-28**|**Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training**|Quan Kong et.al.|[2603.00518](http://arxiv.org/abs/2603.00518)|null|
@@ -146,6 +152,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**A phase-field framework for anisotropic viscoelastic-viscoplastic fracture in short fiber-reinforced polymers in hygrothermal environments**|Behrouz Arash et.al.|[2603.02826](http://arxiv.org/abs/2603.02826)|null|
+|**2026-03-03**|**All-optical intracellular thermal profiling using nanodiamond-based "thermal radar"**|Jiahua Zhang et.al.|[2603.02708](http://arxiv.org/abs/2603.02708)|null|
+|**2026-03-03**|**A hierarchy of thermodynamics learning frameworks for inelastic constitutive modeling**|Reese E. Jones et.al.|[2603.02645](http://arxiv.org/abs/2603.02645)|null|
+|**2026-03-02**|**Thermal conductivity and tunable thermal anisotropy of magnetic CrSBr monolayer**|Marta Loletti et.al.|[2603.02444](http://arxiv.org/abs/2603.02444)|null|
 |**2026-03-02**|**Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch**|David Mercier et.al.|[2603.02090](http://arxiv.org/abs/2603.02090)|null|
 |**2026-03-02**|**Covariant Cherenkov Radiation and its Friction Force**|Will Price et.al.|[2603.01636](http://arxiv.org/abs/2603.01636)|null|
 |**2026-03-01**|**A Physics-Guided Neural Framework for Rheology Measurement from Dynamical Laser Speckles**|Titanliang Wang et.al.|[2603.01262](http://arxiv.org/abs/2603.01262)|null|
@@ -285,6 +295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
+|**2026-03-03**|**DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction**|Yufu Wang et.al.|[2603.03265](http://arxiv.org/abs/2603.03265)|null|
+|**2026-03-03**|**Inverse Reconstruction of Shock Time Series from Shock Response Spectrum Curves using Machine Learning**|Adam Watts et.al.|[2603.03229](http://arxiv.org/abs/2603.03229)|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|null|
+|**2026-03-03**|**Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing**|Jiyuan Wang et.al.|[2603.03143](http://arxiv.org/abs/2603.03143)|null|
+|**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[2603.03125](http://arxiv.org/abs/2603.03125)|null|
+|**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
+|**2026-03-03**|**LAGO: A Local-Global Optimization Framework Combining Trust Region Methods and Bayesian Optimization**|Eliott Van Dieren et.al.|[2603.02970](http://arxiv.org/abs/2603.02970)|null|
+|**2026-03-03**|**Reducing Labeling Effort in Architecture Technical Debt Detection through Active Learning and Explainable AI**|Edi Sutoyo et.al.|[2603.02944](http://arxiv.org/abs/2603.02944)|null|
+|**2026-03-03**|**TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration**|Benlei Cui et.al.|[2603.02943](http://arxiv.org/abs/2603.02943)|null|
 |**2026-03-02**|**Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model**|Fabian Steinbrenner et.al.|[2603.02143](http://arxiv.org/abs/2603.02143)|null|
 |**2026-03-02**|**Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines**|Ding Pan et.al.|[2603.02075](http://arxiv.org/abs/2603.02075)|null|
 |**2026-03-02**|**ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks**|Joël Küchler et.al.|[2603.02063](http://arxiv.org/abs/2603.02063)|null|
@@ -560,6 +580,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Will a Large Complex System be a Maxwell Demon?**|Matthew P Leighton et.al.|[2603.03248](http://arxiv.org/abs/2603.03248)|null|
+|**2026-03-03**|**Dynamically Emergent Correlations**|Satya N. Majumdar et.al.|[2603.03162](http://arxiv.org/abs/2603.03162)|null|
+|**2026-03-03**|**Tripartite information of two-dimensional free fermions: a sine-kernel spectral constant from Fermi surface geometry**|Aleksandrs Sokolovs et.al.|[2603.03103](http://arxiv.org/abs/2603.03103)|null|
+|**2026-03-03**|**Ising models on the hydrogen peroxide and other lattices**|Xiaofeng Qian et.al.|[2603.02962](http://arxiv.org/abs/2603.02962)|null|
+|**2026-03-03**|**Single-star optical turbulence profiling techniques for the SHIMM and other Shack-Hartmann instruments**|Ryan Griffiths et.al.|[2603.02817](http://arxiv.org/abs/2603.02817)|null|
+|**2026-03-03**|**Riding the Wave: Polymers in Time-dependent Nonequilibrium Baths**|Bhavesh Valecha et.al.|[2603.02777](http://arxiv.org/abs/2603.02777)|null|
+|**2026-03-03**|**Tensor renormalization group approach to the $O(2)$ models via symmetry-twisted partition functions**|Shinichiro Akiyama et.al.|[2603.02739](http://arxiv.org/abs/2603.02739)|null|
+|**2026-03-03**|**Generalized Per-Agent Advantage Estimation for Multi-Agent Policy Optimization**|Seongmin Kim et.al.|[2603.02654](http://arxiv.org/abs/2603.02654)|null|
+|**2026-03-03**|**Singularity of information flow at the Hopf bifurcation point**|Kenshin Matsumoto et.al.|[2603.02632](http://arxiv.org/abs/2603.02632)|null|
+|**2026-03-03**|**Tensegrity Robot Endcap-Ground Contact Estimation with Symmetry-aware Heterogeneous Graph Neural Network**|Wenzhe Tong et.al.|[2603.02596](http://arxiv.org/abs/2603.02596)|null|
 |**2026-03-02**|**Kinetic energy fluctuations and specific heat in generalized ensembles**|Sergio Davis et.al.|[2603.02168](http://arxiv.org/abs/2603.02168)|null|
 |**2026-03-02**|**Crossover from generalized to conventional hydrodynamics in nearly integrable systems under relaxation time approximation**|Saikat Santra et.al.|[2603.02158](http://arxiv.org/abs/2603.02158)|null|
 |**2026-03-02**|**Basin Riddling in Coupled Phase Oscillators**|Jin Yan et.al.|[2603.02135](http://arxiv.org/abs/2603.02135)|null|
@@ -835,6 +865,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**All-optical intracellular thermal profiling using nanodiamond-based "thermal radar"**|Jiahua Zhang et.al.|[2603.02708](http://arxiv.org/abs/2603.02708)|null|
+|**2026-03-03**|**Dynamic Instabilities and Pattern Formation in Chemotactic Active Matter**|Hongbo Zhao et.al.|[2603.02595](http://arxiv.org/abs/2603.02595)|null|
 |**2026-03-02**|**Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch**|David Mercier et.al.|[2603.02090](http://arxiv.org/abs/2603.02090)|null|
 |**2026-03-02**|**Finite-Depth, Finite-Shot Guarantees for Constrained Quantum Optimization via Fejér Filtering**|Chinonso Onah et.al.|[2603.01809](http://arxiv.org/abs/2603.01809)|null|
 |**2026-02-28**|**Condensation in stochastic lattice gases with size-dependent stationary weights**|Joshua Blank et.al.|[2603.00806](http://arxiv.org/abs/2603.00806)|null|
@@ -898,6 +930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning**|Ran Li et.al.|[2603.02215](http://arxiv.org/abs/2603.02215)|null|
 |**2026-02-26**|**Q-Tag: Watermarking Quantum Circuit Generative Models**|Yang Yang et.al.|[2602.23085](http://arxiv.org/abs/2602.23085)|null|
 |**2026-02-24**|**Automated Detection and Mitigation of Dependability Failures in Healthcare Scenarios through Digital Twins**|Bruno Guindani et.al.|[2602.21037](http://arxiv.org/abs/2602.21037)|null|
 |**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
@@ -1010,6 +1043,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al.|[2603.03270](http://arxiv.org/abs/2603.03270)|null|
+|**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|null|
+|**2026-03-03**|**Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems**|Süleyman Cengizci et.al.|[2603.03259](http://arxiv.org/abs/2603.03259)|null|
+|**2026-03-03**|**Valet: A Standardized Testbed of Traditional Imperfect-Information Card Games**|Mark Goadrich et.al.|[2603.03252](http://arxiv.org/abs/2603.03252)|null|
+|**2026-03-03**|**Probing Axions with Relativistic Jet Polarimetry**|Dashon Michel Jones et.al.|[2603.03244](http://arxiv.org/abs/2603.03244)|null|
+|**2026-03-03**|**Density-Guided Response Optimization: Community-Grounded Alignment via Implicit Acceptance Signals**|Patrick Gerard et.al.|[2603.03242](http://arxiv.org/abs/2603.03242)|null|
+|**2026-03-03**|**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**|Zimo Wen et.al.|[2603.03241](http://arxiv.org/abs/2603.03241)|null|
+|**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
+|**2026-03-03**|**Guiding isotropic active fluids with anisotropic friction**|Cody D. Schimming et.al.|[2603.03232](http://arxiv.org/abs/2603.03232)|null|
+|**2026-03-03**|**SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking**|Mertcan Daysalilar et.al.|[2603.03230](http://arxiv.org/abs/2603.03230)|null|
 |**2026-03-02**|**Novel technique based on Léja Points Approximation for Log-determinant Estimation of Large matrices**|Verlon Roel Mbingui et.al.|[2603.02207](http://arxiv.org/abs/2603.02207)|null|
 |**2026-03-02**|**Single-photon emitters and spin-photon interfaces in silicon**|Kilian Sandholzer et.al.|[2603.02201](http://arxiv.org/abs/2603.02201)|null|
 |**2026-03-02**|**Comparative Analysis of Spatiotemporal Volatility Models: An Empirical Study on Financial Network Series**|Ariane N. Meli Chrisko et.al.|[2603.02195](http://arxiv.org/abs/2603.02195)|null|
