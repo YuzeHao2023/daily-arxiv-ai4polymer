@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection**|Cemal Hanilçi et.al.|[2603.03921](http://arxiv.org/abs/2603.03921)|null|
+|**2026-03-03**|**Spectrum Shortage for Radio Sensing? Leveraging Ambient 5G Signals for Human Activity Detection**|Kunzhe Song et.al.|[2603.03579](http://arxiv.org/abs/2603.03579)|null|
+|**2026-03-03**|**Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning**|Achleshwar Luthra et.al.|[2603.03530](http://arxiv.org/abs/2603.03530)|null|
 |**2026-03-03**|**Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features**|Kyle Janse van Rensburg et.al.|[2603.03096](http://arxiv.org/abs/2603.03096)|null|
 |**2026-03-03**|**GloPath: An Entity-Centric Foundation Model for Glomerular Lesion Assessment and Clinicopathological Insights**|Qiming He et.al.|[2603.02926](http://arxiv.org/abs/2603.02926)|null|
 |**2026-03-03**|**DSBA: Dynamic Stealthy Backdoor Attack with Collaborative Optimization in Self-Supervised Learning**|Jiayao Wang et.al.|[2603.02849](http://arxiv.org/abs/2603.02849)|null|
@@ -152,6 +155,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Kinetic Theory of Chiral Active Disks: Odd Transport and Torque Density**|Raphael Maire et.al.|[2603.04273](http://arxiv.org/abs/2603.04273)|null|
+|**2026-03-04**|**Cell-Cell Adhesion as a Double-Edged Sword in Tissue Fluidity**|Anh Q. Nguyen et.al.|[2603.04170](http://arxiv.org/abs/2603.04170)|null|
+|**2026-03-04**|**Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging**|Yicheng Wei et.al.|[2603.03737](http://arxiv.org/abs/2603.03737)|null|
 |**2026-03-03**|**A phase-field framework for anisotropic viscoelastic-viscoplastic fracture in short fiber-reinforced polymers in hygrothermal environments**|Behrouz Arash et.al.|[2603.02826](http://arxiv.org/abs/2603.02826)|null|
 |**2026-03-03**|**All-optical intracellular thermal profiling using nanodiamond-based "thermal radar"**|Jiahua Zhang et.al.|[2603.02708](http://arxiv.org/abs/2603.02708)|null|
 |**2026-03-03**|**A hierarchy of thermodynamics learning frameworks for inelastic constitutive modeling**|Reese E. Jones et.al.|[2603.02645](http://arxiv.org/abs/2603.02645)|null|
@@ -295,6 +301,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Low-Resource Guidance for Controllable Latent Audio Diffusion**|Zachary Novack et.al.|[2603.04366](http://arxiv.org/abs/2603.04366)|null|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
+|**2026-03-04**|**Dual Diffusion Models for Multi-modal Guided 3D Avatar Generation**|Hong Li et.al.|[2603.04307](http://arxiv.org/abs/2603.04307)|null|
+|**2026-03-04**|**Motion Manipulation via Unsupervised Keypoint Positioning in Face Animation**|Hong Li et.al.|[2603.04302](http://arxiv.org/abs/2603.04302)|null|
+|**2026-03-04**|**CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**|Lingen Li et.al.|[2603.04291](http://arxiv.org/abs/2603.04291)|null|
+|**2026-03-04**|**Nearest-Neighbor Density Estimation for Dependency Suppression**|Kathleen Anderson et.al.|[2603.04224](http://arxiv.org/abs/2603.04224)|null|
+|**2026-03-04**|**Semi-Supervised Generative Learning via Latent Space Distribution Matching**|Kwong Yu Chong et.al.|[2603.04223](http://arxiv.org/abs/2603.04223)|null|
 |**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
 |**2026-03-03**|**DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction**|Yufu Wang et.al.|[2603.03265](http://arxiv.org/abs/2603.03265)|null|
 |**2026-03-03**|**Inverse Reconstruction of Shock Time Series from Shock Response Spectrum Curves using Machine Learning**|Adam Watts et.al.|[2603.03229](http://arxiv.org/abs/2603.03229)|null|
@@ -580,6 +596,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**Kinetic Theory of Chiral Active Disks: Odd Transport and Torque Density**|Raphael Maire et.al.|[2603.04273](http://arxiv.org/abs/2603.04273)|null|
+|**2026-03-04**|**Emergent dimensional reduction in a distorted kagome magnet $\mathrm{YCa_3(CrO)_3(BO_3)_4}$ driven by exchange hierarchy**|Umashankar Jena et.al.|[2603.04253](http://arxiv.org/abs/2603.04253)|null|
+|**2026-03-04**|**Non-equilibrium dynamics of the disordered Power of Two model**|Kunal Singh et.al.|[2603.04220](http://arxiv.org/abs/2603.04220)|null|
+|**2026-03-04**|**Structure-resolved free energy estimation of the 38-atom Lennard Jones cluster via population annealing**|Akie Kowaguchi et.al.|[2603.04157](http://arxiv.org/abs/2603.04157)|null|
+|**2026-03-04**|**Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units**|Udari De Alwis et.al.|[2603.04092](http://arxiv.org/abs/2603.04092)|null|
+|**2026-03-04**|**Fermi-Dirac thermal measurements: A framework for quantum hypothesis testing and semidefinite optimization**|Nana Liu et.al.|[2603.04061](http://arxiv.org/abs/2603.04061)|null|
+|**2026-03-04**|**Mermin's dielectric function and the f-sum rule**|Thomas Chuna et.al.|[2603.04054](http://arxiv.org/abs/2603.04054)|null|
+|**2026-03-04**|**Pushing-Induced Arrest Across Lattices and Dimensions**|I. Shitrit et.al.|[2603.04048](http://arxiv.org/abs/2603.04048)|null|
+|**2026-03-04**|**A Short-Timescale Optical Quasi-Periodic Oscillation in PKS\,0805 $-$ 07 from High-Cadence TESS Observations**|Sikandar Akbar et.al.|[2603.03984](http://arxiv.org/abs/2603.03984)|null|
 |**2026-03-03**|**Will a Large Complex System be a Maxwell Demon?**|Matthew P Leighton et.al.|[2603.03248](http://arxiv.org/abs/2603.03248)|null|
 |**2026-03-03**|**Dynamically Emergent Correlations**|Satya N. Majumdar et.al.|[2603.03162](http://arxiv.org/abs/2603.03162)|null|
 |**2026-03-03**|**Tripartite information of two-dimensional free fermions: a sine-kernel spectral constant from Fermi surface geometry**|Aleksandrs Sokolovs et.al.|[2603.03103](http://arxiv.org/abs/2603.03103)|null|
@@ -930,6 +956,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et.al.|[2603.03517](http://arxiv.org/abs/2603.03517)|null|
 |**2026-02-10**|**RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning**|Ran Li et.al.|[2603.02215](http://arxiv.org/abs/2603.02215)|null|
 |**2026-02-26**|**Q-Tag: Watermarking Quantum Circuit Generative Models**|Yang Yang et.al.|[2602.23085](http://arxiv.org/abs/2602.23085)|null|
 |**2026-02-24**|**Automated Detection and Mitigation of Dependability Failures in Healthcare Scenarios through Digital Twins**|Bruno Guindani et.al.|[2602.21037](http://arxiv.org/abs/2602.21037)|null|
@@ -964,6 +991,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**A Soft Robotic Demonstration in the Stratospher**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|
+|**2026-03-03**|**Quantum Theory of Functionally Graded Materials**|Michael J. Landry et.al.|[2603.03424](http://arxiv.org/abs/2603.03424)|null|
 |**2026-02-28**|**Aeroacoustic signatures reveal fast transient dynamics of vapor-jet-driven cavity oscillations in metallic additive manufacturing**|Haolin Liu et.al.|[2603.00789](http://arxiv.org/abs/2603.00789)|null|
 |**2026-02-18**|**Additive Manufacturing-Facilitated Blow Molding for Functional Thin-Walled Polymeric Structures**|Junyu Chen et.al.|[2603.00111](http://arxiv.org/abs/2603.00111)|null|
 |**2026-02-15**|**Polyvinylpyrrolidone planarized liquid crystalline 1T-WS2/rGO hybrid nanocomposites-based humidity sensing platform**|A. Vasilev et.al.|[2602.23385](http://arxiv.org/abs/2602.23385)|null|
@@ -1010,7 +1039,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-02**|**A hyperelastic theory for nonlinear hydrogel diffusiophoresis**|Chinmay Katke et.al.|[2603.01512](http://arxiv.org/abs/2603.01512)|null|
+|**2026-03-04**|**Spectral Bath Engineering for Quantum-Enhanced Agrivoltaics: Advancing Efficiency and Environmental Sustainability via Non-Markovian Dynamics**|Steve Cabrel Teguia Kouam et.al.|[2603.04097](http://arxiv.org/abs/2603.04097)|null|
+|**2026-03-04**|**A hyperelastic theory for nonlinear hydrogel diffusiophoresis**|Chinmay Katke et.al.|[2603.01512](http://arxiv.org/abs/2603.01512)|null|
 |**2026-03-02**|**From Sustainable Materials to User-Centered Sustainability: Material Experience in Art Healing**|Yuxin Zhang et.al.|[2603.01377](http://arxiv.org/abs/2603.01377)|null|
 |**2026-02-26**|**Mapping the Landscape of Artificial Intelligence in Life Cycle Assessment Using Large Language Models**|Anastasija Mensikova et.al.|[2602.22500](http://arxiv.org/abs/2602.22500)|null|
 |**2026-02-25**|**Measuring elastic properties of granular hydrogels: Effects of capillary interaction and ionic conditions**|Jiayin Zhao et.al.|[2602.21457](http://arxiv.org/abs/2602.21457)|null|
@@ -1043,6 +1073,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
+|**2026-03-04**|**AgentIR: Reasoning-Aware Retrival for Deep Research Agents**|Zijian Chen et.al.|[2603.04384](http://arxiv.org/abs/2603.04384)|null|
+|**2026-03-04**|**Synthetic disk-integrated absorption lines isolating stellar granulation for high-precision RV studies**|Ginger Frame et.al.|[2603.04382](http://arxiv.org/abs/2603.04382)|null|
+|**2026-03-04**|**Benchmarking Quantum Computers via Protocols, Comparing IBM's Heron vs IBM's Eagle**|Nitay Mayo et.al.|[2603.04377](http://arxiv.org/abs/2603.04377)|null|
+|**2026-03-04**|**Non-Hermitian Quantum Mechanics with Applications to Gravity**|Oem Trivedi et.al.|[2603.04375](http://arxiv.org/abs/2603.04375)|null|
+|**2026-03-04**|**$τ$ -Knowledge: Evaluating Conversational Agents over Unstructured Knowledge**|Quan Shi et.al.|[2603.04370](http://arxiv.org/abs/2603.04370)|null|
+|**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[2603.04363](http://arxiv.org/abs/2603.04363)|null|
+|**2026-03-04**|**Robust Unscented Kalman Filtering via Recurrent Meta-Adaptation of Sigma-Point Weights**|Kenan Majewski et.al.|[2603.04360](http://arxiv.org/abs/2603.04360)|null|
+|**2026-03-04**|**On Error Thresholds for Pauli Channels: Some answers with many more questions**|Avantika Agarwal et.al.|[2603.04357](http://arxiv.org/abs/2603.04357)|null|
 |**2026-03-03**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al.|[2603.03270](http://arxiv.org/abs/2603.03270)|null|
 |**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|null|
 |**2026-03-03**|**Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems**|Süleyman Cengizci et.al.|[2603.03259](http://arxiv.org/abs/2603.03259)|null|
