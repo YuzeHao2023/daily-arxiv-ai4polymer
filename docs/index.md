@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
@@ -991,7 +991,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-04**|**A Soft Robotic Demonstration in the Stratospher**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|
+|**2026-03-04**|**A Soft Robotic Demonstration in the Stratosphere**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|
 |**2026-03-03**|**Quantum Theory of Functionally Graded Materials**|Michael J. Landry et.al.|[2603.03424](http://arxiv.org/abs/2603.03424)|null|
 |**2026-02-28**|**Aeroacoustic signatures reveal fast transient dynamics of vapor-jet-driven cavity oscillations in metallic additive manufacturing**|Haolin Liu et.al.|[2603.00789](http://arxiv.org/abs/2603.00789)|null|
 |**2026-02-18**|**Additive Manufacturing-Facilitated Blow Molding for Functional Thin-Walled Polymeric Structures**|Junyu Chen et.al.|[2603.00111](http://arxiv.org/abs/2603.00111)|null|
