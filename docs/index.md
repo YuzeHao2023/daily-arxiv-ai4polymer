@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels**|Khai Nguyen et.al.|[2603.05495](http://arxiv.org/abs/2603.05495)|null|
 |**2026-03-04**|**Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection**|Cemal Hanilçi et.al.|[2603.03921](http://arxiv.org/abs/2603.03921)|null|
 |**2026-03-03**|**Spectrum Shortage for Radio Sensing? Leveraging Ambient 5G Signals for Human Activity Detection**|Kunzhe Song et.al.|[2603.03579](http://arxiv.org/abs/2603.03579)|null|
 |**2026-03-03**|**Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning**|Achleshwar Luthra et.al.|[2603.03530](http://arxiv.org/abs/2603.03530)|null|
@@ -155,6 +156,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Automated High-Throughput Screening of Polymers Using a Computational Workflow**|Lois Smith et.al.|[2603.05362](http://arxiv.org/abs/2603.05362)|null|
+|**2026-03-05**|**Modular memristor model with synaptic-like plasticity and volatile memory**|Daniel Habart et.al.|[2603.04934](http://arxiv.org/abs/2603.04934)|null|
+|**2026-03-05**|**Design rules for industrial-scale sintering of UB4-UBC composites with high uranium density**|Riley Moeykens et.al.|[2603.04824](http://arxiv.org/abs/2603.04824)|null|
+|**2026-03-05**|**The Asymptotic Behaviour of Oldroyd-B Fluids is Almost Newtonian**|Matthias Hieber et.al.|[2603.04700](http://arxiv.org/abs/2603.04700)|null|
 |**2026-03-04**|**Kinetic Theory of Chiral Active Disks: Odd Transport and Torque Density**|Raphael Maire et.al.|[2603.04273](http://arxiv.org/abs/2603.04273)|null|
 |**2026-03-04**|**Cell-Cell Adhesion as a Double-Edged Sword in Tissue Fluidity**|Anh Q. Nguyen et.al.|[2603.04170](http://arxiv.org/abs/2603.04170)|null|
 |**2026-03-04**|**Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging**|Yicheng Wei et.al.|[2603.03737](http://arxiv.org/abs/2603.03737)|null|
@@ -301,6 +306,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
+|**2026-03-05**|**FairFinGAN: Fairness-aware Synthetic Financial Data Generation**|Tai Le Quy et.al.|[2603.05327](http://arxiv.org/abs/2603.05327)|null|
+|**2026-03-05**|**Whispering to a Blackbox: Bootstrapping Frozen OCR with Visual Prompts**|Samandar Samandarov et.al.|[2603.05276](http://arxiv.org/abs/2603.05276)|null|
+|**2026-03-05**|**Diffusion LLMs can think EoS-by-EoS**|Sarah Breckner et.al.|[2603.05197](http://arxiv.org/abs/2603.05197)|null|
+|**2026-03-05**|**Escaping the Hydrolysis Trap: An Agentic Workflow for Inverse Design of Durable Photocatalytic Covalent Organic Frameworks**|Iman Peivaste et.al.|[2603.05188](http://arxiv.org/abs/2603.05188)|null|
+|**2026-03-05**|**Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation**|Pengfei Yi et.al.|[2603.05185](http://arxiv.org/abs/2603.05185)|null|
+|**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](http://arxiv.org/abs/2603.05183)|null|
+|**2026-03-05**|**Lifelong Language-Conditioned Robotic Manipulation Learning**|Xudong Wang et.al.|[2603.05160](http://arxiv.org/abs/2603.05160)|null|
+|**2026-03-05**|**Particle-Guided Diffusion for Gas-Phase Reaction Kinetics**|Andrew Millard et.al.|[2603.05139](http://arxiv.org/abs/2603.05139)|null|
+|**2026-03-05**|**Inverse-design of two-dimensional magnonic crystals via topology optimization with frequency-domain micromagnetics**|Ryunosuke Nagaoka et.al.|[2603.05132](http://arxiv.org/abs/2603.05132)|null|
 |**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
 |**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
 |**2026-03-04**|**Low-Resource Guidance for Controllable Latent Audio Diffusion**|Zachary Novack et.al.|[2603.04366](http://arxiv.org/abs/2603.04366)|null|
@@ -596,6 +611,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Measurement Induced Asymmetric Entanglement in Deconfined Quantum Critical Ground State**|K. G. S. H. Gunawardana et.al.|[2603.05436](http://arxiv.org/abs/2603.05436)|null|
+|**2026-03-05**|**Optimal Decoding with the Worm**|Zac Tobias et.al.|[2603.05428](http://arxiv.org/abs/2603.05428)|null|
+|**2026-03-05**|**Extreme Values of Infinite-Measure Processes**|Talia Baravi et.al.|[2603.05390](http://arxiv.org/abs/2603.05390)|null|
+|**2026-03-05**|**Finite-size scaling in quasi-3D stick percolation**|Ryan K. Daniels et.al.|[2603.05374](http://arxiv.org/abs/2603.05374)|null|
+|**2026-03-05**|**Dynamical quantum phase transitions through the lens of mode dynamics**|Akash Mitra et.al.|[2603.05284](http://arxiv.org/abs/2603.05284)|null|
+|**2026-03-05**|**Wealth Tax Neutrality as Drift-Shift Symmetry: A Statistical Physics Formulation**|Anders G. Froeseth et.al.|[2603.05283](http://arxiv.org/abs/2603.05283)|null|
+|**2026-03-05**|**Monitoring Covariance in Multichannel Profiles via Functional Graphical Models**|Christian Capezza et.al.|[2603.05274](http://arxiv.org/abs/2603.05274)|null|
+|**2026-03-05**|**The bliss of dimensionality: how an unsupervised criterion identifies optimal low-resolution representations of high-dimensional datasets**|Margherita Mele et.al.|[2603.05214](http://arxiv.org/abs/2603.05214)|null|
+|**2026-03-05**|**Waiting-time based entropy estimators in continuous space without Markovian events**|Jonas H. Fritz et.al.|[2603.05170](http://arxiv.org/abs/2603.05170)|null|
+|**2026-03-05**|**Machine Learning the Strong Disorder Renormalization Group Method for Disordered Quantum Spin Chains**|A. Ustyuzhanin et.al.|[2603.05164](http://arxiv.org/abs/2603.05164)|null|
 |**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
 |**2026-03-04**|**Kinetic Theory of Chiral Active Disks: Odd Transport and Torque Density**|Raphael Maire et.al.|[2603.04273](http://arxiv.org/abs/2603.04273)|null|
 |**2026-03-04**|**Emergent dimensional reduction in a distorted kagome magnet $\mathrm{YCa_3(CrO)_3(BO_3)_4}$ driven by exchange hierarchy**|Umashankar Jena et.al.|[2603.04253](http://arxiv.org/abs/2603.04253)|null|
@@ -956,6 +981,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**NL2GDS: LLM-aided interface for Open Source Chip Design**|Max Eland et.al.|[2603.05489](http://arxiv.org/abs/2603.05489)|null|
 |**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et.al.|[2603.03517](http://arxiv.org/abs/2603.03517)|null|
 |**2026-02-10**|**RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning**|Ran Li et.al.|[2603.02215](http://arxiv.org/abs/2603.02215)|null|
 |**2026-02-26**|**Q-Tag: Watermarking Quantum Circuit Generative Models**|Yang Yang et.al.|[2602.23085](http://arxiv.org/abs/2602.23085)|null|
@@ -991,6 +1017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Beam Geometry-Controlled Nonequilibrium Formation of WS2/CsPbBr3 Hybrids and Interfacial Carrier Dynamics**|Rajendra Kumar Challa et.al.|[2603.04990](http://arxiv.org/abs/2603.04990)|null|
+|**2026-03-05**|**Rotational 3D printing of active-passive filaments and lattices with programmable shape morphing**|Mustafa K. Abdelrahman et.al.|[2603.04694](http://arxiv.org/abs/2603.04694)|null|
 |**2026-03-04**|**A Soft Robotic Demonstration in the Stratosphere**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|
 |**2026-03-03**|**Quantum Theory of Functionally Graded Materials**|Michael J. Landry et.al.|[2603.03424](http://arxiv.org/abs/2603.03424)|null|
 |**2026-02-28**|**Aeroacoustic signatures reveal fast transient dynamics of vapor-jet-driven cavity oscillations in metallic additive manufacturing**|Haolin Liu et.al.|[2603.00789](http://arxiv.org/abs/2603.00789)|null|
@@ -1073,6 +1101,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime**|Andrey Boris Khesin et.al.|[2603.05496](http://arxiv.org/abs/2603.05496)|null|
+|**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
+|**2026-03-05**|**NL2GDS: LLM-aided interface for Open Source Chip Design**|Max Eland et.al.|[2603.05489](http://arxiv.org/abs/2603.05489)|null|
+|**2026-03-05**|**Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought**|Siddharth Boppana et.al.|[2603.05488](http://arxiv.org/abs/2603.05488)|null|
+|**2026-03-05**|**SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis**|Shahriar Noroozizadeh et.al.|[2603.05483](http://arxiv.org/abs/2603.05483)|null|
+|**2026-03-05**|**Finding Short Paths on Simple Polytopes**|Alexander E. Black et.al.|[2603.05482](http://arxiv.org/abs/2603.05482)|null|
+|**2026-03-05**|**Quantum Simulation of Coupled Harmonic Oscillators: From Theory to Implementation**|Viraj Dsouza et.al.|[2603.05479](http://arxiv.org/abs/2603.05479)|null|
+|**2026-03-05**|**Spin-resolved microscopy of $^{87}$Sr SU($N$ ) Fermi-Hubbard systems**|Carlos Gas-Ferrer et.al.|[2603.05478](http://arxiv.org/abs/2603.05478)|null|
+|**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
+|**2026-03-05**|**Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement**|Priyanshi Singh et.al.|[2603.05468](http://arxiv.org/abs/2603.05468)|null|
 |**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
 |**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[2603.04398](http://arxiv.org/abs/2603.04398)|null|
 |**2026-03-04**|**AgentIR: Reasoning-Aware Retrival for Deep Research Agents**|Zijian Chen et.al.|[2603.04384](http://arxiv.org/abs/2603.04384)|null|
