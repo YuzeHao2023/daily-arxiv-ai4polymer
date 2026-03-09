@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR**|Ajinkya Kulkarni et.al.|[2603.06164](http://arxiv.org/abs/2603.06164)|null|
 |**2026-03-05**|**Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels**|Khai Nguyen et.al.|[2603.05495](http://arxiv.org/abs/2603.05495)|null|
 |**2026-03-04**|**Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection**|Cemal Hanilçi et.al.|[2603.03921](http://arxiv.org/abs/2603.03921)|null|
 |**2026-03-03**|**Spectrum Shortage for Radio Sensing? Leveraging Ambient 5G Signals for Human Activity Detection**|Kunzhe Song et.al.|[2603.03579](http://arxiv.org/abs/2603.03579)|null|
@@ -174,7 +175,7 @@
 |**2026-03-05**|**Design rules for industrial-scale sintering of UB4-UBC composites with high uranium density**|Riley Moeykens et.al.|[2603.04824](http://arxiv.org/abs/2603.04824)|null|
 |**2026-03-05**|**The Asymptotic Behaviour of Oldroyd-B Fluids is Almost Newtonian**|Matthias Hieber et.al.|[2603.04700](http://arxiv.org/abs/2603.04700)|null|
 |**2026-03-04**|**Kinetic Theory of Chiral Active Disks: Odd Transport and Torque Density**|Raphael Maire et.al.|[2603.04273](http://arxiv.org/abs/2603.04273)|null|
-|**2026-03-04**|**Cell-Cell Adhesion as a Double-Edged Sword in Tissue Fluidity**|Anh Q. Nguyen et.al.|[2603.04170](http://arxiv.org/abs/2603.04170)|null|
+|**2026-03-05**|**Cell-Cell Adhesion as a Double-Edged Sword in Tissue Fluidity**|Anh Q. Nguyen et.al.|[2603.04170](http://arxiv.org/abs/2603.04170)|null|
 |**2026-03-04**|**Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging**|Yicheng Wei et.al.|[2603.03737](http://arxiv.org/abs/2603.03737)|null|
 |**2026-03-03**|**A phase-field framework for anisotropic viscoelastic-viscoplastic fracture in short fiber-reinforced polymers in hygrothermal environments**|Behrouz Arash et.al.|[2603.02826](http://arxiv.org/abs/2603.02826)|null|
 |**2026-03-03**|**All-optical intracellular thermal profiling using nanodiamond-based "thermal radar"**|Jiahua Zhang et.al.|[2603.02708](http://arxiv.org/abs/2603.02708)|null|
@@ -321,6 +322,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**|Lijiang Li et.al.|[2603.06577](http://arxiv.org/abs/2603.06577)|null|
+|**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
+|**2026-03-06**|**Quantum Diffusion Models: Score Reversal Is Not Free in Gaussian Dynamics**|Ammar Fayad et.al.|[2603.06488](http://arxiv.org/abs/2603.06488)|null|
+|**2026-03-06**|**Pinterest Canvas: Large-Scale Image Generation at Pinterest**|Yu Wang et.al.|[2603.06453](http://arxiv.org/abs/2603.06453)|null|
+|**2026-03-06**|**Toward Generative Quantum Utility via Correlation-Complexity Map**|Chen-Yu Liu et.al.|[2603.06440](http://arxiv.org/abs/2603.06440)|null|
+|**2026-03-06**|**Long-time behaviour of a nonlocal stochastic fractional reaction--diffusion equation arising in tumour dynamics**|Nikos I. Kavallaris et.al.|[2603.06414](http://arxiv.org/abs/2603.06414)|null|
+|**2026-03-06**|**Physical Simulator In-the-Loop Video Generation**|Lin Geng Foo et.al.|[2603.06408](http://arxiv.org/abs/2603.06408)|null|
+|**2026-03-06**|**Generation of Imaging Air Cherenkov Telescope images using Diffusion Models**|Christian Elflein et.al.|[2603.06364](http://arxiv.org/abs/2603.06364)|null|
+|**2026-03-06**|**LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents**|Tianhao Zhao et.al.|[2603.06357](http://arxiv.org/abs/2603.06357)|null|
+|**2026-03-06**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al.|[2603.06313](http://arxiv.org/abs/2603.06313)|null|
 |**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
 |**2026-03-05**|**FairFinGAN: Fairness-aware Synthetic Financial Data Generation**|Tai Le Quy et.al.|[2603.05327](http://arxiv.org/abs/2603.05327)|null|
 |**2026-03-05**|**Whispering to a Blackbox: Bootstrapping Frozen OCR with Visual Prompts**|Samandar Samandarov et.al.|[2603.05276](http://arxiv.org/abs/2603.05276)|null|
@@ -628,6 +639,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Balancing Efficiency and Feasibility: A Sensitivity Analysis of the Augmentation Parameter in the Finite Selection Model**|Safaa K. Kadhem et.al.|[2603.06493](http://arxiv.org/abs/2603.06493)|null|
+|**2026-03-06**|**AKLT Hamiltonian from Hubbard tripods**|Claire Benjamin et.al.|[2603.06455](http://arxiv.org/abs/2603.06455)|null|
+|**2026-03-06**|**Thermodynamics of Quantum Coupled Transport**|Shuvadip Ghosh et.al.|[2603.06336](http://arxiv.org/abs/2603.06336)|null|
+|**2026-03-06**|**Star-based Navigation in the Outer Solar System**|Vittorio Franzese et.al.|[2603.06247](http://arxiv.org/abs/2603.06247)|null|
+|**2026-03-06**|**Mean-Field Convective Phase Separation under Thermal Gradients**|Meander Van den Brande et.al.|[2603.06214](http://arxiv.org/abs/2603.06214)|null|
+|**2026-03-06**|**Extracting work from hidden degrees of freedom**|Lokesh Muruga et.al.|[2603.06160](http://arxiv.org/abs/2603.06160)|null|
+|**2026-03-06**|**Magnetoelastic signatures of thermal and quantum phase transitions in a deformable Ising chain under a longitudinal and transverse magnetic field**|David Sivy et.al.|[2603.06125](http://arxiv.org/abs/2603.06125)|null|
+|**2026-03-06**|**Network-based drug repurposing for MYH9-related nephritis**|Muhammed Ali et.al.|[2603.06112](http://arxiv.org/abs/2603.06112)|null|
+|**2026-03-06**|**Floquet scars and prethermal fragmentation in a driven spin-one chain**|Krishanu Ghosh et.al.|[2603.06111](http://arxiv.org/abs/2603.06111)|null|
+|**2026-03-06**|**Stochastic resonance in higher-order networks driven by colored noise**|Zhongwen Bi et.al.|[2603.06108](http://arxiv.org/abs/2603.06108)|null|
 |**2026-03-05**|**Measurement Induced Asymmetric Entanglement in Deconfined Quantum Critical Ground State**|K. G. S. H. Gunawardana et.al.|[2603.05436](http://arxiv.org/abs/2603.05436)|null|
 |**2026-03-05**|**Optimal Decoding with the Worm**|Zac Tobias et.al.|[2603.05428](http://arxiv.org/abs/2603.05428)|null|
 |**2026-03-05**|**Extreme Values of Infinite-Measure Processes**|Talia Baravi et.al.|[2603.05390](http://arxiv.org/abs/2603.05390)|null|
@@ -935,6 +956,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Nanoscale Electronic Phase Separation Driven by Fe-site Ordering in Fe\textsubscript{5-x}GeTe\textsubscript{2}**|Shreyashi Sinha et.al.|[2603.06539](http://arxiv.org/abs/2603.06539)|null|
+|**2026-03-06**|**Mean-Field Convective Phase Separation under Thermal Gradients**|Meander Van den Brande et.al.|[2603.06214](http://arxiv.org/abs/2603.06214)|null|
 |**2026-03-03**|**All-optical intracellular thermal profiling using nanodiamond-based "thermal radar"**|Jiahua Zhang et.al.|[2603.02708](http://arxiv.org/abs/2603.02708)|null|
 |**2026-03-03**|**Dynamic Instabilities and Pattern Formation in Chemotactic Active Matter**|Hongbo Zhao et.al.|[2603.02595](http://arxiv.org/abs/2603.02595)|null|
 |**2026-03-02**|**Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch**|David Mercier et.al.|[2603.02090](http://arxiv.org/abs/2603.02090)|null|
@@ -1002,6 +1025,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Chemical Reaction Engineering and Catalysis: AI/ML Workflows and Self-Driving Laboratories**|Rigoberto Advincula et.al.|[2603.05526](http://arxiv.org/abs/2603.05526)|null|
 |**2026-03-05**|**NL2GDS: LLM-aided interface for Open Source Chip Design**|Max Eland et.al.|[2603.05489](http://arxiv.org/abs/2603.05489)|null|
 |**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et.al.|[2603.03517](http://arxiv.org/abs/2603.03517)|null|
 |**2026-02-10**|**RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning**|Ran Li et.al.|[2603.02215](http://arxiv.org/abs/2603.02215)|null|
@@ -1040,11 +1064,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Environment-Aware Path Generation for Robotic Additive Manufacturing of Structures**|Mahsa Rabiei et.al.|[2603.05748](http://arxiv.org/abs/2603.05748)|null|
 |**2026-03-05**|**Beam Geometry-Controlled Nonequilibrium Formation of WS2/CsPbBr3 Hybrids and Interfacial Carrier Dynamics**|Rajendra Kumar Challa et.al.|[2603.04990](http://arxiv.org/abs/2603.04990)|null|
 |**2026-03-05**|**Rotational 3D printing of active-passive filaments and lattices with programmable shape morphing**|Mustafa K. Abdelrahman et.al.|[2603.04694](http://arxiv.org/abs/2603.04694)|null|
 |**2026-03-04**|**A Soft Robotic Demonstration in the Stratosphere**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|
 |**2026-03-03**|**Quantum Theory of Functionally Graded Materials**|Michael J. Landry et.al.|[2603.03424](http://arxiv.org/abs/2603.03424)|null|
-|**2026-02-28**|**Aeroacoustic signatures reveal fast transient dynamics of vapor-jet-driven cavity oscillations in metallic additive manufacturing**|Haolin Liu et.al.|[2603.00789](http://arxiv.org/abs/2603.00789)|null|
+|**2026-03-05**|**Aeroacoustic signatures reveal fast transient dynamics of vapor-jet-driven cavity oscillations in metallic additive manufacturing**|Haolin Liu et.al.|[2603.00789](http://arxiv.org/abs/2603.00789)|null|
 |**2026-02-18**|**Additive Manufacturing-Facilitated Blow Molding for Functional Thin-Walled Polymeric Structures**|Junyu Chen et.al.|[2603.00111](http://arxiv.org/abs/2603.00111)|null|
 |**2026-02-15**|**Polyvinylpyrrolidone planarized liquid crystalline 1T-WS2/rGO hybrid nanocomposites-based humidity sensing platform**|A. Vasilev et.al.|[2602.23385](http://arxiv.org/abs/2602.23385)|null|
 |**2026-02-24**|**Passive freeze-out of the Richtmyer-Meshkov instability**|J. Strucka et.al.|[2602.21375](http://arxiv.org/abs/2602.21375)|null|
@@ -1128,6 +1153,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**|Lijiang Li et.al.|[2603.06577](http://arxiv.org/abs/2603.06577)|null|
+|**2026-03-06**|**A class of d-dimensional directed polymers in a Gaussian environment**|Le Chen et.al.|[2603.06574](http://arxiv.org/abs/2603.06574)|null|
+|**2026-03-06**|**Fly360: Omnidirectional Obstacle Avoidance within Drone View**|Xiangkai Zhang et.al.|[2603.06573](http://arxiv.org/abs/2603.06573)|null|
+|**2026-03-06**|**SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning**|Alejandra Perez et.al.|[2603.06570](http://arxiv.org/abs/2603.06570)|null|
+|**2026-03-06**|**Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders**|Boqiang Zhang et.al.|[2603.06569](http://arxiv.org/abs/2603.06569)|null|
+|**2026-03-06**|**EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking**|Fangrui Zhu et.al.|[2603.06561](http://arxiv.org/abs/2603.06561)|null|
+|**2026-03-06**|**Causal Interpretation of Neural Network Computations with Contribution Decomposition**|Joshua Brendan Melander et.al.|[2603.06557](http://arxiv.org/abs/2603.06557)|null|
+|**2026-03-06**|**Understanding and Finding JIT Compiler Performance Bugs**|Zijian Yi et.al.|[2603.06551](http://arxiv.org/abs/2603.06551)|null|
+|**2026-03-06**|**Adaptive Data-Driven Min-Max MPC for Linear Time-Varying Systems**|Yifan Xie et.al.|[2603.06536](http://arxiv.org/abs/2603.06536)|null|
+|**2026-03-06**|**NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion**|Taewon Kang et.al.|[2603.06533](http://arxiv.org/abs/2603.06533)|null|
 |**2026-03-05**|**Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime**|Andrey Boris Khesin et.al.|[2603.05496](http://arxiv.org/abs/2603.05496)|null|
 |**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
 |**2026-03-05**|**NL2GDS: LLM-aided interface for Open Source Chip Design**|Max Eland et.al.|[2603.05489](http://arxiv.org/abs/2603.05489)|null|
