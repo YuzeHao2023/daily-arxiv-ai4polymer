@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Echo2ECG: Enhancing ECG Representations with Cardiac Morphology from Multi-View Echos**|Michelle Espranita Liman et.al.|[2603.08505](http://arxiv.org/abs/2603.08505)|null|
+|**2026-03-09**|**Learning Multiple Utterance-Level Attribute Representations with a Unified Speech Encoder**|Maryem Bouziane et.al.|[2603.08312](http://arxiv.org/abs/2603.08312)|null|
+|**2026-03-08**|**GSAT: Geometric Traversability Estimation using Self-supervised Learning with Anomaly Detection for Diverse Terrains**|Dongjin Cho et.al.|[2603.07480](http://arxiv.org/abs/2603.07480)|null|
+|**2026-03-07**|**VINO: Video-driven Invariance for Non-contextual Objects via Structural Prior Guided De-contextualization**|Seul-Ki Yeom et.al.|[2603.07222](http://arxiv.org/abs/2603.07222)|null|
+|**2026-03-07**|**Efficient Chest X-ray Representation Learning via Semantic-Partitioned Contrastive Learning**|Wangyu Feng et.al.|[2603.07113](http://arxiv.org/abs/2603.07113)|null|
+|**2026-03-04**|**Soft Equivariance Regularization for Invariant Self-Supervised Learning**|Joohyung Lee et.al.|[2603.06693](http://arxiv.org/abs/2603.06693)|null|
 |**2026-03-06**|**Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR**|Ajinkya Kulkarni et.al.|[2603.06164](http://arxiv.org/abs/2603.06164)|null|
 |**2026-03-05**|**Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels**|Khai Nguyen et.al.|[2603.05495](http://arxiv.org/abs/2603.05495)|null|
 |**2026-03-04**|**Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection**|Cemal Hanilçi et.al.|[2603.03921](http://arxiv.org/abs/2603.03921)|null|
@@ -157,6 +163,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**High Thermal Conductivity in Back-End-of-Line Compatible AlN Thin Films**|Xufei Guo et.al.|[2603.07115](http://arxiv.org/abs/2603.07115)|null|
+|**2026-03-07**|**Realizing microrheological response of configurable viscoelastic media with a dynamic optical trap**|Sanatan Halder et.al.|[2603.07100](http://arxiv.org/abs/2603.07100)|null|
+|**2026-03-07**|**Universal electronic manifolds for extrapolative alloy discovery**|Pranoy Ray et.al.|[2603.06953](http://arxiv.org/abs/2603.06953)|null|
+|**2026-03-06**|**Correlations Between the Dielectric Properties, Domain Structure Morphology and Phase State of Bi1-xSmxFeO3 Nanoparticles**|Oleksandr S. Pylypchuk et.al.|[2603.06897](http://arxiv.org/abs/2603.06897)|null|
 |**2026-03-05**|**Automated High-Throughput Screening of Polymers Using a Computational Workflow**|Lois Smith et.al.|[2603.05362](http://arxiv.org/abs/2603.05362)|null|
 |**2026-03-05**|**Modular memristor model with synaptic-like plasticity and volatile memory**|Daniel Habart et.al.|[2603.04934](http://arxiv.org/abs/2603.04934)|null|
 |**2026-03-05**|**Design rules for industrial-scale sintering of UB4-UBC composites with high uranium density**|Riley Moeykens et.al.|[2603.04824](http://arxiv.org/abs/2603.04824)|null|
@@ -307,6 +317,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Scale Space Diffusion**|Soumik Mukhopadhyay et.al.|[2603.08709](http://arxiv.org/abs/2603.08709)|null|
+|**2026-03-09**|**HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising**|Kai Zou et.al.|[2603.08703](http://arxiv.org/abs/2603.08703)|null|
+|**2026-03-09**|**Context-free Self-Conditioned GAN for Trajectory Forecasting**|Tiago Rodrigues de Almeida et.al.|[2603.08658](http://arxiv.org/abs/2603.08658)|null|
+|**2026-03-09**|**UNBOX: Unveiling Black-box visual models with Natural-language**|Simone Carnemolla et.al.|[2603.08639](http://arxiv.org/abs/2603.08639)|null|
+|**2026-03-09**|**PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition**|Zeyu Ling et.al.|[2603.08590](http://arxiv.org/abs/2603.08590)|null|
+|**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](http://arxiv.org/abs/2603.08483)|null|
+|**2026-03-09**|**$Δ$ VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation**|Yijie Zhu et.al.|[2603.08361](http://arxiv.org/abs/2603.08361)|null|
+|**2026-03-09**|**A reaction-diffusion model for describing the ring/gap structure in disks surrounding individual young stars**|Enrique Lopez-Cabarcos et.al.|[2603.08314](http://arxiv.org/abs/2603.08314)|null|
+|**2026-03-09**|**Retrieval-Augmented Anatomical Guidance for Text-to-CT Generation**|Daniele Molino et.al.|[2603.08305](http://arxiv.org/abs/2603.08305)|null|
+|**2026-03-09**|**Prototype-Guided Concept Erasure in Diffusion Models**|Yuze Cai et.al.|[2603.08271](http://arxiv.org/abs/2603.08271)|null|
 |**2026-03-06**|**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**|Lijiang Li et.al.|[2603.06577](http://arxiv.org/abs/2603.06577)|null|
 |**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
 |**2026-03-06**|**Quantum Diffusion Models: Score Reversal Is Not Free in Gaussian Dynamics**|Ammar Fayad et.al.|[2603.06488](http://arxiv.org/abs/2603.06488)|null|
@@ -622,6 +642,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Understanding thermal and quantum fluctuations in extended Kitaev-Yao-Lee spin-orbital model**|Jiefu Cen et.al.|[2603.08710](http://arxiv.org/abs/2603.08710)|null|
+|**2026-03-09**|**The quantum square-well fluid: a thermodynamic geometric view**|J. L. López-Picón et.al.|[2603.08690](http://arxiv.org/abs/2603.08690)|null|
+|**2026-03-09**|**Experimental investigation of Lévy flights for step-length distributions with a length-dependent local power exponent**|Isaac C. Nunes et.al.|[2603.08666](http://arxiv.org/abs/2603.08666)|null|
+|**2026-03-09**|**Glassy phase transition in immiscible steady-state two-phase flow in porous media**|Santanu Sinha et.al.|[2603.08586](http://arxiv.org/abs/2603.08586)|null|
+|**2026-03-09**|**The Grasshopper Problem on the Sphere**|David Llamas et.al.|[2603.08579](http://arxiv.org/abs/2603.08579)|null|
+|**2026-03-09**|**Evaluation of EMF Exposure to Throughput Ratio for Sustainable 5G Networks**|Dinh Long Trinh et.al.|[2603.08549](http://arxiv.org/abs/2603.08549)|null|
+|**2026-03-09**|**Stochastic Loop Corrections to Belief Propagation for Tensor Network Contraction**|Gi Beom Sim et.al.|[2603.08427](http://arxiv.org/abs/2603.08427)|null|
+|**2026-03-09**|**Meta-RL with Shared Representations Enables Fast Adaptation in Energy Systems**|Théo Zangato et.al.|[2603.08418](http://arxiv.org/abs/2603.08418)|null|
+|**2026-03-09**|**Synchronization of higher-dimensional Kuramoto oscillators on networks: from scalar to matrix-weighted couplings**|Anna Gallo et.al.|[2603.08352](http://arxiv.org/abs/2603.08352)|null|
+|**2026-03-09**|**Mathematical modeling of urban sprawl**|Marc Barthelemy et.al.|[2603.08338](http://arxiv.org/abs/2603.08338)|null|
 |**2026-03-06**|**Balancing Efficiency and Feasibility: A Sensitivity Analysis of the Augmentation Parameter in the Finite Selection Model**|Safaa K. Kadhem et.al.|[2603.06493](http://arxiv.org/abs/2603.06493)|null|
 |**2026-03-06**|**AKLT Hamiltonian from Hubbard tripods**|Claire Benjamin et.al.|[2603.06455](http://arxiv.org/abs/2603.06455)|null|
 |**2026-03-06**|**Thermodynamics of Quantum Coupled Transport**|Shuvadip Ghosh et.al.|[2603.06336](http://arxiv.org/abs/2603.06336)|null|
@@ -937,6 +967,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Evolution and formation of ultramassive white dwarf stars: The case for a 9Msun progenitor**|Ana S. R. Antonini et.al.|[2603.08573](http://arxiv.org/abs/2603.08573)|null|
 |**2026-03-06**|**Nanoscale Electronic Phase Separation Driven by Fe-site Ordering in Fe\textsubscript{5-x}GeTe\textsubscript{2}**|Shreyashi Sinha et.al.|[2603.06539](http://arxiv.org/abs/2603.06539)|null|
 |**2026-03-06**|**Mean-Field Convective Phase Separation under Thermal Gradients**|Meander Van den Brande et.al.|[2603.06214](http://arxiv.org/abs/2603.06214)|null|
 |**2026-03-03**|**All-optical intracellular thermal profiling using nanodiamond-based "thermal radar"**|Jiahua Zhang et.al.|[2603.02708](http://arxiv.org/abs/2603.02708)|null|
@@ -1041,6 +1072,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-08**|**Classifying Novel 3D-Printed Objects without Retraining: Towards Post-Production Automation in Additive Manufacturing**|Fanis Mathioulakis et.al.|[2603.07465](http://arxiv.org/abs/2603.07465)|null|
+|**2026-02-22**|**Phase field as a front propagation method for modeling grain growth in additive manufacturing**|Murali Uddagiri et.al.|[2603.06627](http://arxiv.org/abs/2603.06627)|null|
 |**2026-03-05**|**Environment-Aware Path Generation for Robotic Additive Manufacturing of Structures**|Mahsa Rabiei et.al.|[2603.05748](http://arxiv.org/abs/2603.05748)|null|
 |**2026-03-05**|**Beam Geometry-Controlled Nonequilibrium Formation of WS2/CsPbBr3 Hybrids and Interfacial Carrier Dynamics**|Rajendra Kumar Challa et.al.|[2603.04990](http://arxiv.org/abs/2603.04990)|null|
 |**2026-03-05**|**Rotational 3D printing of active-passive filaments and lattices with programmable shape morphing**|Mustafa K. Abdelrahman et.al.|[2603.04694](http://arxiv.org/abs/2603.04694)|null|
@@ -1126,6 +1159,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting**|Azul Garza et.al.|[2603.08707](http://arxiv.org/abs/2603.08707)|null|
+|**2026-03-09**|**Agentic Critical Training**|Weize Liu et.al.|[2603.08706](http://arxiv.org/abs/2603.08706)|null|
+|**2026-03-09**|**Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines**|Akshay Gulati et.al.|[2603.08704](http://arxiv.org/abs/2603.08704)|null|
+|**2026-03-09**|**Homogeneous ideals with minimal singularity thresholds**|Benjamin Baily et.al.|[2603.08698](http://arxiv.org/abs/2603.08698)|null|
+|**2026-03-09**|**Discovery of intertwined pair density and charge density wave orders in UTe2**|Zhen Zhu et.al.|[2603.08688](http://arxiv.org/abs/2603.08688)|null|
+|**2026-03-09**|**Benchmarking Language Modeling for Lossless Compression of Full-Fidelity Audio**|Phillip Long et.al.|[2603.08683](http://arxiv.org/abs/2603.08683)|null|
+|**2026-03-09**|**Metriq: A Collaborative Platform for Benchmarking Quantum Computers**|Alessandro Cosentino et.al.|[2603.08680](http://arxiv.org/abs/2603.08680)|null|
+|**2026-03-09**|**A New Lower Bound for the Random Offerer Mechanism in Bilateral Trade using AI-Guided Evolutionary Search**|Yang Cai et.al.|[2603.08679](http://arxiv.org/abs/2603.08679)|null|
+|**2026-03-09**|**Talking Together: Synthesizing Co-Located 3D Conversations from Audio**|Mengyi Shan et.al.|[2603.08674](http://arxiv.org/abs/2603.08674)|null|
+|**2026-03-09**|**Faster Parametric Submodular Function Minimization by Exploiting Duality**|Swati Gupta et.al.|[2603.08672](http://arxiv.org/abs/2603.08672)|null|
 |**2026-03-06**|**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**|Lijiang Li et.al.|[2603.06577](http://arxiv.org/abs/2603.06577)|null|
 |**2026-03-06**|**A class of d-dimensional directed polymers in a Gaussian environment**|Le Chen et.al.|[2603.06574](http://arxiv.org/abs/2603.06574)|null|
 |**2026-03-06**|**Fly360: Omnidirectional Obstacle Avoidance within Drone View**|Xiangkai Zhang et.al.|[2603.06573](http://arxiv.org/abs/2603.06573)|null|
