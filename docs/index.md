@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue**|Zi Haur Pang et.al.|[2603.09307](http://arxiv.org/abs/2603.09307)|null|
+|**2026-03-10**|**Learning Convex Decomposition via Feature Fields**|Yuezhi Yang et.al.|[2603.09285](http://arxiv.org/abs/2603.09285)|null|
+|**2026-03-09**|**16 new quasars at the end of the reionization unveiled by self-supervised learning**|L. N. Martínez-Ramírez et.al.|[2603.08830](http://arxiv.org/abs/2603.08830)|null|
+|**2026-03-08**|**EDMFormer: Genre-Specific Self-Supervised Learning for Music Structure Segmentation**|Sahal Sajeer et.al.|[2603.08759](http://arxiv.org/abs/2603.08759)|null|
 |**2026-03-09**|**Echo2ECG: Enhancing ECG Representations with Cardiac Morphology from Multi-View Echos**|Michelle Espranita Liman et.al.|[2603.08505](http://arxiv.org/abs/2603.08505)|null|
 |**2026-03-09**|**Learning Multiple Utterance-Level Attribute Representations with a Unified Speech Encoder**|Maryem Bouziane et.al.|[2603.08312](http://arxiv.org/abs/2603.08312)|null|
 |**2026-03-08**|**GSAT: Geometric Traversability Estimation using Self-supervised Learning with Anomaly Detection for Diverse Terrains**|Dongjin Cho et.al.|[2603.07480](http://arxiv.org/abs/2603.07480)|null|
@@ -163,6 +167,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Experimental Characterization of Biological Tissue Dielectric Properties through THz Time-Domain Spectroscopy**|Elisabetta Marini et.al.|[2603.09807](http://arxiv.org/abs/2603.09807)|null|
+|**2026-03-09**|**Experimental Challenges in Determining Heat Transfer Efficiency Scaling in Highly Turbulent Cryogenic Rayleigh-Benard Convection**|P. Urban et.al.|[2603.08811](http://arxiv.org/abs/2603.08811)|null|
 |**2026-03-07**|**High Thermal Conductivity in Back-End-of-Line Compatible AlN Thin Films**|Xufei Guo et.al.|[2603.07115](http://arxiv.org/abs/2603.07115)|null|
 |**2026-03-07**|**Realizing microrheological response of configurable viscoelastic media with a dynamic optical trap**|Sanatan Halder et.al.|[2603.07100](http://arxiv.org/abs/2603.07100)|null|
 |**2026-03-07**|**Universal electronic manifolds for extrapolative alloy discovery**|Pranoy Ray et.al.|[2603.06953](http://arxiv.org/abs/2603.06953)|null|
@@ -317,6 +323,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models**|Xinyao Zhuang et.al.|[2603.09832](http://arxiv.org/abs/2603.09832)|null|
+|**2026-03-10**|**ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation**|Liudi Yang et.al.|[2603.09819](http://arxiv.org/abs/2603.09819)|null|
+|**2026-03-10**|**Information Theoretic Bayesian Optimization over the Probability Simplex**|Federico Pavesi et.al.|[2603.09793](http://arxiv.org/abs/2603.09793)|null|
+|**2026-03-10**|**AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices**|Bonwook Gu et.al.|[2603.09744](http://arxiv.org/abs/2603.09744)|null|
+|**2026-03-10**|**LAP: A Language-Aware Planning Model For Procedure Planning In Instructional Videos**|Lei Shi et.al.|[2603.09743](http://arxiv.org/abs/2603.09743)|null|
+|**2026-03-10**|**FrameDiT: Diffusion Transformer with Frame-Level Matrix Attention for Efficient Video Generation**|Minh Khoa Le et.al.|[2603.09721](http://arxiv.org/abs/2603.09721)|null|
+|**2026-03-10**|**ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning**|Davit Melikidze et.al.|[2603.09692](http://arxiv.org/abs/2603.09692)|null|
+|**2026-03-10**|**When to Lock Attention: Training-Free KV Control in Video Diffusion**|Tianyi Zeng et.al.|[2603.09657](http://arxiv.org/abs/2603.09657)|null|
+|**2026-03-10**|**Well Log-Guided Synthesis of Subsurface Images from Sparse Petrography Data Using cGANs**|Ali Sadeghkhani et.al.|[2603.09651](http://arxiv.org/abs/2603.09651)|null|
+|**2026-03-10**|**SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation**|Milo Carroll et.al.|[2603.09574](http://arxiv.org/abs/2603.09574)|null|
 |**2026-03-09**|**Scale Space Diffusion**|Soumik Mukhopadhyay et.al.|[2603.08709](http://arxiv.org/abs/2603.08709)|null|
 |**2026-03-09**|**HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising**|Kai Zou et.al.|[2603.08703](http://arxiv.org/abs/2603.08703)|null|
 |**2026-03-09**|**Context-free Self-Conditioned GAN for Trajectory Forecasting**|Tiago Rodrigues de Almeida et.al.|[2603.08658](http://arxiv.org/abs/2603.08658)|null|
@@ -642,6 +658,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Intertwining Markov Processes via Matrix Product Operators**|Rouven Frassek et.al.|[2603.09928](http://arxiv.org/abs/2603.09928)|null|
+|**2026-03-10**|**Subspace decomposition with defect diffusion coefficient**|Dilini Kolombage et.al.|[2603.09924](http://arxiv.org/abs/2603.09924)|null|
+|**2026-03-10**|**Qubit reset beyond the Born-Markov approximation: optimal driving to overcome polaron formation**|Carlos Ortega-Taberner et.al.|[2603.09914](http://arxiv.org/abs/2603.09914)|null|
+|**2026-03-10**|**Quantum control of the environment in open quantum systems enables rapid qubit reset**|Carlos Ortega-Taberner et.al.|[2603.09913](http://arxiv.org/abs/2603.09913)|null|
+|**2026-03-10**|**Critical behavior of the thermal phase transition of U(1) lattice gauge systems**|Greta Sophie Reese et.al.|[2603.09895](http://arxiv.org/abs/2603.09895)|null|
+|**2026-03-10**|**Robust Cooperative Localization in Featureless Environments: A Comparative Study of DCL, StCL, CCL, CI, and Standard-CL**|Nivand Khosravi et.al.|[2603.09886](http://arxiv.org/abs/2603.09886)|null|
+|**2026-03-10**|**Non-equilibrium generalized Langevin equation for multi-dimensional observables**|Benjamin J. A. Héry et.al.|[2603.09850](http://arxiv.org/abs/2603.09850)|null|
+|**2026-03-10**|**Diffusive flux into a stochastically gated tube**|Sean D Lawley et.al.|[2603.09841](http://arxiv.org/abs/2603.09841)|null|
+|**2026-03-10**|**Capacity of Entanglement and Replica Backreaction in RST Gravity**|Raúl Arias et.al.|[2603.09763](http://arxiv.org/abs/2603.09763)|null|
+|**2026-03-10**|**Asymmetric simple exclusion process with tree-like network branches**|Yuki Ishiguro et.al.|[2603.09694](http://arxiv.org/abs/2603.09694)|null|
 |**2026-03-09**|**Understanding thermal and quantum fluctuations in extended Kitaev-Yao-Lee spin-orbital model**|Jiefu Cen et.al.|[2603.08710](http://arxiv.org/abs/2603.08710)|null|
 |**2026-03-09**|**The quantum square-well fluid: a thermodynamic geometric view**|J. L. López-Picón et.al.|[2603.08690](http://arxiv.org/abs/2603.08690)|null|
 |**2026-03-09**|**Experimental investigation of Lévy flights for step-length distributions with a length-dependent local power exponent**|Isaac C. Nunes et.al.|[2603.08666](http://arxiv.org/abs/2603.08666)|null|
@@ -967,6 +993,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Three phases of odd robotic active matter**|Fan Bo et.al.|[2603.09897](http://arxiv.org/abs/2603.09897)|null|
+|**2026-03-10**|**Topological phase transition of deformed ${\mathbb Z}_3$ toric code**|Yun-Tak Oh et.al.|[2603.09107](http://arxiv.org/abs/2603.09107)|null|
+|**2026-03-10**|**Beyond Amplitude: Channel State Information Phase-Aware Deep Fusion for Robotic Activity Recognition**|Rojin Zandi et.al.|[2603.09047](http://arxiv.org/abs/2603.09047)|null|
 |**2026-03-09**|**Evolution and formation of ultramassive white dwarf stars: The case for a 9Msun progenitor**|Ana S. R. Antonini et.al.|[2603.08573](http://arxiv.org/abs/2603.08573)|null|
 |**2026-03-06**|**Nanoscale Electronic Phase Separation Driven by Fe-site Ordering in Fe\textsubscript{5-x}GeTe\textsubscript{2}**|Shreyashi Sinha et.al.|[2603.06539](http://arxiv.org/abs/2603.06539)|null|
 |**2026-03-06**|**Mean-Field Convective Phase Separation under Thermal Gradients**|Meander Van den Brande et.al.|[2603.06214](http://arxiv.org/abs/2603.06214)|null|
@@ -1072,6 +1101,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework**|Engin Deniz Erkan et.al.|[2603.09353](http://arxiv.org/abs/2603.09353)|null|
 |**2026-03-08**|**Classifying Novel 3D-Printed Objects without Retraining: Towards Post-Production Automation in Additive Manufacturing**|Fanis Mathioulakis et.al.|[2603.07465](http://arxiv.org/abs/2603.07465)|null|
 |**2026-02-22**|**Phase field as a front propagation method for modeling grain growth in additive manufacturing**|Murali Uddagiri et.al.|[2603.06627](http://arxiv.org/abs/2603.06627)|null|
 |**2026-03-05**|**Environment-Aware Path Generation for Robotic Additive Manufacturing of Structures**|Mahsa Rabiei et.al.|[2603.05748](http://arxiv.org/abs/2603.05748)|null|
@@ -1125,6 +1155,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Synthetic design of force-responsive hydrogels with ring-forming catch bonds**|Wout Laeremans et.al.|[2603.09911](http://arxiv.org/abs/2603.09911)|null|
+|**2026-03-10**|**A Stable, High-Order Time-Stepping Scheme for the Drift-Diffusion Model in Modern Solar Cell Simulation**|Jun Du et.al.|[2603.09063](http://arxiv.org/abs/2603.09063)|null|
 |**2026-03-04**|**Spectral Bath Engineering for Quantum-Enhanced Agrivoltaics: Advancing Efficiency and Environmental Sustainability via Non-Markovian Dynamics**|Steve Cabrel Teguia Kouam et.al.|[2603.04097](http://arxiv.org/abs/2603.04097)|null|
 |**2026-03-04**|**A hyperelastic theory for nonlinear hydrogel diffusiophoresis**|Chinmay Katke et.al.|[2603.01512](http://arxiv.org/abs/2603.01512)|null|
 |**2026-03-02**|**From Sustainable Materials to User-Centered Sustainability: Material Experience in Art Healing**|Yuxin Zhang et.al.|[2603.01377](http://arxiv.org/abs/2603.01377)|null|
@@ -1159,6 +1191,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**From Data Statistics to Feature Geometry: How Correlations Shape Superposition**|Lucas Prieto et.al.|[2603.09972](http://arxiv.org/abs/2603.09972)|null|
+|**2026-03-10**|**CREATE: Testing LLMs for Associative Creativity**|Manya Wadhwa et.al.|[2603.09970](http://arxiv.org/abs/2603.09970)|null|
+|**2026-03-10**|**ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare**|Freeman Cheng et.al.|[2603.09968](http://arxiv.org/abs/2603.09968)|null|
+|**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|
+|**2026-03-10**|**Tetris is Hard with Just One Piece Type**|MIT Hardness Group et.al.|[2603.09958](http://arxiv.org/abs/2603.09958)|null|
+|**2026-03-10**|**Globally stable, ghost-free hyperbolic square-root deformation of the Starobinsky model**|Andrei Galiautdinov et.al.|[2603.09944](http://arxiv.org/abs/2603.09944)|null|
+|**2026-03-10**|**PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs**|Jinyue Li et.al.|[2603.09943](http://arxiv.org/abs/2603.09943)|null|
+|**2026-03-10**|**SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG**|Fredrik K. Gustafsson et.al.|[2603.09940](http://arxiv.org/abs/2603.09940)|null|
+|**2026-03-10**|**The Hofstadter consecutive-sum sequence omits infinitely many positive integers**|Quanyu Tang et.al.|[2603.09939](http://arxiv.org/abs/2603.09939)|null|
+|**2026-03-10**|**Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions**|Mingyang Song et.al.|[2603.09938](http://arxiv.org/abs/2603.09938)|null|
 |**2026-03-09**|**Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting**|Azul Garza et.al.|[2603.08707](http://arxiv.org/abs/2603.08707)|null|
 |**2026-03-09**|**Agentic Critical Training**|Weize Liu et.al.|[2603.08706](http://arxiv.org/abs/2603.08706)|null|
 |**2026-03-09**|**Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines**|Akshay Gulati et.al.|[2603.08704](http://arxiv.org/abs/2603.08704)|null|
