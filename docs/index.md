@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Representation Learning for Spatiotemporal Physical Systems**|Helen Qu et.al.|[2603.13227](http://arxiv.org/abs/2603.13227)|null|
 |**2026-03-13**|**SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design**|Ruogu Li et.al.|[2603.13098](http://arxiv.org/abs/2603.13098)|null|
 |**2026-03-13**|**DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training**|Ridwan Arefeen et.al.|[2603.12840](http://arxiv.org/abs/2603.12840)|null|
 |**2026-03-12**|**RadEar: A Self-Supervised RF Backscatter System for Voice Eavesdropping and Separation**|Qijun Wang et.al.|[2603.12446](http://arxiv.org/abs/2603.12446)|null|
@@ -343,6 +344,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Yangsong Zhang et.al.|[2603.13228](http://arxiv.org/abs/2603.13228)|null|
+|**2026-03-13**|**DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression**|Junqi Shi et.al.|[2603.13162](http://arxiv.org/abs/2603.13162)|null|
 |**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
 |**2026-03-13**|**BoSS: A Best-of-Strategies Selector as an Oracle for Deep Active Learning**|Denis Huseljic et.al.|[2603.13109](http://arxiv.org/abs/2603.13109)|null|
 |**2026-03-13**|**InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**|Yebin Yang et.al.|[2603.13082](http://arxiv.org/abs/2603.13082)|null|
@@ -708,6 +711,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Robust symmetry breaking in gapless quantum magnets**|Chao Yin et.al.|[2603.13212](http://arxiv.org/abs/2603.13212)|null|
+|**2026-03-13**|**Towers of quantum many-body scars under stochastic resetting**|Lorenzo Gotta et.al.|[2603.13165](http://arxiv.org/abs/2603.13165)|null|
 |**2026-03-13**|**Out-of-equilibrium percolation transitions at finite critical times after quenches across magnetic first-order transitions**|Andrea Pelissetto et.al.|[2603.13127](http://arxiv.org/abs/2603.13127)|null|
 |**2026-03-13**|**Quantum timekeeping and the dynamics of scrambling in critical systems**|Devjyoti Tripathy et.al.|[2603.13016](http://arxiv.org/abs/2603.13016)|null|
 |**2026-03-13**|**Jones index from Rényi entropies in the Ising conformal field theory**|Valentin Benedetti et.al.|[2603.13013](http://arxiv.org/abs/2603.13013)|null|
@@ -1285,6 +1290,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)|null|
+|**2026-03-13**|**A Generative Model of Conspicuous Consumption and Status Signaling**|Logan Cross et.al.|[2603.13220](http://arxiv.org/abs/2603.13220)|null|
+|**2026-03-13**|**First-principles predictions of band alignment in strained Si/Si1-xGex and Ge/Si1-xGex heterostructures**|Nathaniel M. Vegh et.al.|[2603.13219](http://arxiv.org/abs/2603.13219)|null|
+|**2026-03-13**|**Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models**|Ziqi Ma et.al.|[2603.13215](http://arxiv.org/abs/2603.13215)|null|
+|**2026-03-13**|**Investigating mixed-integer programming approaches for the $p$-$α$ -closest-center problem**|Elisabeth Gaar et.al.|[2603.13214](http://arxiv.org/abs/2603.13214)|null|
+|**2026-03-13**|**Robust symmetry breaking in gapless quantum magnets**|Chao Yin et.al.|[2603.13212](http://arxiv.org/abs/2603.13212)|null|
+|**2026-03-13**|**A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**|Linqing Peng et.al.|[2603.13211](http://arxiv.org/abs/2603.13211)|null|
+|**2026-03-13**|**Challenging the Weak Cosmic Censorship with Phantom Fields**|Giovanni Caridi et.al.|[2603.13210](http://arxiv.org/abs/2603.13210)|null|
+|**2026-03-13**|**A Spatial Localizer for Electrons in Insulators**|Haylen Gerhard et.al.|[2603.13206](http://arxiv.org/abs/2603.13206)|null|
+|**2026-03-13**|**Cops and Robbers: A $\times$ -homotopy Invariant Variant**|Tien Chih et.al.|[2603.13192](http://arxiv.org/abs/2603.13192)|null|
 |**2026-03-13**|**Resource-efficient Quantum Algorithms for Selected Hamiltonian Subspace Diagonalization**|Vincent Graves et.al.|[2603.13160](http://arxiv.org/abs/2603.13160)|null|
 |**2026-03-13**|**When Your Model Stops Working: Anytime-Valid Calibration Monitoring**|Tristan Farran et.al.|[2603.13156](http://arxiv.org/abs/2603.13156)|null|
 |**2026-03-13**|**ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**|Siqi Sun et.al.|[2603.13154](http://arxiv.org/abs/2603.13154)|null|
