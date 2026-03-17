@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Self-Distillation of Hidden Layers for Self-Supervised Representation Learning**|Scott C. Lowe et.al.|[2603.15553](http://arxiv.org/abs/2603.15553)|null|
+|**2026-03-16**|**IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning**|Konstantinos Almpanakis et.al.|[2603.15263](http://arxiv.org/abs/2603.15263)|null|
+|**2026-03-16**|**Masked BRep Autoencoder via Hierarchical Graph Transformer**|Yifei Li et.al.|[2603.14927](http://arxiv.org/abs/2603.14927)|null|
+|**2026-03-16**|**Automated Diabetic Screening via Anterior Segment Ocular Imaging: A Deep Learning and Explainable AI Approach**|Hasaan Maqsood et.al.|[2603.14727](http://arxiv.org/abs/2603.14727)|null|
+|**2026-03-15**|**V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning**|Lorenzo Mur-Labadia et.al.|[2603.14482](http://arxiv.org/abs/2603.14482)|null|
+|**2026-03-14**|**What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection**|Shree Harsha Bokkahalli Satish et.al.|[2603.14033](http://arxiv.org/abs/2603.14033)|null|
+|**2026-03-14**|**Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing**|Kursat Komurcu et.al.|[2603.13943](http://arxiv.org/abs/2603.13943)|null|
+|**2026-03-14**|**Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video**|Yuting Tan et.al.|[2603.13912](http://arxiv.org/abs/2603.13912)|null|
+|**2026-03-14**|**Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition**|Seokmin Lee et.al.|[2603.13904](http://arxiv.org/abs/2603.13904)|null|
+|**2026-03-14**|**Evaluating Pretrained General-Purpose Audio Representations for Music Genre Classification**|Kashish Rai et.al.|[2603.13871](http://arxiv.org/abs/2603.13871)|null|
 |**2026-03-13**|**Representation Learning for Spatiotemporal Physical Systems**|Helen Qu et.al.|[2603.13227](http://arxiv.org/abs/2603.13227)|null|
 |**2026-03-13**|**SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design**|Ruogu Li et.al.|[2603.13098](http://arxiv.org/abs/2603.13098)|null|
 |**2026-03-13**|**DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training**|Ridwan Arefeen et.al.|[2603.12840](http://arxiv.org/abs/2603.12840)|null|
@@ -190,6 +200,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Monolithic integration of diverse crystalline thin films on diamond for near-junction thermal management**|Tiancheng Zhao et.al.|[2603.15142](http://arxiv.org/abs/2603.15142)|null|
+|**2026-03-15**|**Atomistic modeling of the hygromechanical properties of amorphous Polyamide 6,6**|Karim Gadelrab et.al.|[2603.14569](http://arxiv.org/abs/2603.14569)|null|
+|**2026-03-15**|**A user-friendly package and workflow for generating effective homogeneous rheologies for the study of the long-term orbital evolution of multilayered planetary bodies**|Yeva Gevorgyan et.al.|[2603.14444](http://arxiv.org/abs/2603.14444)|null|
+|**2026-03-15**|**Evolution of Phonon Transport Across Structural Phase Transitions in MgAgSb**|Luman Shang et.al.|[2603.14213](http://arxiv.org/abs/2603.14213)|null|
+|**2026-03-14**|**Digital Hydrogen Platform (DigHyd): A Rigorously Curated Database for Hydrogen Storage Materials Empowered by AI-Assisted Literature Mining**|Seong-Hoon Jang et.al.|[2603.14139](http://arxiv.org/abs/2603.14139)|null|
+|**2026-03-14**|**Formation and rising phase of a flux rope through data-constrained simulations**|M. V. Sieyra et.al.|[2603.13921](http://arxiv.org/abs/2603.13921)|null|
+|**2026-03-14**|**Phononic Bragg Reflectors for Thermal Insulation of Scalable Cryogenic Control Electronics from Qubits**|Isabelle V. Sprave et.al.|[2603.13726](http://arxiv.org/abs/2603.13726)|null|
+|**2026-03-13**|**Brush-mediated angular constraints reshape structure, rigidity, and percolation in colloidal depletion gels**|Ziye Zhuang et.al.|[2603.13596](http://arxiv.org/abs/2603.13596)|null|
+|**2026-03-13**|**Analyzing coherent phonon mode-conversion in gradient superlattices with atomistic wave-packet simulations**|Evan Wallace Doe et.al.|[2603.13572](http://arxiv.org/abs/2603.13572)|null|
 |**2026-03-13**|**Accelerating materials discovery using foundation model based In-context active learning**|Jeffrey Hu et.al.|[2603.12567](http://arxiv.org/abs/2603.12567)|null|
 |**2026-03-12**|**Optimal Experimental Design for Reliable Learning of History-Dependent Constitutive Laws**|Kaushik Bhattacharya et.al.|[2603.12365](http://arxiv.org/abs/2603.12365)|null|
 |**2026-03-12**|**Fluid-Structure interactions with Navier- and full-slip boundary conditions**|Antonín Češík et.al.|[2603.12030](http://arxiv.org/abs/2603.12030)|null|
@@ -359,6 +378,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**|Zhenghong Zhou et.al.|[2603.15614](http://arxiv.org/abs/2603.15614)|null|
+|**2026-03-16**|**Learning Latent Proxies for Controllable Single-Image Relighting**|Haoze Zheng et.al.|[2603.15555](http://arxiv.org/abs/2603.15555)|null|
+|**2026-03-16**|**Kimodo: Scaling Controllable Human Motion Generation**|Davis Rempe et.al.|[2603.15546](http://arxiv.org/abs/2603.15546)|null|
+|**2026-03-16**|**DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning**|Yifan Wang et.al.|[2603.15540](http://arxiv.org/abs/2603.15540)|null|
+|**2026-03-16**|**RSGen: Enhancing Layout-Driven Remote Sensing Image Generation with Diverse Edge Guidance**|Xianbao Hou et.al.|[2603.15484](http://arxiv.org/abs/2603.15484)|null|
+|**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
+|**2026-03-16**|**Physics-Informed Deep Neural Network Design of Reactively Loaded Metasurfaces**|Malik Almunif et.al.|[2603.15430](http://arxiv.org/abs/2603.15430)|null|
+|**2026-03-16**|**AI Evasion and Impersonation Attacks on Facial Re-Identification with Activation Map Explanations**|Noe Claudel et.al.|[2603.15396](http://arxiv.org/abs/2603.15396)|null|
+|**2026-03-16**|**A PPO-Based Bitrate Allocation Conditional Diffusion Model for Remote Sensing Image Compression**|Yuming Han et.al.|[2603.15365](http://arxiv.org/abs/2603.15365)|null|
+|**2026-03-16**|**CASHomon Sets: Efficient Rashomon Sets Across Multiple Model Classes and their Hyperparameters**|Fiona Katharina Ewald et.al.|[2603.15321](http://arxiv.org/abs/2603.15321)|null|
 |**2026-03-13**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Yangsong Zhang et.al.|[2603.13228](http://arxiv.org/abs/2603.13228)|null|
 |**2026-03-13**|**DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression**|Junqi Shi et.al.|[2603.13162](http://arxiv.org/abs/2603.13162)|null|
 |**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
@@ -728,6 +757,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Nonequilibrium energetics of sensing and actuation by a smart active particle**|Luca Cocconi et.al.|[2603.15602](http://arxiv.org/abs/2603.15602)|null|
+|**2026-03-16**|**Analog-Digital Quantum Computing with Quantum Annealing Processors**|Rahul Deshpande et.al.|[2603.15534](http://arxiv.org/abs/2603.15534)|null|
+|**2026-03-16**|**Glass and jamming transitions in a random organization model**|Leonardo Galliano et.al.|[2603.15519](http://arxiv.org/abs/2603.15519)|null|
+|**2026-03-16**|**A flexible method for estimating luminosity functions via Kernel Density Estimation - III. Extending to Multiple Flux-Limited Samples**|Zunli Yuan et.al.|[2603.15441](http://arxiv.org/abs/2603.15441)|null|
+|**2026-03-16**|**Exact and limit results for the CTRW in presence of drift and position dependent noise intensity**|Marco Bianucci et.al.|[2603.15426](http://arxiv.org/abs/2603.15426)|null|
+|**2026-03-16**|**Extreme-Value Criticality and Gain Decomposition at the Integer Quantum Hall Transition**|Wei-Han Li et.al.|[2603.15290](http://arxiv.org/abs/2603.15290)|null|
+|**2026-03-16**|**A Formal Physical Framework for the Origin of Life: Dissipation-Driven Selection of Evolving Replicators**|Shlomo Segal et.al.|[2603.15230](http://arxiv.org/abs/2603.15230)|null|
+|**2026-03-16**|**Lee-Yang Zeros and Pseudocritical Drift in J-Q Néel-VBS Transitions**|Chunhao Guo et.al.|[2603.15116](http://arxiv.org/abs/2603.15116)|null|
+|**2026-03-16**|**The Chandrasekhar's Conditions as Equilibrium and Stability of Stars in a Universal Three-Parameter Non-Maxwell Distribution**|Wei Hu et.al.|[2603.15060](http://arxiv.org/abs/2603.15060)|null|
+|**2026-03-16**|**Diverse communities promote the coexistence of closely-related strains through emergent equalization and stabilization**|Naven Narayanan Venkatanarayanan et.al.|[2603.15052](http://arxiv.org/abs/2603.15052)|null|
 |**2026-03-13**|**Robust symmetry breaking in gapless quantum magnets**|Chao Yin et.al.|[2603.13212](http://arxiv.org/abs/2603.13212)|null|
 |**2026-03-13**|**Towers of quantum many-body scars under stochastic resetting**|Lorenzo Gotta et.al.|[2603.13165](http://arxiv.org/abs/2603.13165)|null|
 |**2026-03-13**|**Out-of-equilibrium percolation transitions at finite critical times after quenches across magnetic first-order transitions**|Andrea Pelissetto et.al.|[2603.13127](http://arxiv.org/abs/2603.13127)|null|
@@ -1097,6 +1136,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Understanding early stages of low-temperature hydrogen-driven direct co-reduction of Fe-Ni mixed oxide thin films at the near atomic scale**|Emmanuel Uwayezu et.al.|[2603.15456](http://arxiv.org/abs/2603.15456)|null|
+|**2026-03-16**|**Mapping of the Cold Neutral Medium via HI Phase Separation in an Atomic Cloud Undergoing Molecular Cloud Formation**|Yamato Matsuzuki et.al.|[2603.14967](http://arxiv.org/abs/2603.14967)|null|
+|**2026-03-15**|**Dissipative self-assembly of colloidal suspensions**|Jason Conradt et.al.|[2603.14637](http://arxiv.org/abs/2603.14637)|null|
 |**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|null|
 |**2026-03-13**|**Polymer-Residue Accessibility Shapes Sequence Dependence of Critical Temperatures for Phase Separation**|J. Pedro de Souza et.al.|[2603.12534](http://arxiv.org/abs/2603.12534)|null|
 |**2026-03-12**|**Arrested coalescence drives helical coiling and networking of filamentous smectic condensates**|Christopher A. Browne et.al.|[2603.12124](http://arxiv.org/abs/2603.12124)|null|
@@ -1219,6 +1261,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**4D Synchrotron X-Ray Multi Projection Imaging (XMPI) for studying multiphase flow dynamics and flow instabilities in porous networks**|Patrick Wegele et.al.|[2603.15319](http://arxiv.org/abs/2603.15319)|null|
+|**2026-03-16**|**PiGRAND: Physics-informed Graph Neural Diffusion for Intelligent Additive Manufacturing**|Benjamin Uhrich et.al.|[2603.15194](http://arxiv.org/abs/2603.15194)|null|
+|**2026-03-16**|**A biomimetic feedback loop for sustaining self-lubrication and wear resistance**|Fuyan Kang et.al.|[2603.15181](http://arxiv.org/abs/2603.15181)|null|
+|**2026-03-15**|**Predicting Stress-strain Behaviors of Additively Manufactured Materials via Loss-based and Activation-based Physics-informed Machine Learning**|Chenglong Duan et.al.|[2603.14489](http://arxiv.org/abs/2603.14489)|null|
+|**2026-03-15**|**4D reconstruction of alumina laser melt pools at 25 kHz via operando X-ray multi-projection imaging**|Lars Witte et.al.|[2603.14391](http://arxiv.org/abs/2603.14391)|null|
+|**2026-03-14**|**Efficient Semi-Automated Material Microstructure Analysis Using Deep Learning: A Case Study in Additive Manufacturing**|Sanjeev S. Navaratna et.al.|[2603.13831](http://arxiv.org/abs/2603.13831)|null|
 |**2026-03-13**|**Dynamic analysis of refractive index evolution and diffraction properties during single-photon polymerization of photopolymers for micro-optical applications**|Andreas Heinrich et.al.|[2603.12889](http://arxiv.org/abs/2603.12889)|null|
 |**2026-03-11**|**Efficient Fine-Scale Simulation of Nonlinear Hyperelastic Lattice Structures**|Clément Guillet et.al.|[2603.10741](http://arxiv.org/abs/2603.10741)|null|
 |**2026-03-10**|**Intertwined Swirling Polarization States in BaTiO $_3$ with Embedded BaZrO$_3$ Nanoregions**|R. Machado et.al.|[2603.10154](http://arxiv.org/abs/2603.10154)|null|
@@ -1317,6 +1365,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Towards Generalizable Robotic Manipulation in Dynamic Environments**|Heng Fang et.al.|[2603.15620](http://arxiv.org/abs/2603.15620)|null|
+|**2026-03-16**|**Mixture-of-Depths Attention**|Lianghui Zhu et.al.|[2603.15619](http://arxiv.org/abs/2603.15619)|null|
+|**2026-03-16**|**HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification**|Erik Y. Wang et.al.|[2603.15617](http://arxiv.org/abs/2603.15617)|null|
+|**2026-03-16**|**Mechanistic Origin of Moral Indifference in Language Models**|Lingyu Li et.al.|[2603.15615](http://arxiv.org/abs/2603.15615)|null|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
+|**2026-03-16**|**Benchmarking quantum simulation with neutron-scattering experiments**|Yi-Ting Lee et.al.|[2603.15608](http://arxiv.org/abs/2603.15608)|null|
+|**2026-03-16**|**Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery**|Timing Yang et.al.|[2603.15603](http://arxiv.org/abs/2603.15603)|null|
+|**2026-03-16**|**From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation**|Yibin Liu et.al.|[2603.15600](http://arxiv.org/abs/2603.15600)|null|
+|**2026-03-16**|**SmartSearch: How Ranking Beats Structure for Conversational Memory Retrieval**|Jesper Derehag et.al.|[2603.15599](http://arxiv.org/abs/2603.15599)|null|
+|**2026-03-16**|**Bouncing geodesics, black hole singularities, and singularities of thermal correlators**|Sašo Grozdanov et.al.|[2603.15598](http://arxiv.org/abs/2603.15598)|null|
 |**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)|null|
 |**2026-03-13**|**A Generative Model of Conspicuous Consumption and Status Signaling**|Logan Cross et.al.|[2603.13220](http://arxiv.org/abs/2603.13220)|null|
 |**2026-03-13**|**First-principles predictions of band alignment in strained Si/Si1-xGex and Ge/Si1-xGex heterostructures**|Nathaniel M. Vegh et.al.|[2603.13219](http://arxiv.org/abs/2603.13219)|null|
