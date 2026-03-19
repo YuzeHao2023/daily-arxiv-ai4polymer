@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data**|Cai Xu et.al.|[2603.17610](http://arxiv.org/abs/2603.17610)|null|
 |**2026-03-17**|**Self-Conditioned Denoising for Atomistic Representation Learning**|Tynan Perez et.al.|[2603.17196](http://arxiv.org/abs/2603.17196)|null|
 |**2026-03-17**|**Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation**|Marceau Lafargue-Hauret et.al.|[2603.17110](http://arxiv.org/abs/2603.17110)|null|
 |**2026-03-17**|**Cross-modal learning for plankton recognition**|Joona Kareinen et.al.|[2603.16427](http://arxiv.org/abs/2603.16427)|null|
@@ -192,6 +193,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Pressure-induced Superconductivity in AgSbTe2**|Sudaice Kazibwe et.al.|[2603.17846](http://arxiv.org/abs/2603.17846)|null|
+|**2026-03-18**|**Deep Learning-Based 3D Seismic Velocity Inversion Under Dual-Domain Sparse Representation**|Guoxin Chen et.al.|[2603.17701](http://arxiv.org/abs/2603.17701)|null|
+|**2026-03-18**|**Identification of sub-angstrom many-body localization in quantum materials by Bragg scattering phase breaking and ultrafast structural dynamics**|Yingpeng Qi et.al.|[2603.17591](http://arxiv.org/abs/2603.17591)|null|
 |**2026-03-17**|**Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks**|Pietro Miotti et.al.|[2603.17180](http://arxiv.org/abs/2603.17180)|null|
 |**2026-03-17**|**Accelerating Structure-Property Relationship Discovery with Multimodal Machine Learning and Self-Driving Microscopy**|Jiawei Gong et.al.|[2603.17028](http://arxiv.org/abs/2603.17028)|null|
 |**2026-03-17**|**Resetting in a viscoelastic bath: the bath remembers**|Ion Santra et.al.|[2603.17027](http://arxiv.org/abs/2603.17027)|null|
@@ -382,6 +386,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors**|Aymen Mir et.al.|[2603.17975](http://arxiv.org/abs/2603.17975)|null|
+|**2026-03-18**|**LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition**|Vlad-Constantin Lungu-Stan et.al.|[2603.17965](http://arxiv.org/abs/2603.17965)|null|
+|**2026-03-18**|**TransText: Transparency Aware Image-to-Video Typography Animation**|Fei Zhang et.al.|[2603.17944](http://arxiv.org/abs/2603.17944)|null|
+|**2026-03-18**|**Noise-Aware Misclassification Attack Detection in Collaborative DNN Inference**|Shima Yousefi et.al.|[2603.17914](http://arxiv.org/abs/2603.17914)|null|
+|**2026-03-18**|**Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control**|Zunzhe Zhang et.al.|[2603.17834](http://arxiv.org/abs/2603.17834)|null|
+|**2026-03-18**|**TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models**|Qianlong Xiang et.al.|[2603.17828](http://arxiv.org/abs/2603.17828)|null|
+|**2026-03-18**|**ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**|Dmitriy Rivkin et.al.|[2603.17812](http://arxiv.org/abs/2603.17812)|null|
+|**2026-03-18**|**CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**|Yizheng Song et.al.|[2603.17779](http://arxiv.org/abs/2603.17779)|null|
+|**2026-03-18**|**Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems**|Qi Liu et.al.|[2603.17750](http://arxiv.org/abs/2603.17750)|null|
+|**2026-03-18**|**TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**|Yan Zeng et.al.|[2603.17735](http://arxiv.org/abs/2603.17735)|null|
 |**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
 |**2026-03-18**|**Proof-of-Authorship for Diffusion-based AI Generated Content**|De Zhang Lee et.al.|[2603.17513](http://arxiv.org/abs/2603.17513)|null|
 |**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
@@ -779,6 +793,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation**|Omar Alsheikh et.al.|[2603.17971](http://arxiv.org/abs/2603.17971)|null|
+|**2026-03-18**|**Physical Approaches to Metabolic Scaling in Living Systems**|Efe Ilker et.al.|[2603.17950](http://arxiv.org/abs/2603.17950)|null|
+|**2026-03-18**|**Universal scaling of transport coefficients near the liquid-gas critical point**|Johannes V. Roth et.al.|[2603.17874](http://arxiv.org/abs/2603.17874)|null|
+|**2026-03-18**|**Two stroke Pumping Technique for Many-Body Systems**|Serge Galam et.al.|[2603.17873](http://arxiv.org/abs/2603.17873)|null|
+|**2026-03-18**|**Quasi-local Edge Mode in XXX Spin Chain/Circuit with Interaction Boundary Defect**|Tomaž Prosen et.al.|[2603.17835](http://arxiv.org/abs/2603.17835)|null|
+|**2026-03-18**|**Emergent superconformal symmetry in the phase diagram of a 1D $\mathbb{Z}_{2}$ lattice gauge theory**|Bachana Beradze et.al.|[2603.17807](http://arxiv.org/abs/2603.17807)|null|
+|**2026-03-18**|**Optimal transport of an active particle near a plane wall**|Utkarsh Maurya et.al.|[2603.17798](http://arxiv.org/abs/2603.17798)|null|
+|**2026-03-18**|**The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery**|Narjes Ansari et.al.|[2603.17790](http://arxiv.org/abs/2603.17790)|null|
+|**2026-03-18**|**Critical Scaling of Finite-Size Fluctuations around Marginal Stability in Long-Range Hamiltonian Systems**|Yoshiyuki Y. Yamaguchi et.al.|[2603.17738](http://arxiv.org/abs/2603.17738)|null|
+|**2026-03-18**|**Dielectric response and structural properties of finite-temperature electron liquids**|Chengliang Lin et.al.|[2603.17699](http://arxiv.org/abs/2603.17699)|null|
 |**2026-03-18**|**Study of Meta-Fibonacci Integer Sequences by Continuous Self-Referential Functional Equations**|Klaus Pinn et.al.|[2603.17509](http://arxiv.org/abs/2603.17509)|null|
 |**2026-03-18**|**Information-Geometric Signatures from Nonextensivity in the $1$ -D Blume-Capel Model**|Amijit Bhattacharjee et.al.|[2603.17483](http://arxiv.org/abs/2603.17483)|null|
 |**2026-03-18**|**A Full-Density Approach to Simulating Random Iteration Equations with Applications**|Wolfgang Hoegele et.al.|[2603.17466](http://arxiv.org/abs/2603.17466)|null|
@@ -1176,6 +1200,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Non-equilibrium phase coexistence in conserved chemically active mixtures**|Florian Raßhofer et.al.|[2603.17690](http://arxiv.org/abs/2603.17690)|null|
+|**2026-03-18**|**Local composition controls pattern formation in conserved active emulsions**|Florian Raßhofer et.al.|[2603.17608](http://arxiv.org/abs/2603.17608)|null|
 |**2026-03-18**|**Phase Transition of Hard Disk Systems with Vicsek-type Interactions**|Nobuaki Murase et.al.|[2603.17393](http://arxiv.org/abs/2603.17393)|null|
 |**2026-03-18**|**Hexatic Order Coupled with Thermal Noise Produces Bubbles in Two-Dimensional Active Matter**|Luke Langford et.al.|[2603.17320](http://arxiv.org/abs/2603.17320)|null|
 |**2026-03-18**|**Thermodynamic accessibility of Li-Mn-Ti-O cation disordered rock-salt phases**|Ronald L. Kam et.al.|[2603.17263](http://arxiv.org/abs/2603.17263)|null|
@@ -1369,6 +1395,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Entropy maximization underlies topology and mechanical properties in dynamic covalent hydrogels**|Lucien Cousin et.al.|[2603.17871](http://arxiv.org/abs/2603.17871)|null|
 |**2026-03-17**|**Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks**|Pietro Miotti et.al.|[2603.17180](http://arxiv.org/abs/2603.17180)|null|
 |**2026-03-15**|**Life cycle assessment for all organic chemicals**|Shaohan Chen et.al.|[2603.15686](http://arxiv.org/abs/2603.15686)|null|
 |**2026-03-13**|**Production of Low-Density Aerogel Nuclear Fuels for Use in Fission Fragment Rockets and Novel Reactor Design**|Noah D'Amico et.al.|[2603.15673](http://arxiv.org/abs/2603.15673)|null|
@@ -1409,6 +1436,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models**|Kevin Qu et.al.|[2603.18002](http://arxiv.org/abs/2603.18002)|null|
+|**2026-03-18**|**EchoGen: Cycle-Consistent Learning for Unified Layout-Image Generation and Understanding**|Kai Zou et.al.|[2603.18001](http://arxiv.org/abs/2603.18001)|null|
+|**2026-03-18**|**GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes**|Huajian Zeng et.al.|[2603.17993](http://arxiv.org/abs/2603.17993)|null|
+|**2026-03-18**|**A new class of orthogonal polynomials**|Stefan Kahler et.al.|[2603.17983](http://arxiv.org/abs/2603.17983)|null|
+|**2026-03-18**|**Toward Scalable Automated Repository-Level Datasets for Software Vulnerability Detection**|Amine Lbath et.al.|[2603.17974](http://arxiv.org/abs/2603.17974)|null|
+|**2026-03-18**|**TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis**|Pepe Alonso et.al.|[2603.17973](http://arxiv.org/abs/2603.17973)|null|
+|**2026-03-18**|**LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition**|Vlad-Constantin Lungu-Stan et.al.|[2603.17965](http://arxiv.org/abs/2603.17965)|null|
+|**2026-03-18**|**ConGA: Guidelines for Contextual Gender Annotation. A Framework for Annotating Gender in Machine Translation**|Argentina Anna Rescigno et.al.|[2603.17962](http://arxiv.org/abs/2603.17962)|null|
+|**2026-03-18**|**Gender Disambiguation in Machine Translation: Diagnostic Evaluation in Decoder-Only Architectures**|Chiara Manna et.al.|[2603.17952](http://arxiv.org/abs/2603.17952)|null|
+|**2026-03-18**|**Physical Approaches to Metabolic Scaling in Living Systems**|Efe Ilker et.al.|[2603.17950](http://arxiv.org/abs/2603.17950)|null|
 |**2026-03-18**|**KineVLA: Towards Kinematics-Aware Vision-Language-Action Models with Bi-Level Action Decomposition**|Gaoge Han et.al.|[2603.17524](http://arxiv.org/abs/2603.17524)|null|
 |**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
 |**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
