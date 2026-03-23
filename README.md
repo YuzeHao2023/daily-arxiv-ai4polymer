@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning**|Moritz Gögl et.al.|[2603.20111](http://arxiv.org/abs/2603.20111)|null|
 |**2026-03-20**|**LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions**|Ji-il Park et.al.|[2603.19936](http://arxiv.org/abs/2603.19936)|null|
 |**2026-03-19**|**Towards Interpretable Foundation Models for Retinal Fundus Images**|Samuel Ofosu Mensah et.al.|[2603.18846](http://arxiv.org/abs/2603.18846)|null|
 |**2026-03-19**|**Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2603.18556](http://arxiv.org/abs/2603.18556)|null|
@@ -414,6 +415,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**|Jiazheng Xing et.al.|[2603.20192](http://arxiv.org/abs/2603.20192)|null|
+|**2026-03-20**|**Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods**|Sebastian Gerard et.al.|[2603.20188](http://arxiv.org/abs/2603.20188)|null|
+|**2026-03-20**|**Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD**|Emiel Hoogeboom et.al.|[2603.20155](http://arxiv.org/abs/2603.20155)|null|
+|**2026-03-20**|**Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech**|Niclas Pokel et.al.|[2603.20112](http://arxiv.org/abs/2603.20112)|null|
+|**2026-03-20**|**How Out-of-Equilibrium Phase Transitions can Seed Pattern Formation in Trained Diffusion Models**|Luca Ambrogioni et.al.|[2603.20092](http://arxiv.org/abs/2603.20092)|null|
 |**2026-03-20**|**Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences**|Panagiota Birmpa et.al.|[2603.20025](http://arxiv.org/abs/2603.20025)|null|
 |**2026-03-20**|**Physics-Informed Long-Range Coulomb Correction for Machine-learning Hamiltonians**|Yang Zhong et.al.|[2603.20007](http://arxiv.org/abs/2603.20007)|null|
 |**2026-03-20**|**Graph2TS: Structure-Controlled Time Series Generation via Quantile-Graph VAEs**|Shaoshuai Du et.al.|[2603.19970](http://arxiv.org/abs/2603.19970)|null|
@@ -843,6 +849,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder**|Ahmed Abuali et.al.|[2603.20157](http://arxiv.org/abs/2603.20157)|null|
+|**2026-03-20**|**Binary colloidal mixtures in near-critical binary solvents**|Nima Farahmand Bafi et.al.|[2603.20137](http://arxiv.org/abs/2603.20137)|null|
+|**2026-03-20**|**Triple/Double-Debiased Lasso**|Denis Chetverikov et.al.|[2603.20134](http://arxiv.org/abs/2603.20134)|null|
+|**2026-03-20**|**Analyzing Decoders for Quantum Error Correction**|Abtin Molavi et.al.|[2603.20127](http://arxiv.org/abs/2603.20127)|null|
+|**2026-03-20**|**Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy**|Florian Millo et.al.|[2603.20106](http://arxiv.org/abs/2603.20106)|null|
+|**2026-03-20**|**The monotonicity of the Franz-Parisi potential is equivalent with Low-degree MMSE lower bounds**|Konstantinos Tsirkas et.al.|[2603.20070](http://arxiv.org/abs/2603.20070)|null|
+|**2026-03-20**|**Edge Currents Shape Condensates in Chiral Active Matter**|Boyi Wang et.al.|[2603.20064](http://arxiv.org/abs/2603.20064)|null|
+|**2026-03-20**|**Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution**|A. Kovalenko et.al.|[2603.20057](http://arxiv.org/abs/2603.20057)|null|
 |**2026-03-20**|**Strong Violation of the Thermodynamic Uncertainty Relation in a Minimal Autonomous Heat Engine**|Enrique P. Cital et.al.|[2603.20041](http://arxiv.org/abs/2603.20041)|null|
 |**2026-03-20**|**Q-approximation of operating characteristics of clinical trial designs**|Susanna Gentile et.al.|[2603.20022](http://arxiv.org/abs/2603.20022)|null|
 |**2026-03-20**|**One-parameter counterexamples to the refined Bessis-Moussa-Villani conjecture**|Hyunho Cha et.al.|[2603.19927](http://arxiv.org/abs/2603.19927)|null|
@@ -1272,6 +1286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Edge Currents Shape Condensates in Chiral Active Matter**|Boyi Wang et.al.|[2603.20064](http://arxiv.org/abs/2603.20064)|null|
 |**2026-03-20**|**Symmetric mixtures in slit-like pores with selective walls**|A. Patrykiejew et.al.|[2603.20023](http://arxiv.org/abs/2603.20023)|null|
 |**2026-03-20**|**Continuous crossover between high-pressure ice phases VII and X driven by monopole screening: a model study**|Sena Watanabe et.al.|[2603.19620](http://arxiv.org/abs/2603.19620)|null|
 |**2026-03-20**|**The effect of interactions on elastic cavitation**|Ali Saeedi et.al.|[2603.19603](http://arxiv.org/abs/2603.19603)|null|
@@ -1379,7 +1394,7 @@
 |**2026-02-10**|**RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning**|Ran Li et.al.|[2603.02215](http://arxiv.org/abs/2603.02215)|null|
 |**2026-02-26**|**Q-Tag: Watermarking Quantum Circuit Generative Models**|Yang Yang et.al.|[2602.23085](http://arxiv.org/abs/2602.23085)|null|
 |**2026-02-24**|**Automated Detection and Mitigation of Dependability Failures in Healthcare Scenarios through Digital Twins**|Bruno Guindani et.al.|[2602.21037](http://arxiv.org/abs/2602.21037)|null|
-|**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
+|**2026-03-20**|**Practical and accurate density functionals for transition-metal heterogeneous catalysis**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
 |**2026-02-15**|**GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training**|Yuan Cao et.al.|[2602.14093](http://arxiv.org/abs/2602.14093)|null|
 |**2026-02-13**|**Protect $^*$ : Steerable Retrosynthesis through Neuro-Symbolic State Encoding**|Shreyas Vinaya Sathyanarayana et.al.|[2602.13419](http://arxiv.org/abs/2602.13419)|null|
 |**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
@@ -1480,6 +1495,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Mechanical response of a simple DNA nanostar hydrogel: symptoms of disorder and glassy emergence of solidity**|Hajar Ajiyel et.al.|[2603.20119](http://arxiv.org/abs/2603.20119)|null|
+|**2026-03-20**|**Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution**|A. Kovalenko et.al.|[2603.20057](http://arxiv.org/abs/2603.20057)|null|
 |**2026-03-19**|**Entropy maximization underlies topology and mechanical properties in dynamic covalent hydrogels**|Lucien Cousin et.al.|[2603.17871](http://arxiv.org/abs/2603.17871)|null|
 |**2026-03-20**|**Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks**|Pietro Miotti et.al.|[2603.17180](http://arxiv.org/abs/2603.17180)|null|
 |**2026-03-15**|**Life cycle assessment for all organic chemicals**|Shaohan Chen et.al.|[2603.15686](http://arxiv.org/abs/2603.15686)|null|
@@ -1523,6 +1540,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints**|Yu Qi et.al.|[2603.20194](http://arxiv.org/abs/2603.20194)|null|
+|**2026-03-20**|**From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**|Xinyi Shang et.al.|[2603.20193](http://arxiv.org/abs/2603.20193)|null|
+|**2026-03-20**|**LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**|Jiazheng Xing et.al.|[2603.20192](http://arxiv.org/abs/2603.20192)|null|
+|**2026-03-20**|**CoVR-R:Reason-Aware Composed Video Retrieval**|Omkar Thawakar et.al.|[2603.20190](http://arxiv.org/abs/2603.20190)|null|
+|**2026-03-20**|**VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking**|Jingyang Lin et.al.|[2603.20185](http://arxiv.org/abs/2603.20185)|null|
+|**2026-03-20**|**Kolmogorov-Arnold causal generative models**|Alejandro Almodóvar et.al.|[2603.20184](http://arxiv.org/abs/2603.20184)|null|
+|**2026-03-20**|**Prediction and Experimental Verification of Electrolyte Solvation Structure from an OMol25-Trained Interatomic Potential**|Nitesh Kumar et.al.|[2603.20183](http://arxiv.org/abs/2603.20183)|null|
+|**2026-03-20**|**IndoorR2X: Indoor Robot-to-Everything Coordination with LLM-Driven Planning**|Fan Yang et.al.|[2603.20182](http://arxiv.org/abs/2603.20182)|null|
+|**2026-03-20**|**Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning**|Jianan Huang et.al.|[2603.20181](http://arxiv.org/abs/2603.20181)|null|
+|**2026-03-20**|**TinyML Enhances CubeSat Mission Capabilities**|Luigi Capogrosso et.al.|[2603.20174](http://arxiv.org/abs/2603.20174)|null|
 |**2026-03-20**|**Dominated sets, microscopic sets and Hausdorff measures**|Ondřej Zindulka et.al.|[2603.20050](http://arxiv.org/abs/2603.20050)|null|
 |**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
 |**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
