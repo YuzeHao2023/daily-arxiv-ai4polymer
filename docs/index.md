@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions**|Ji-il Park et.al.|[2603.19936](http://arxiv.org/abs/2603.19936)|null|
 |**2026-03-19**|**Towards Interpretable Foundation Models for Retinal Fundus Images**|Samuel Ofosu Mensah et.al.|[2603.18846](http://arxiv.org/abs/2603.18846)|null|
 |**2026-03-19**|**Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2603.18556](http://arxiv.org/abs/2603.18556)|null|
 |**2026-03-18**|**AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data**|Cai Xu et.al.|[2603.17610](http://arxiv.org/abs/2603.17610)|null|
@@ -195,6 +196,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy**|Xiankang Tang et.al.|[2603.19943](http://arxiv.org/abs/2603.19943)|null|
+|**2026-03-20**|**A Complete X-ray View of Supernova Remnant W28 with Einstein Probe: Spatial Distribution of Parameters and Origin of the Thermal-Composite Morphology**|Yi-Heng Chi et.al.|[2603.19886](http://arxiv.org/abs/2603.19886)|null|
+|**2026-03-20**|**Amorphous Silicates -- Time-Current Superposition and the Dynamics of Plastic Flow in the Glassy State**|Matthieu Bourguignon et.al.|[2603.19816](http://arxiv.org/abs/2603.19816)|null|
+|**2026-03-19**|**Single-Crystal AlN Wafer-Based Bulk Acoustic Resonators for Piezoelectric Power Conversion**|Ziqian Yao et.al.|[2603.19409](http://arxiv.org/abs/2603.19409)|null|
 |**2026-03-19**|**Analysis of Io's tidal response as a function of the properties of the partially molten layer**|M. Paris et.al.|[2603.19095](http://arxiv.org/abs/2603.19095)|null|
 |**2026-03-19**|**Microscopic Origin of Temperature-Dependent Anisotropic Heat Transport in Ultrawide-Bandgap Rutile GeO2**|Pouria Emtenani et.al.|[2603.18885](http://arxiv.org/abs/2603.18885)|null|
 |**2026-03-19**|**Phonon Band Center: A Robust Descriptor to Capture Anharmonicity**|Madhubanti Mukherjee et.al.|[2603.18791](http://arxiv.org/abs/2603.18791)|null|
@@ -394,6 +399,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences**|Panagiota Birmpa et.al.|[2603.20025](http://arxiv.org/abs/2603.20025)|null|
+|**2026-03-20**|**Physics-Informed Long-Range Coulomb Correction for Machine-learning Hamiltonians**|Yang Zhong et.al.|[2603.20007](http://arxiv.org/abs/2603.20007)|null|
+|**2026-03-20**|**Graph2TS: Structure-Controlled Time Series Generation via Quantile-Graph VAEs**|Shaoshuai Du et.al.|[2603.19970](http://arxiv.org/abs/2603.19970)|null|
+|**2026-03-20**|**Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy**|Xiankang Tang et.al.|[2603.19943](http://arxiv.org/abs/2603.19943)|null|
+|**2026-03-20**|**Timestep-Aware Block Masking for Efficient Diffusion Model Inference**|Haodong He et.al.|[2603.19939](http://arxiv.org/abs/2603.19939)|null|
+|**2026-03-20**|**ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis**|Lubin Gan et.al.|[2603.19925](http://arxiv.org/abs/2603.19925)|null|
+|**2026-03-20**|**Data-Efficient Active Learning Discovery of Transition Metal Photosensitizers for Type I Photodynamic Therapy**|Alessio Fallani et.al.|[2603.19912](http://arxiv.org/abs/2603.19912)|null|
+|**2026-03-20**|**A distribution-free lattice Boltzmann method for compartmental reaction-diffusion systems with application to epidemic modelling**|Alessandro De Rosis et.al.|[2603.19789](http://arxiv.org/abs/2603.19789)|null|
+|**2026-03-20**|**Diminishing Returns in Expanding Generative Models and Godel-Tarski-Lob Limits**|Angshul Majumdar et.al.|[2603.19687](http://arxiv.org/abs/2603.19687)|null|
+|**2026-03-20**|**ATHENA: Adaptive Test-Time Steering for Improving Count Fidelity in Diffusion Models**|Mohammad Shahab Sepehri et.al.|[2603.19676](http://arxiv.org/abs/2603.19676)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer**|Chenyang Gu et.al.|[2603.19227](http://arxiv.org/abs/2603.19227)|null|
 |**2026-03-19**|**Spectrally-Guided Diffusion Noise Schedules**|Carlos Esteves et.al.|[2603.19222](http://arxiv.org/abs/2603.19222)|null|
@@ -811,6 +826,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Strong Violation of the Thermodynamic Uncertainty Relation in a Minimal Autonomous Heat Engine**|Enrique P. Cital et.al.|[2603.20041](http://arxiv.org/abs/2603.20041)|null|
+|**2026-03-20**|**Q-approximation of operating characteristics of clinical trial designs**|Susanna Gentile et.al.|[2603.20022](http://arxiv.org/abs/2603.20022)|null|
+|**2026-03-20**|**One-parameter counterexamples to the refined Bessis-Moussa-Villani conjecture**|Hyunho Cha et.al.|[2603.19927](http://arxiv.org/abs/2603.19927)|null|
+|**2026-03-20**|**Macroscopic Mpemba Effect from Cumulative-Heat-Enhanced Relaxation**|Yun-Qian Lin et.al.|[2603.19887](http://arxiv.org/abs/2603.19887)|null|
+|**2026-03-20**|**Pareto fronts and trade-off relations from exact multi-objective optimization of thermal machines**|José A. Almanza-Marrero et.al.|[2603.19885](http://arxiv.org/abs/2603.19885)|null|
+|**2026-03-20**|**Starvation suppression in scale-free metabolic networks: Dynamical mean-field analysis of dense catalytic reaction networks**|Kota Mitsumoto et.al.|[2603.19850](http://arxiv.org/abs/2603.19850)|null|
+|**2026-03-20**|**Optimal Hedge Ratio for Delta-Neutral Liquidity Provision under Liquidation Constraints**|Atsushi Hane et.al.|[2603.19716](http://arxiv.org/abs/2603.19716)|null|
+|**2026-03-20**|**Logistic-aided Huber M-estimator for robust GNSS positioning**|Zhengdao Li et.al.|[2603.19640](http://arxiv.org/abs/2603.19640)|null|
+|**2026-03-20**|**Continuous crossover between high-pressure ice phases VII and X driven by monopole screening: a model study**|Sena Watanabe et.al.|[2603.19620](http://arxiv.org/abs/2603.19620)|null|
+|**2026-03-20**|**Discontinuous change of viscosity in a sheared granular gas with velocity-dependent restitution**|Makoto R. Kikuchi et.al.|[2603.19605](http://arxiv.org/abs/2603.19605)|null|
 |**2026-03-19**|**Reduction of Triadic Interactions Suppresses Intermittency and Anomalous Dissipation in Turbulence**|Anikat Kankaria et.al.|[2603.19180](http://arxiv.org/abs/2603.19180)|null|
 |**2026-03-19**|**Active Quantum Particles from Engineered Dissipation**|Jeanne Gipouloux et.al.|[2603.19094](http://arxiv.org/abs/2603.19094)|null|
 |**2026-03-19**|**Maximum entropy distributions of wavefunctions at thermal equilibrium**|Jacob T. Willson et.al.|[2603.19060](http://arxiv.org/abs/2603.19060)|null|
@@ -1228,6 +1253,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Symmetric mixtures in slit-like pores with selective walls**|A. Patrykiejew et.al.|[2603.20023](http://arxiv.org/abs/2603.20023)|null|
+|**2026-03-20**|**Continuous crossover between high-pressure ice phases VII and X driven by monopole screening: a model study**|Sena Watanabe et.al.|[2603.19620](http://arxiv.org/abs/2603.19620)|null|
+|**2026-03-20**|**The effect of interactions on elastic cavitation**|Ali Saeedi et.al.|[2603.19603](http://arxiv.org/abs/2603.19603)|null|
 |**2026-03-18**|**A Synthesizable RTL Implementation of Predictive Coding Networks**|Timothy Oh et.al.|[2603.18066](http://arxiv.org/abs/2603.18066)|null|
 |**2026-03-18**|**Non-equilibrium phase coexistence in conserved chemically active mixtures**|Florian Raßhofer et.al.|[2603.17690](http://arxiv.org/abs/2603.17690)|null|
 |**2026-03-18**|**Local composition controls pattern formation in conserved active emulsions**|Florian Raßhofer et.al.|[2603.17608](http://arxiv.org/abs/2603.17608)|null|
@@ -1361,6 +1389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**The effect of interactions on elastic cavitation**|Ali Saeedi et.al.|[2603.19603](http://arxiv.org/abs/2603.19603)|null|
 |**2026-03-18**|**Elucidating Norrish Type-I reactive pathways by ultrafast X-ray absorption spectroscopy**|Martin Graßl et.al.|[2603.18339](http://arxiv.org/abs/2603.18339)|null|
 |**2026-03-16**|**Synthesis and Transfer of Freestanding Strain-Engineered Vertically Aligned Nanocomposite Thin Films**|Carlos Rodríguez Cortéz et.al.|[2603.15772](http://arxiv.org/abs/2603.15772)|null|
 |**2026-03-13**|**4D Synchrotron X-Ray Multi Projection Imaging (XMPI) for studying multiphase flow dynamics and flow instabilities in porous networks**|Patrick Wegele et.al.|[2603.15319](http://arxiv.org/abs/2603.15319)|null|
@@ -1427,7 +1456,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-19**|**Entropy maximization underlies topology and mechanical properties in dynamic covalent hydrogels**|Lucien Cousin et.al.|[2603.17871](http://arxiv.org/abs/2603.17871)|null|
-|**2026-03-17**|**Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks**|Pietro Miotti et.al.|[2603.17180](http://arxiv.org/abs/2603.17180)|null|
+|**2026-03-20**|**Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks**|Pietro Miotti et.al.|[2603.17180](http://arxiv.org/abs/2603.17180)|null|
 |**2026-03-15**|**Life cycle assessment for all organic chemicals**|Shaohan Chen et.al.|[2603.15686](http://arxiv.org/abs/2603.15686)|null|
 |**2026-03-13**|**Production of Low-Density Aerogel Nuclear Fuels for Use in Fission Fragment Rockets and Novel Reactor Design**|Noah D'Amico et.al.|[2603.15673](http://arxiv.org/abs/2603.15673)|null|
 |**2026-03-09**|**Micropatterning photopolymerizable hydrogels for diffusion studies using pillar arrays or photomasks**|Sevgi Onal et.al.|[2603.11065](http://arxiv.org/abs/2603.11065)|null|
@@ -1467,6 +1496,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Dominated sets, microscopic sets and Hausdorff measures**|Ondřej Zindulka et.al.|[2603.20050](http://arxiv.org/abs/2603.20050)|null|
+|**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
+|**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
+|**2026-03-20**|**Continual Learning as Shared-Manifold Continuation Under Compatible Shift**|Henry J. Kobs et.al.|[2603.20036](http://arxiv.org/abs/2603.20036)|null|
+|**2026-03-20**|**Variance reduction methods in the estimation of Pauli sums**|Søren Fuglede Jørgensen et.al.|[2603.20029](http://arxiv.org/abs/2603.20029)|null|
+|**2026-03-20**|**Orchestrating Human-AI Software Delivery: A Retrospective Longitudinal Field Study of Three Software Modernization Programs**|Maximiliano Armesto et.al.|[2603.20028](http://arxiv.org/abs/2603.20028)|null|
+|**2026-03-20**|**Detached Skip-Links and $R$ -Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR**|Ziye Yuan et.al.|[2603.20020](http://arxiv.org/abs/2603.20020)|null|
+|**2026-03-20**|**RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering**|Bo Yuan et.al.|[2603.20017](http://arxiv.org/abs/2603.20017)|null|
+|**2026-03-20**|**Physics-Informed Long-Range Coulomb Correction for Machine-learning Hamiltonians**|Yang Zhong et.al.|[2603.20007](http://arxiv.org/abs/2603.20007)|null|
+|**2026-03-20**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004](http://arxiv.org/abs/2603.20004)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
