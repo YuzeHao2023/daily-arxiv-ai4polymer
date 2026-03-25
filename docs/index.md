@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates**|Zikang Huang et.al.|[2603.23048](http://arxiv.org/abs/2603.23048)|null|
+|**2026-03-23**|**Pretext Matters: An Empirical Study of SSL Methods in Medical Imaging**|Vedrana Ivezić et.al.|[2603.22649](http://arxiv.org/abs/2603.22649)|null|
 |**2026-03-23**|**A Backbone Benchmarking Study on Self-supervised Learning as a Auxiliary Task with Texture-based Local Descriptors for Face Analysis**|Shukesh Reddy et.al.|[2603.22190](http://arxiv.org/abs/2603.22190)|null|
 |**2026-03-23**|**Cross-Modal Reinforcement Learning for Navigation with Degraded Depth Measurements**|Omkar Sawant et.al.|[2603.22182](http://arxiv.org/abs/2603.22182)|null|
 |**2026-03-23**|**SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.|[2603.22097](http://arxiv.org/abs/2603.22097)|null|
@@ -205,6 +207,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Simultaneous measurement of pressure-dependent bulk and interfacial thermal properties in thermal interface materials using square-pulsed source thermoreflectance**|Tao Chen et.al.|[2603.22733](http://arxiv.org/abs/2603.22733)|null|
+|**2026-03-24**|**Weak Coupling of Diffusional and Phonon-like Modes in Liquids Revealed by Dynamic Kapitza Length**|Tao Chen et.al.|[2603.22723](http://arxiv.org/abs/2603.22723)|null|
+|**2026-03-23**|**A Density-Based Continuous Local Symmetry Measure**|Duc Anh Lai et.al.|[2603.22476](http://arxiv.org/abs/2603.22476)|null|
 |**2026-03-23**|**Efficient photo-Nernst terahertz emission in single heavy-metal films**|Lei Wang et.al.|[2603.21924](http://arxiv.org/abs/2603.21924)|null|
 |**2026-03-23**|**Magnetocaloric Effect of Pure and Diluted Quantum Magnet Yb $_3$Ga$_5$O$_{12}$**|E. Riordan et.al.|[2603.21922](http://arxiv.org/abs/2603.21922)|null|
 |**2026-03-23**|**Invariant ionic conductance in an atomically thin polar nanopore**|Shengping Zhang et.al.|[2603.21827](http://arxiv.org/abs/2603.21827)|null|
@@ -417,6 +422,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Gimbal360: Differentiable Auto-Leveling for Canonicalized $360^\circ$ Panoramic Image Completion**|Yuqin Lu et.al.|[2603.23179](http://arxiv.org/abs/2603.23179)|null|
+|**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[2603.23159](http://arxiv.org/abs/2603.23159)|null|
+|**2026-03-24**|**Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards**|Orhun Buğra Baran et.al.|[2603.23086](http://arxiv.org/abs/2603.23086)|null|
+|**2026-03-24**|**Zero-Shot Personalization of Objects via Textual Inversion**|Aniket Roy et.al.|[2603.23010](http://arxiv.org/abs/2603.23010)|null|
+|**2026-03-24**|**Markov-Enforced Discrete Diffusion Model for Digital Semantic Symbol Error Correction**|Yoon Huh et.al.|[2603.22983](http://arxiv.org/abs/2603.22983)|null|
+|**2026-03-24**|**Asymptotic Learning Curves for Diffusion Models with Random Features Score and Manifold Data**|Anand Jerry George et.al.|[2603.22962](http://arxiv.org/abs/2603.22962)|null|
+|**2026-03-24**|**Privacy-Preserving EHR Data Transformation via Geometric Operators: A Human-AI Co-Design Technical Report**|Maolin Wang et.al.|[2603.22954](http://arxiv.org/abs/2603.22954)|null|
+|**2026-03-24**|**PersonalQ: Select, Quantize, and Serve Personalized Diffusion Models for Efficient Inference**|Qirui Wang et.al.|[2603.22943](http://arxiv.org/abs/2603.22943)|null|
+|**2026-03-24**|**GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation**|Hai Zhu et.al.|[2603.22916](http://arxiv.org/abs/2603.22916)|null|
+|**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796](http://arxiv.org/abs/2603.22796)|null|
 |**2026-03-23**|**End-to-End Training for Unified Tokenization and Latent Denoising**|Shivam Duggal et.al.|[2603.22283](http://arxiv.org/abs/2603.22283)|null|
 |**2026-03-23**|**UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation**|Ziyi Wang et.al.|[2603.22282](http://arxiv.org/abs/2603.22282)|null|
 |**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
@@ -859,6 +874,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**On the Golomb-Dickman constant under Ewens sampling**|José Ricardo G. Mendonça et.al.|[2603.23175](http://arxiv.org/abs/2603.23175)|null|
+|**2026-03-24**|**Amplification based on the noise-induced negative differential resistance in a Zener diode**|Alexandre Dumont et.al.|[2603.23169](http://arxiv.org/abs/2603.23169)|null|
+|**2026-03-24**|**From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**|Ankush Chaubey et.al.|[2603.23154](http://arxiv.org/abs/2603.23154)|null|
+|**2026-03-24**|**Basis dependence of eigenstate thermalization**|Lennart Dabelow et.al.|[2603.23058](http://arxiv.org/abs/2603.23058)|null|
+|**2026-03-24**|**Fine-tuning of universal machine-learning interatomic potentials for 2D high-entropy alloys**|Chun Zhou et.al.|[2603.23029](http://arxiv.org/abs/2603.23029)|null|
+|**2026-03-24**|**Dynamics of Aligning Active Matter: Mapping to a Schrödinger Equation and Exact Diagonalization**|Tara Steinhöfel et.al.|[2603.23021](http://arxiv.org/abs/2603.23021)|null|
+|**2026-03-24**|**A Top-Down Scale Approach for Multiscale Geographically and Temporally Weighted Regression**|Ghislain Geniaux et.al.|[2603.22990](http://arxiv.org/abs/2603.22990)|null|
+|**2026-03-24**|**Genuine and spurious (non-)ergodicity in single particle tracking**|Wei Wang et.al.|[2603.22989](http://arxiv.org/abs/2603.22989)|null|
+|**2026-03-24**|**Cooperation in Public Goods Games over Uniform Random Hypergraphs with Game Transitions**|Nankun Wei et.al.|[2603.22967](http://arxiv.org/abs/2603.22967)|null|
+|**2026-03-24**|**Symmetric Mass Generation Transition and its Nonequilibrium Critical Dynamics in a Bilayer Honeycomb Lattice Model**|Zhi-Xuan Li et.al.|[2603.22736](http://arxiv.org/abs/2603.22736)|null|
 |**2026-03-23**|**Precision's arrow of time**|Luis E. F. Foa Torres et.al.|[2603.22284](http://arxiv.org/abs/2603.22284)|null|
 |**2026-03-23**|**Emergent relativistic symmetry from interacting fermions on the honeycomb bilayer**|Zi Hong Liu et.al.|[2603.22259](http://arxiv.org/abs/2603.22259)|null|
 |**2026-03-23**|**Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning**|Claudia Islas-Vargas et.al.|[2603.22254](http://arxiv.org/abs/2603.22254)|null|
@@ -1443,6 +1468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Minimizing Material Waste in Additive Manufacturing through Online Reel Assignment**|Ilayda Celenk et.al.|[2603.23042](http://arxiv.org/abs/2603.23042)|null|
 |**2026-03-23**|**AdditiveLLM2: A Multi-modal Large Language Model for Additive Manufacturing**|Peter Pak et.al.|[2603.22017](http://arxiv.org/abs/2603.22017)|null|
 |**2026-03-21**|**An Optically Addressable Transmissive Liquid Crystal Metasurface Spatial Light Modulator**|Jared Sisler et.al.|[2603.20574](http://arxiv.org/abs/2603.20574)|null|
 |**2026-03-20**|**The effect of interactions on elastic cavitation**|Ali Saeedi et.al.|[2603.19603](http://arxiv.org/abs/2603.19603)|null|
@@ -1554,6 +1580,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
+|**2026-03-24**|**From Synthetic to Native: Benchmarking Multilingual Intent Classification in Logistics Customer Service**|Haoyu He et.al.|[2603.23172](http://arxiv.org/abs/2603.23172)|null|
+|**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171](http://arxiv.org/abs/2603.23171)|null|
+|**2026-03-24**|**Amplification based on the noise-induced negative differential resistance in a Zener diode**|Alexandre Dumont et.al.|[2603.23169](http://arxiv.org/abs/2603.23169)|null|
+|**2026-03-24**|**LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds**|Aditya Shibu et.al.|[2603.23162](http://arxiv.org/abs/2603.23162)|null|
+|**2026-03-24**|**Dual Contrastive Network for Few-Shot Remote Sensing Image Scene Classification**|Zhong Ji et.al.|[2603.23161](http://arxiv.org/abs/2603.23161)|null|
+|**2026-03-24**|**UniDial-EvalKit: A Unified Toolkit for Evaluating Multi-Faceted Conversational Abilities**|Qi Jia et.al.|[2603.23160](http://arxiv.org/abs/2603.23160)|null|
+|**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[2603.23159](http://arxiv.org/abs/2603.23159)|null|
+|**2026-03-24**|**Shellability of 3-cut complexes of powers of cycle graphs**|Pratiksha Chauhan et.al.|[2603.23155](http://arxiv.org/abs/2603.23155)|null|
+|**2026-03-24**|**Why AI-Generated Text Detection Fails: Evidence from Explainable AI Beyond Benchmark Accuracy**|Shushanta Pudasaini et.al.|[2603.23146](http://arxiv.org/abs/2603.23146)|null|
 |**2026-03-23**|**VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding**|Ruoliu Yang et.al.|[2603.22285](http://arxiv.org/abs/2603.22285)|null|
 |**2026-03-23**|**DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models**|Zhide Zhong et.al.|[2603.22280](http://arxiv.org/abs/2603.22280)|null|
 |**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
