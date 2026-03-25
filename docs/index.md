@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning**|Yuanhang Lei et.al.|[2603.23194](http://arxiv.org/abs/2603.23194)|null|
 |**2026-03-24**|**MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates**|Zikang Huang et.al.|[2603.23048](http://arxiv.org/abs/2603.23048)|null|
 |**2026-03-23**|**Pretext Matters: An Empirical Study of SSL Methods in Medical Imaging**|Vedrana Ivezić et.al.|[2603.22649](http://arxiv.org/abs/2603.22649)|null|
 |**2026-03-23**|**A Backbone Benchmarking Study on Self-supervised Learning as a Auxiliary Task with Texture-based Local Descriptors for Face Analysis**|Shukesh Reddy et.al.|[2603.22190](http://arxiv.org/abs/2603.22190)|null|
@@ -207,6 +208,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
+|**2026-03-24**|**Synchronization-dissipation dynamics in the cardiorespiratory system**|Joshua R. Border et.al.|[2603.23259](http://arxiv.org/abs/2603.23259)|null|
+|**2026-03-24**|**Virtual materials testing of ASSB cathodes combining AI-based stochastic 3D modeling and numerical simulations**|Anina Dufter et.al.|[2603.23248](http://arxiv.org/abs/2603.23248)|null|
 |**2026-03-24**|**Simultaneous measurement of pressure-dependent bulk and interfacial thermal properties in thermal interface materials using square-pulsed source thermoreflectance**|Tao Chen et.al.|[2603.22733](http://arxiv.org/abs/2603.22733)|null|
 |**2026-03-24**|**Weak Coupling of Diffusional and Phonon-like Modes in Liquids Revealed by Dynamic Kapitza Length**|Tao Chen et.al.|[2603.22723](http://arxiv.org/abs/2603.22723)|null|
 |**2026-03-23**|**A Density-Based Continuous Local Symmetry Measure**|Duc Anh Lai et.al.|[2603.22476](http://arxiv.org/abs/2603.22476)|null|
@@ -422,6 +426,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)|null|
+|**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
+|**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
+|**2026-03-24**|**RealMaster: Lifting Rendered Scenes into Photorealistic Video**|Dana Cohen-Bar et.al.|[2603.23462](http://arxiv.org/abs/2603.23462)|null|
+|**2026-03-24**|**Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation**|Michal Balcerak et.al.|[2603.23398](http://arxiv.org/abs/2603.23398)|null|
+|**2026-03-24**|**Markov State--Space Modeling and Channel Characterization for DNA-Based Molecular Communication**|Ruifeng Zheng et.al.|[2603.23394](http://arxiv.org/abs/2603.23394)|null|
+|**2026-03-24**|**SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM**|Chuanrui Zhang et.al.|[2603.23386](http://arxiv.org/abs/2603.23386)|null|
+|**2026-03-24**|**FG-Portrait: 3D Flow Guided Editable Portrait Animation**|Yating Xu et.al.|[2603.23381](http://arxiv.org/abs/2603.23381)|null|
+|**2026-03-24**|**ViBe: Ultra-High-Resolution Video Synthesis Born from Pure Images**|Yunfeng Wu et.al.|[2603.23326](http://arxiv.org/abs/2603.23326)|null|
+|**2026-03-24**|**Permutation-Symmetrized Diffusion for Unconditional Molecular Generation**|Gyeonghoon Ko et.al.|[2603.23255](http://arxiv.org/abs/2603.23255)|null|
 |**2026-03-24**|**Gimbal360: Differentiable Auto-Leveling for Canonicalized $360^\circ$ Panoramic Image Completion**|Yuqin Lu et.al.|[2603.23179](http://arxiv.org/abs/2603.23179)|null|
 |**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[2603.23159](http://arxiv.org/abs/2603.23159)|null|
 |**2026-03-24**|**Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards**|Orhun Buğra Baran et.al.|[2603.23086](http://arxiv.org/abs/2603.23086)|null|
@@ -874,6 +888,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Initial State Memory in Finite Random Brickwork Circuits**|Jakob Bannister et.al.|[2603.23469](http://arxiv.org/abs/2603.23469)|null|
+|**2026-03-24**|**Similarity-Aware Mixture-of-Experts for Data-Efficient Continual Learning**|Connor Mclaughlin et.al.|[2603.23436](http://arxiv.org/abs/2603.23436)|null|
+|**2026-03-24**|**Exact analytical PGSE signal for diffusion confined to a cylindrical surface using a spectral Laplacian formalism**|Erick J Canales-Rodríguez et.al.|[2603.23421](http://arxiv.org/abs/2603.23421)|null|
+|**2026-03-24**|**Where Humpty Dumpty Breaks: Geometry-Driven Fracture in Ellipsoidal Shells**|Naoki Sekiya et.al.|[2603.23349](http://arxiv.org/abs/2603.23349)|null|
+|**2026-03-24**|**The Fermi-Pasta-Ulam-Tsingou problem after 70 years: Universal laws of thermalization in lattice systems**|Weicheng Fu et.al.|[2603.23347](http://arxiv.org/abs/2603.23347)|null|
+|**2026-03-24**|**Internal stress drives ferromagnetic-like ordering in networks of proliferating bacteria**|Nicola Pellicciotta et.al.|[2603.23320](http://arxiv.org/abs/2603.23320)|null|
+|**2026-03-24**|**A $q$ -Caputo Fractional Generalization of Tsallis Entropy: Series Representation and Non-Negativity Domains**|Matias P. Gonzalez et.al.|[2603.23254](http://arxiv.org/abs/2603.23254)|null|
+|**2026-03-24**|**Dynamics of O(2) excitations in a non-reciprocal medium**|Ylann Rouzaire et.al.|[2603.23225](http://arxiv.org/abs/2603.23225)|null|
+|**2026-03-24**|**Gaussian mixtures and non-parametric likelihoods through the lens of statistical mechanics**|Subhroshekhar Ghosh et.al.|[2603.23196](http://arxiv.org/abs/2603.23196)|null|
 |**2026-03-24**|**On the Golomb-Dickman constant under Ewens sampling**|José Ricardo G. Mendonça et.al.|[2603.23175](http://arxiv.org/abs/2603.23175)|null|
 |**2026-03-24**|**Amplification based on the noise-induced negative differential resistance in a Zener diode**|Alexandre Dumont et.al.|[2603.23169](http://arxiv.org/abs/2603.23169)|null|
 |**2026-03-24**|**From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**|Ankush Chaubey et.al.|[2603.23154](http://arxiv.org/abs/2603.23154)|null|
@@ -1580,6 +1603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage**|Ufaq Khan et.al.|[2603.23501](http://arxiv.org/abs/2603.23501)|null|
+|**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)|null|
+|**2026-03-24**|**VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions**|Adrian Bulat et.al.|[2603.23495](http://arxiv.org/abs/2603.23495)|null|
+|**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
+|**2026-03-24**|**AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation**|Woojeong Jin et.al.|[2603.23489](http://arxiv.org/abs/2603.23489)|null|
+|**2026-03-24**|**Failure of contextual invariance in gender inference with large language models**|Sagar Kumar et.al.|[2603.23485](http://arxiv.org/abs/2603.23485)|null|
+|**2026-03-24**|**Evidence of political bias in search engines and language models before major elections**|Íris Damião et.al.|[2603.23474](http://arxiv.org/abs/2603.23474)|null|
+|**2026-03-24**|**Reaching for the performance limit of hybrid density functional theory for molecular chemistry**|Jiashu Liang et.al.|[2603.23466](http://arxiv.org/abs/2603.23466)|null|
+|**2026-03-24**|**DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection**|Gautam Rajendrakumar Gare et.al.|[2603.23455](http://arxiv.org/abs/2603.23455)|null|
+|**2026-03-24**|**Asymptotics of Nonparametric Estimation under general non-monotone MAR missingness: A Bayesian Approach**|Badr-Eddine Chérief-Abdellatif et.al.|[2603.23449](http://arxiv.org/abs/2603.23449)|null|
 |**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
 |**2026-03-24**|**From Synthetic to Native: Benchmarking Multilingual Intent Classification in Logistics Customer Service**|Haoyu He et.al.|[2603.23172](http://arxiv.org/abs/2603.23172)|null|
 |**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171](http://arxiv.org/abs/2603.23171)|null|
