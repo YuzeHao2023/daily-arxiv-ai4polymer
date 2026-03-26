@@ -431,6 +431,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method**|Arthur Jacot et.al.|[2603.24594](http://arxiv.org/abs/2603.24594)|null|
+|**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Duc Vu et.al.|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
+|**2026-03-25**|**Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling**|Raju Chowdhury et.al.|[2603.24567](http://arxiv.org/abs/2603.24567)|null|
+|**2026-03-25**|**Using Educational Comics in Physics Teaching for Chemistry and Biochemistry Students: Impact on Motivation and Domain-Specific Conceptual Gains**|Mauricio Echiburu et.al.|[2603.24498](http://arxiv.org/abs/2603.24498)|null|
+|**2026-03-25**|**Reflected diffusion models adapt to low-dimensional data**|Asbjørn Holk et.al.|[2603.24495](http://arxiv.org/abs/2603.24495)|null|
+|**2026-03-25**|**Fine-tuning universal machine learning potentials for transition state search in surface catalysis**|Raffaele Cheula et.al.|[2603.24482](http://arxiv.org/abs/2603.24482)|null|
+|**2026-03-25**|**Positive-First Most Ambiguous: A Simple Active Learning Criterion for Interactive Retrieval of Rare Categories**|Kawtar Zaher et.al.|[2603.24480](http://arxiv.org/abs/2603.24480)|null|
+|**2026-03-25**|**Analysis and numerical simulation of a spatio-temporal Ricker-type model for the control of Aedes aegypti mosquitoes with Sterile Insect Techniques**|Oscar Eduardo Escobar-Lasso et.al.|[2603.24460](http://arxiv.org/abs/2603.24460)|null|
+|**2026-03-25**|**Teacher-Student Diffusion Model for Text-Driven 3D Hand Motion Generation**|Ching-Lam Cheng et.al.|[2603.24407](http://arxiv.org/abs/2603.24407)|null|
+|**2026-03-25**|**ViHOI: Human-Object Interaction Synthesis with Visual Priors**|Songjin Cai et.al.|[2603.24383](http://arxiv.org/abs/2603.24383)|null|
 |**2026-03-25**|**TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification**|Guan Luo et.al.|[2603.24278](http://arxiv.org/abs/2603.24278)|null|
 |**2026-03-25**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
 |**2026-03-25**|**Embracing Heteroscedasticity for Probabilistic Time Series Forecasting**|Yijun Wang et.al.|[2603.24254](http://arxiv.org/abs/2603.24254)|null|
@@ -903,6 +913,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Geometric Curvature Governs Work in Open Quantum Steady States**|Eric R. Bittner et.al.|[2603.24557](http://arxiv.org/abs/2603.24557)|null|
+|**2026-03-25**|**Radial Distribution Function in a Two Dimensional Core-Shoulder Particle System**|Michael Wassermair et.al.|[2603.24537](http://arxiv.org/abs/2603.24537)|null|
+|**2026-03-25**|**Multi-GPU Hybrid Particle-in-Cell Monte Carlo Simulations for Exascale Computing Systems**|Jeremy J. Williams et.al.|[2603.24508](http://arxiv.org/abs/2603.24508)|null|
+|**2026-03-25**|**Order-separated tensor-network method for QCD in the strong-coupling expansion**|Thomas Samberger et.al.|[2603.24487](http://arxiv.org/abs/2603.24487)|null|
+|**2026-03-25**|**Intertwined spin and charge dynamics in one-dimensional supersymmetric t-J model**|Yunjing Gao et.al.|[2603.24453](http://arxiv.org/abs/2603.24453)|null|
+|**2026-03-25**|**RKKY-dipolar Interactions and 3D Spin Supersolid on Stacked Triangular Lattice**|Ning Xi et.al.|[2603.24446](http://arxiv.org/abs/2603.24446)|null|
+|**2026-03-25**|**A first study of strong isospin breaking effects in lattice QCD using truncated polynomials**|David Albandea et.al.|[2603.24420](http://arxiv.org/abs/2603.24420)|null|
+|**2026-03-25**|**Opinion-Driven Vaccination and Epidemic Dynamics on Heterogeneous Networks**|Anika Roy et.al.|[2603.24403](http://arxiv.org/abs/2603.24403)|null|
 |**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
 |**2026-03-25**|**Strong-to-Weak Spontaneous Symmetry Breaking in a $(2+1)$ D Transverse-Field Ising Model under Decoherence**|Yi-Ming Ding et.al.|[2603.24342](http://arxiv.org/abs/2603.24342)|null|
 |**2026-03-25**|**Run, Tumble and Paint**|Emir Sezik et.al.|[2603.24277](http://arxiv.org/abs/2603.24277)|null|
@@ -1632,6 +1650,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**YingMusic-Singer: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance**|Chunbo Hao et.al.|[2603.24589](http://arxiv.org/abs/2603.24589)|null|
+|**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou et.al.|[2603.24584](http://arxiv.org/abs/2603.24584)|null|
+|**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|null|
+|**2026-03-25**|**Vision-Language Models vs Human: Perceptual Image Quality Assessment**|Imran Mehmood et.al.|[2603.24578](http://arxiv.org/abs/2603.24578)|null|
+|**2026-03-25**|**Coordinating Spot and Contract Supply in Freight Marketplaces**|Philip Kaminsky et.al.|[2603.24574](http://arxiv.org/abs/2603.24574)|null|
+|**2026-03-25**|**POLY-SIM: Polyglot Speaker Identification with Missing Modality Grand Challenge 2026 Evaluation Plan**|Marta Moscati et.al.|[2603.24569](http://arxiv.org/abs/2603.24569)|null|
+|**2026-03-25**|**LensWalk: Agentic Video Understanding by Planning How You See in Videos**|Keliang Li et.al.|[2603.24558](http://arxiv.org/abs/2603.24558)|null|
+|**2026-03-25**|**Orientation Reconstruction of Proteins using Coulomb Explosions**|Tomas André et.al.|[2603.24553](http://arxiv.org/abs/2603.24553)|null|
+|**2026-03-25**|**Energy-gap--controlled current oscillations in graphene under periodic driving**|Hasna Chnafa et.al.|[2603.24547](http://arxiv.org/abs/2603.24547)|null|
+|**2026-03-25**|**Analysing the Safety Pitfalls of Steering Vectors**|Yuxiao Li et.al.|[2603.24543](http://arxiv.org/abs/2603.24543)|null|
 |**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
 |**2026-03-25**|**Adaptive decision-making for stochastic service network design**|Javier Duran Micco et.al.|[2603.24369](http://arxiv.org/abs/2603.24369)|null|
 |**2026-03-25**|**Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**|Mohan Mallick et.al.|[2603.24362](http://arxiv.org/abs/2603.24362)|null|
