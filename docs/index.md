@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
+|**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|Anjun Gao et.al.|[2603.24054](http://arxiv.org/abs/2603.24054)|null|
+|**2026-03-25**|**Rethinking Masking Strategies for Masked Prediction-based Audio Self-supervised Learning**|Daisuke Niizumi et.al.|[2603.23810](http://arxiv.org/abs/2603.23810)|null|
+|**2026-03-24**|**Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition**|Lucas H. Ueda et.al.|[2603.23673](http://arxiv.org/abs/2603.23673)|null|
 |**2026-03-24**|**PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning**|Yuanhang Lei et.al.|[2603.23194](http://arxiv.org/abs/2603.23194)|null|
 |**2026-03-24**|**MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates**|Zikang Huang et.al.|[2603.23048](http://arxiv.org/abs/2603.23048)|null|
 |**2026-03-23**|**Pretext Matters: An Empirical Study of SSL Methods in Medical Imaging**|Vedrana Ivezić et.al.|[2603.22649](http://arxiv.org/abs/2603.22649)|null|
@@ -208,6 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Coupling of phase transition, anharmonicity, and thermal transport in CaSnF $_6$**|Daxue Hao et.al.|[2603.23851](http://arxiv.org/abs/2603.23851)|null|
 |**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
 |**2026-03-24**|**Synchronization-dissipation dynamics in the cardiorespiratory system**|Joshua R. Border et.al.|[2603.23259](http://arxiv.org/abs/2603.23259)|null|
 |**2026-03-24**|**Virtual materials testing of ASSB cathodes combining AI-based stochastic 3D modeling and numerical simulations**|Anina Dufter et.al.|[2603.23248](http://arxiv.org/abs/2603.23248)|null|
@@ -426,6 +431,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification**|Guan Luo et.al.|[2603.24278](http://arxiv.org/abs/2603.24278)|null|
+|**2026-03-25**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
+|**2026-03-25**|**Embracing Heteroscedasticity for Probabilistic Time Series Forecasting**|Yijun Wang et.al.|[2603.24254](http://arxiv.org/abs/2603.24254)|null|
+|**2026-03-25**|**Attack Assessment and Augmented Identity Recognition for Human Skeleton Data**|Joseph G. Zalameda et.al.|[2603.24232](http://arxiv.org/abs/2603.24232)|null|
+|**2026-03-25**|**Efficient Controller Learning from Human Preferences and Numerical Data Via Multi-Modal Surrogate Models**|Lukas Theiner et.al.|[2603.24138](http://arxiv.org/abs/2603.24138)|null|
+|**2026-03-25**|**Unified ab initio quantum-electrodynamical density-functional theory for cavity-modified electron-phonon-photon coupling in solids**|Benshu Fan et.al.|[2603.24095](http://arxiv.org/abs/2603.24095)|null|
+|**2026-03-25**|**LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation**|Ryugo Morita et.al.|[2603.24086](http://arxiv.org/abs/2603.24086)|null|
+|**2026-03-25**|**When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm**|Ye Leng et.al.|[2603.24079](http://arxiv.org/abs/2603.24079)|null|
+|**2026-03-25**|**HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models**|Yeqi He et.al.|[2603.24043](http://arxiv.org/abs/2603.24043)|null|
+|**2026-03-25**|**Numerical field optimization for enhanced efficiency in time-reversible gradient computation of open-source GPU-accelerated FDTD simulations**|Yannik Mahlau et.al.|[2603.24027](http://arxiv.org/abs/2603.24027)|null|
 |**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)|null|
 |**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
 |**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
@@ -888,6 +903,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
+|**2026-03-25**|**Strong-to-Weak Spontaneous Symmetry Breaking in a $(2+1)$ D Transverse-Field Ising Model under Decoherence**|Yi-Ming Ding et.al.|[2603.24342](http://arxiv.org/abs/2603.24342)|null|
+|**2026-03-25**|**Run, Tumble and Paint**|Emir Sezik et.al.|[2603.24277](http://arxiv.org/abs/2603.24277)|null|
+|**2026-03-25**|**Diffusion coefficients of multi-principal element alloys from first principles**|Damien K. J. Lee et.al.|[2603.24228](http://arxiv.org/abs/2603.24228)|null|
+|**2026-03-25**|**Large deviations and conditioned monitored quantum systems: a tensor network approach**|María Cea et.al.|[2603.24225](http://arxiv.org/abs/2603.24225)|null|
+|**2026-03-25**|**Dynamical thermalization and turbulence in social stratification models**|Klaus M. Frahm et.al.|[2603.24190](http://arxiv.org/abs/2603.24190)|null|
+|**2026-03-25**|**Digitally Optimized Initializations for Fast Thermodynamic Computing**|Mattia Moroder et.al.|[2603.24183](http://arxiv.org/abs/2603.24183)|null|
+|**2026-03-25**|**Optimized control protocols for stable skyrmion creation using deep reinforcement learning**|Ji Seok Song et.al.|[2603.24177](http://arxiv.org/abs/2603.24177)|null|
+|**2026-03-25**|**Universality of order statistics for Brownian reshuffling**|Zdzislaw Burda et.al.|[2603.24151](http://arxiv.org/abs/2603.24151)|null|
+|**2026-03-25**|**Mpemba effect in a two-dimensional bistable potential**|Hisao Hayakawa et.al.|[2603.24148](http://arxiv.org/abs/2603.24148)|null|
 |**2026-03-24**|**Initial State Memory in Finite Random Brickwork Circuits**|Jakob Bannister et.al.|[2603.23469](http://arxiv.org/abs/2603.23469)|null|
 |**2026-03-24**|**Similarity-Aware Mixture-of-Experts for Data-Efficient Continual Learning**|Connor Mclaughlin et.al.|[2603.23436](http://arxiv.org/abs/2603.23436)|null|
 |**2026-03-24**|**Exact analytical PGSE signal for diffusion confined to a cylindrical surface using a spectral Laplacian formalism**|Erick J Canales-Rodríguez et.al.|[2603.23421](http://arxiv.org/abs/2603.23421)|null|
@@ -1352,6 +1377,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**A simple model for conserved intracellular dynamics exhibits multiscale pattern formation, traveling protein domains and arrested coarsening of lipids in the membrane**|Benjamin Winkler et.al.|[2603.23856](http://arxiv.org/abs/2603.23856)|null|
+|**2026-03-24**|**Behaviour of the model antibody fluid constrained by rigid spherical obstacles: effects of the obstacle-antibody binding**|Yu. V. Kalyuzhnyi et.al.|[2603.23615](http://arxiv.org/abs/2603.23615)|null|
+|**2026-03-23**|**Self-organised structures in mixed active-passive suspensions due to hydrodynamic interactions**|Alexander Chamolly et.al.|[2603.23555](http://arxiv.org/abs/2603.23555)|null|
 |**2026-03-23**|**Post-selective attack with multi-mode projection onto Fock subspace**|Andrei Gaidash et.al.|[2603.22122](http://arxiv.org/abs/2603.22122)|null|
 |**2026-03-20**|**Structural Phase Separation Couples to Charge-Density-Wave Formation in Kagome Metal FeGe**|Boyang Zhao et.al.|[2603.20459](http://arxiv.org/abs/2603.20459)|null|
 |**2026-03-20**|**Edge Currents Shape Condensates in Chiral Active Matter**|Boyi Wang et.al.|[2603.20064](http://arxiv.org/abs/2603.20064)|null|
@@ -1560,6 +1588,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Rethinking failure in polymer networks: a probabilistic view on progressive damage**|Noy Cohen et.al.|[2603.23881](http://arxiv.org/abs/2603.23881)|null|
 |**2026-03-20**|**Mechanical response of a simple DNA nanostar hydrogel: symptoms of disorder and glassy emergence of solidity**|Hajar Ajiyel et.al.|[2603.20119](http://arxiv.org/abs/2603.20119)|null|
 |**2026-03-20**|**Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution**|A. Kovalenko et.al.|[2603.20057](http://arxiv.org/abs/2603.20057)|null|
 |**2026-03-19**|**Entropy maximization underlies topology and mechanical properties in dynamic covalent hydrogels**|Lucien Cousin et.al.|[2603.17871](http://arxiv.org/abs/2603.17871)|null|
@@ -1603,6 +1632,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Cheng Cui et.al.|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
+|**2026-03-25**|**Adaptive decision-making for stochastic service network design**|Javier Duran Micco et.al.|[2603.24369](http://arxiv.org/abs/2603.24369)|null|
+|**2026-03-25**|**Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**|Mohan Mallick et.al.|[2603.24362](http://arxiv.org/abs/2603.24362)|null|
+|**2026-03-25**|**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**|Yunzhe Wang et.al.|[2603.24329](http://arxiv.org/abs/2603.24329)|null|
+|**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
+|**2026-03-25**|**Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Shiqin Wang et.al.|[2603.24322](http://arxiv.org/abs/2603.24322)|null|
+|**2026-03-25**|**A unified modeling framework and improved formulations for single-hoist cyclic scheduling**|Markó Horváth et.al.|[2603.24316](http://arxiv.org/abs/2603.24316)|null|
+|**2026-03-25**|**Refining time-space traffic diagrams: A neighborhood-adaptive linear regression method**|Zhihong Yao et.al.|[2603.24312](http://arxiv.org/abs/2603.24312)|null|
+|**2026-03-25**|**Samasāmayik: A Parallel Dataset for Hindi-Sanskrit Machine Translation**|N J Karthika et.al.|[2603.24307](http://arxiv.org/abs/2603.24307)|null|
+|**2026-03-25**|**Mortality Forecasting as a Flow Field in Tucker Decomposition Space**|Samuel J. Clark et.al.|[2603.24299](http://arxiv.org/abs/2603.24299)|null|
 |**2026-03-24**|**MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage**|Ufaq Khan et.al.|[2603.23501](http://arxiv.org/abs/2603.23501)|null|
 |**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)|null|
 |**2026-03-24**|**VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions**|Adrian Bulat et.al.|[2603.23495](http://arxiv.org/abs/2603.23495)|null|
