@@ -1,4 +1,4 @@
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-28**|**TrackMAE: Video Representation Learning via Track Mask and Predict**|Renaud Vandeghen et.al.|[2603.27268](http://arxiv.org/abs/2603.27268)|null|
+|**2026-03-28**|**Semantic Interaction Information mediates compositional generalization in latent space**|John Schwarcz et.al.|[2603.27134](http://arxiv.org/abs/2603.27134)|null|
+|**2026-03-27**|**Reliability-Aware Weighted Multi-Scale Spatio-Temporal Maps for Heart Rate Monitoring**|Arpan Bairagi et.al.|[2603.26836](http://arxiv.org/abs/2603.26836)|null|
+|**2026-03-26**|**Sparse-by-Design Cross-Modality Prediction: L0-Gated Representations for Reliable and Efficient Learning**|Filippo Cenacchi et.al.|[2603.26801](http://arxiv.org/abs/2603.26801)|null|
+|**2026-03-27**|**A Human-Inspired Decoupled Architecture for Efficient Audio Representation Learning**|Harunori Kawano et.al.|[2603.26098](http://arxiv.org/abs/2603.26098)|null|
+|**2026-03-27**|**Cone-Beam CT Image Quality Enhancement Using A Latent Diffusion Model Trained with Simulated CBCT Artifacts**|Naruki Murahashi et.al.|[2603.26014](http://arxiv.org/abs/2603.26014)|null|
+|**2026-03-27**|**FlexiCamAR: Enhancing Everyday Camera Interactions on AR Glasses with a Flexible Additional Viewpoint**|Ziming Li et.al.|[2603.26012](http://arxiv.org/abs/2603.26012)|null|
+|**2026-03-26**|**LEMON: a foundation model for nuclear morphology in Computational Pathology**|Loïc Chadoutaud et.al.|[2603.25802](http://arxiv.org/abs/2603.25802)|null|
 |**2026-03-26**|**Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds**|Bin Yang et.al.|[2603.25165](http://arxiv.org/abs/2603.25165)|null|
 |**2026-03-26**|**SAVe: Self-Supervised Audio-visual Deepfake Detection Exploiting Visual Artifacts and Audio-visual Misalignment**|Sahibzada Adil Shahzad et.al.|[2603.25140](http://arxiv.org/abs/2603.25140)|null|
 |**2026-03-26**|**Self-Supervised Learning for Knee Osteoarthritis: Diagnostic Limitations and Prognostic Value of Uncurated Hospital Data**|Haresh Rengaraj Rajamohan et.al.|[2603.24903](http://arxiv.org/abs/2603.24903)|null|
@@ -223,12 +231,16 @@
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
 |**2026-01-08**|**Towards a Unified Theoretical Framework for Self-Supervised MRI Reconstruction**|Siying Xu et.al.|[2601.04775](http://arxiv.org/abs/2601.04775)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Property Prediction & QSPR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-28**|**Neural operator accelerated atomistic to continuum concurrent multiscale simulations of viscoelasticity**|Tanvir Sohail et.al.|[2603.27430](http://arxiv.org/abs/2603.27430)|null|
+|**2026-03-28**|**ADEPT-PolyGraphMT: Automated Molecular Simulation and Multi-Task Multi-Fidelity Machine Learning for Polymer Property Generation and Prediction**|Sobin Alosious et.al.|[2603.27106](http://arxiv.org/abs/2603.27106)|null|
+|**2026-03-27**|**Evolution of Linear Viscoelasticity across the Critical Gelation Transition**|Yogesh M Joshi et.al.|[2603.26082](http://arxiv.org/abs/2603.26082)|null|
+|**2026-03-26**|**Electrical and thermal magnetotransport in altermagnetic CrSb**|Sajal Naduvile Thadathil et.al.|[2603.25820](http://arxiv.org/abs/2603.25820)|null|
 |**2026-03-26**|**Converting vertical heat supply into horizontal motion for microtechnological pumping and autonomous waste heat recovery**|Jan-Niklas Schäfer et.al.|[2603.25626](http://arxiv.org/abs/2603.25626)|null|
 |**2026-03-26**|**Physics-Informed Neural Operator for Electromagnetic Inverse Scattering Problems**|Q. C. Dong et.al.|[2603.25404](http://arxiv.org/abs/2603.25404)|null|
 |**2026-03-26**|**Machine-Learned Interatomic Potentials for Predicting Physicochemical Properties of Molten Metal-Salt Systems for Calcium Electrolysis**|M. Polovinkin et.al.|[2603.25330](http://arxiv.org/abs/2603.25330)|null|
@@ -450,12 +462,22 @@
 |**2026-01-12**|**Understanding microfabricated nanocalorimeter performance and responses to the energy fluxes from low-temperature plasma discharges**|Carles Corbella et.al.|[2601.08009](http://arxiv.org/abs/2601.08009)|null|
 |**2026-01-15**|**PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials**|Teddy Koker et.al.|[2601.07742](http://arxiv.org/abs/2601.07742)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Generative Design & Inverse Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery**|Qi Guo et.al.|[2603.27645](http://arxiv.org/abs/2603.27645)|null|
+|**2026-03-29**|**You Only Erase Once: Erasing Anything without Bringing Unexpected Content**|Yixing Zhu et.al.|[2603.27599](http://arxiv.org/abs/2603.27599)|null|
+|**2026-03-29**|**PANDORA: Pixel-wise Attention Dissolution and Latent Guidance for Zero-Shot Object Removal**|Dinh-Khoi Vo et.al.|[2603.27555](http://arxiv.org/abs/2603.27555)|null|
+|**2026-03-29**|**SPROUT: A Scalable Diffusion Foundation Model for Agricultural Vision**|Shuai Xiang et.al.|[2603.27519](http://arxiv.org/abs/2603.27519)|null|
+|**2026-03-29**|**Variational Learning of Fractional Posteriors**|Kian Ming A. Chai et.al.|[2603.27488](http://arxiv.org/abs/2603.27488)|null|
+|**2026-03-29**|**FlowRL: A Taxonomy and Modular Framework for Reinforcement Learning with Diffusion Policies**|Chenxiao Gao et.al.|[2603.27450](http://arxiv.org/abs/2603.27450)|null|
+|**2026-03-28**|**Active In-Context Learning for Tabular Foundation Models**|Wilailuck Treerath et.al.|[2603.27385](http://arxiv.org/abs/2603.27385)|null|
+|**2026-03-28**|**HMPDM: A Diffusion Model for Driving Video Prediction with Historical Motion Priors**|Ke Li et.al.|[2603.27371](http://arxiv.org/abs/2603.27371)|null|
+|**2026-03-28**|**Class-Distribution Guided Active Learning for 3D Occupancy Prediction in Autonomous Driving**|Wonjune Kim et.al.|[2603.27294](http://arxiv.org/abs/2603.27294)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
 |**2026-03-26**|**S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation**|Ligong Han et.al.|[2603.25702](http://arxiv.org/abs/2603.25702)|null|
@@ -944,12 +966,22 @@
 |**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
 |**2026-01-16**|**M3DDM+: An improved video outpainting by a modified masking strategy**|Takuya Murakawa et.al.|[2601.11048](http://arxiv.org/abs/2601.11048)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Molecular Dynamics & Multiscale Modeling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Entropy Production Rate in Stochastically Time-evolving Asymmetric Networks**|Tuan Pham et.al.|[2603.27658](http://arxiv.org/abs/2603.27658)|null|
+|**2026-03-29**|**The spectrum of the stochastic Bessel operator at high temperature**|Laure Dumaz et.al.|[2603.27602](http://arxiv.org/abs/2603.27602)|null|
+|**2026-03-29**|**Microscopic Pathways to Helix Formation: Packing Stabilization and Sticky Interactions in Chiral Polymer Condensates**|Biman Bagchi et.al.|[2603.27485](http://arxiv.org/abs/2603.27485)|null|
+|**2026-03-28**|**The effects of ionic valency and size asymmetry on counterion adsorption**|Or Ben Yaakov et.al.|[2603.27444](http://arxiv.org/abs/2603.27444)|null|
+|**2026-03-28**|**Online Inertia Tensor Identification for Non-Cooperative Spacecraft via Augmented UKF**|Batu Candan et.al.|[2603.27361](http://arxiv.org/abs/2603.27361)|null|
+|**2026-03-28**|**Deep brain microelectrode signal: $q$ -statistical approach**|Ana Luiza Souza Tavares et.al.|[2603.27322](http://arxiv.org/abs/2603.27322)|null|
+|**2026-03-28**|**Emergent Competition Between Dynamical Channels in Nonequilibrium Systems**|R. A. Dumer et.al.|[2603.27256](http://arxiv.org/abs/2603.27256)|null|
+|**2026-03-28**|**When can fitness epistasis be ignored in a polygenic trait at equilibrium?**|Archana Devi et.al.|[2603.27255](http://arxiv.org/abs/2603.27255)|null|
+|**2026-03-28**|**Continuum Free-Energy Computing**|Trey Li et.al.|[2603.27239](http://arxiv.org/abs/2603.27239)|null|
+|**2026-03-28**|**Information Theoretic Signatures of Localization and Mobility Edges in Quasiperiodic Systems**|Arpita Goswami et.al.|[2603.27175](http://arxiv.org/abs/2603.27175)|null|
 |**2026-03-26**|**Krylov-space anatomy and spread complexity of a disordered quantum spin chain**|Bikram Pain et.al.|[2603.25724](http://arxiv.org/abs/2603.25724)|null|
 |**2026-03-26**|**Non-linear Sigma Model for the Surface Code with Coherent Errors**|Stephen W. Yan et.al.|[2603.25665](http://arxiv.org/abs/2603.25665)|null|
 |**2026-03-26**|**Diffusion in interacting two-dimensional systems under a uniform magnetic field**|Łukasz Iwanek et.al.|[2603.25659](http://arxiv.org/abs/2603.25659)|null|
@@ -1438,12 +1470,14 @@
 |**2026-01-15**|**Exact and Approximate Constants of Motion in Stochastic Contact Processes**|Damián H. Zanette et.al.|[2601.10776](http://arxiv.org/abs/2601.10776)|null|
 |**2026-01-15**|**Synchronization with Annealed Disorder and Higher-Harmonic Interactions in Arbitrary Dimensions: When Two Dimensions Are Special**|Rupak Majumder et.al.|[2601.10646](http://arxiv.org/abs/2601.10646)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Microstructure, Morphology & Characterization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-27**|**Emergence of multiple quasi-ferromagnetic magnon modes induced by strong magnetoelastic coupling in $TmFeO_3$ single crystal**|Sourabh Manna et.al.|[2603.26284](http://arxiv.org/abs/2603.26284)|null|
+|**2026-03-26**|**Field-controlled interfacial transport and pinning in an active spin system**|Mintu Karmakar et.al.|[2603.25842](http://arxiv.org/abs/2603.25842)|null|
 |**2026-03-26**|**Entropic phase separation in polymer--vitrimer melts**|A. A. Rispo Constantinou et.al.|[2603.25532](http://arxiv.org/abs/2603.25532)|null|
 |**2026-03-26**|**Interfacial Permeability, Reflectivity and Preferential Internal Mixing of Phase-Separated Condensates**|Oihan Joyot et.al.|[2603.25447](http://arxiv.org/abs/2603.25447)|null|
 |**2026-03-26**|**Low regularity potentials in heterogeneous Cahn--Hilliard functionals**|Riccardo Cristoferi et.al.|[2603.25369](http://arxiv.org/abs/2603.25369)|null|
@@ -1545,7 +1579,7 @@
 |**2026-01-09**|**On the Feasibility of Extreme Heating Rates in SEM using MEMS Heater Platforms**|C. Koenig et.al.|[2601.05831](http://arxiv.org/abs/2601.05831)|null|
 |**2026-01-09**|**Optimal velocity control of a Brinkman-Cahn-Hilliard system with curvature effects**|Pierluigi Colli et.al.|[2601.05820](http://arxiv.org/abs/2601.05820)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Synthesis, Kinetics & Automation
 
@@ -1588,12 +1622,15 @@
 |**2025-12-13**|**Layered Monoidal Theories**|Leo Lobski et.al.|[2512.12139](http://arxiv.org/abs/2512.12139)|null|
 |**2025-12-15**|**Template-Free Retrosynthesis with Graph-Prior Augmented Transformers**|Youjun Zhao et.al.|[2512.10770](http://arxiv.org/abs/2512.10770)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Processing, Manufacturing & Composites
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-28**|**Zero-waste manufacturing of ophthalmic lenses by direct Fluidic Shaping in arbitrary domains**|Yotam Katzman et.al.|[2603.27367](http://arxiv.org/abs/2603.27367)|null|
+|**2026-03-28**|**Single-material 4D-printed shape-morphing structures via spatially patterned strain trapping**|S M Asif Iqbal et.al.|[2603.27152](http://arxiv.org/abs/2603.27152)|null|
+|**2026-03-27**|**Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib**|I. Agnes Felicia Roy et.al.|[2603.26960](http://arxiv.org/abs/2603.26960)|null|
 |**2026-03-26**|**Intelligent Navigation and Obstacle-Aware Fabrication for Mobile Additive Manufacturing Systems**|Yifei Li et.al.|[2603.25688](http://arxiv.org/abs/2603.25688)|null|
 |**2026-03-24**|**Minimizing Material Waste in Additive Manufacturing through Online Reel Assignment**|Ilayda Celenk et.al.|[2603.23042](http://arxiv.org/abs/2603.23042)|null|
 |**2026-03-23**|**AdditiveLLM2: A Multi-modal Large Language Model for Additive Manufacturing**|Peter Pak et.al.|[2603.22017](http://arxiv.org/abs/2603.22017)|null|
@@ -1660,7 +1697,7 @@
 |**2026-01-08**|**Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing**|Yeongbin Cha et.al.|[2601.05298](http://arxiv.org/abs/2601.05298)|null|
 |**2026-01-07**|**Probing optical and acoustic phonons in heated nano-Si/epoxy composites**|Bayan Kurbanova et.al.|[2601.04021](http://arxiv.org/abs/2601.04021)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Sustainability & Functional Applications
 
@@ -1706,12 +1743,22 @@
 |**2025-12-31**|**Non-Contact and Non-Destructive Detection of Structural Defects in Bioprinted Constructs Using Video-Based Vibration Analysis**|Md Anisur Rahman et.al.|[2601.00073](http://arxiv.org/abs/2601.00073)|null|
 |**2025-12-29**|**Renormalization group approach to graphene bilayers**|L. Delzescaux et.al.|[2512.23349](http://arxiv.org/abs/2512.23349)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Informatics & Data Infrastructure
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
+|**2026-03-29**|**Benchmarking Encoding Families in Quantum Neural Networks Under Fixed Circuit Area for Frequency Spectrum and Trainability**|Martyna Czuba et.al.|[2603.27671](http://arxiv.org/abs/2603.27671)|null|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-29**|**Motivic counting of curves on split quintic del Pezzo surfaces**|Christian Bernert et.al.|[2603.27668](http://arxiv.org/abs/2603.27668)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**A Benchmarking Methodology to Assess Open-Source Video Large Language Models in Automatic Captioning of News Videos**|David Miranda Paredes et.al.|[2603.27662](http://arxiv.org/abs/2603.27662)|null|
+|**2026-03-29**|**Magnetic moments of open bottom--charm molecular pentaquark octets**|Halil Mutuk et.al.|[2603.27657](http://arxiv.org/abs/2603.27657)|null|
+|**2026-03-29**|**Explicit relaxation Particle-in-Cell methods for Vlasov-Poisson equations with a strong magnetic field**|Lina Wang et.al.|[2603.27652](http://arxiv.org/abs/2603.27652)|null|
+|**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[2603.27650](http://arxiv.org/abs/2603.27650)|null|
+|**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
 |**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|
@@ -2213,7 +2260,7 @@
 |**2026-01-16**|**Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs**|Alessandro Padella et.al.|[2601.11468](http://arxiv.org/abs/2601.11468)|null|
 |**2026-01-16**|**The XL Instances for the Capacitated Vehicle Routing Problem**|Eduardo Queiroga et.al.|[2601.11467](http://arxiv.org/abs/2601.11467)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4polymer-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4polymer-arxiv-daily/graphs/contributors
