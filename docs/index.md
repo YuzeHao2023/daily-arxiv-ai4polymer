@@ -224,6 +224,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**A Foldable and Agile Soft Electromagnetic Robot for Multimodal Navigation in Confined and Unstructured Environments**|Zhihao Lv et.al.|[2603.28362](http://arxiv.org/abs/2603.28362)|null|
+|**2026-03-30**|**Intrinsically ultralow thermal conductivity in all-inorganic superatomic bulk crystals**|Mingzhang Yang et.al.|[2603.28267](http://arxiv.org/abs/2603.28267)|null|
+|**2026-03-29**|**Weakly nonlinear models for hydroelastic water waves**|Diego Alonso-Orán et.al.|[2603.27802](http://arxiv.org/abs/2603.27802)|null|
+|**2026-03-29**|**Benzo-bis(imidazole) self-assembled monolayers molecular junctions in meta or para conformation: effects of protonation on the electrical and thermal conductances**|Sergio Gonzalez-Casal et.al.|[2603.27760](http://arxiv.org/abs/2603.27760)|null|
 |**2026-03-28**|**Neural operator accelerated atomistic to continuum concurrent multiscale simulations of viscoelasticity**|Tanvir Sohail et.al.|[2603.27430](http://arxiv.org/abs/2603.27430)|null|
 |**2026-03-28**|**ADEPT-PolyGraphMT: Automated Molecular Simulation and Multi-Task Multi-Fidelity Machine Learning for Polymer Property Generation and Prediction**|Sobin Alosious et.al.|[2603.27106](http://arxiv.org/abs/2603.27106)|null|
 |**2026-03-27**|**Evolution of Linear Viscoelasticity across the Critical Gelation Transition**|Yogesh M Joshi et.al.|[2603.26082](http://arxiv.org/abs/2603.26082)|null|
@@ -453,6 +457,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**|N Alex Cayco Gajic et.al.|[2603.28764](http://arxiv.org/abs/2603.28764)|null|
+|**2026-03-30**|**PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models**|Lorenza Prospero et.al.|[2603.28763](http://arxiv.org/abs/2603.28763)|null|
+|**2026-03-30**|**On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers**|Omer Dahary et.al.|[2603.28762](http://arxiv.org/abs/2603.28762)|null|
+|**2026-03-30**|**Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?**|Ashwini Dasare et.al.|[2603.28717](http://arxiv.org/abs/2603.28717)|null|
+|**2026-03-30**|**DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing**|Kailai Feng et.al.|[2603.28713](http://arxiv.org/abs/2603.28713)|null|
+|**2026-03-30**|**Front Location for Go or Grow Models of Aerotaxis**|Mete Demircigil et.al.|[2603.28663](http://arxiv.org/abs/2603.28663)|null|
+|**2026-03-30**|**ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection**|Haojing Chen et.al.|[2603.28584](http://arxiv.org/abs/2603.28584)|null|
+|**2026-03-30**|**ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation**|Yu Sun et.al.|[2603.28545](http://arxiv.org/abs/2603.28545)|null|
+|**2026-03-30**|**MRI-to-CT synthesis using drifting models**|Qing Lyu et.al.|[2603.28498](http://arxiv.org/abs/2603.28498)|null|
+|**2026-03-30**|**$R_{dm}$ : Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation**|Linqian Fan et.al.|[2603.28460](http://arxiv.org/abs/2603.28460)|null|
 |**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
 |**2026-03-29**|**OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery**|Qi Guo et.al.|[2603.27645](http://arxiv.org/abs/2603.27645)|null|
 |**2026-03-29**|**You Only Erase Once: Erasing Anything without Bringing Unexpected Content**|Yixing Zhu et.al.|[2603.27599](http://arxiv.org/abs/2603.27599)|null|
@@ -955,6 +969,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Free energy analyticity of the disordered XY model and Debye screening in the 2D Coulomb gas**|Lucas D'Alimonte et.al.|[2603.28734](http://arxiv.org/abs/2603.28734)|null|
+|**2026-03-30**|**Geometry of the Ising persistence problem and the universal Bonnet-Manin Painlevé VI distribution**|Ivan Dornic et.al.|[2603.28632](http://arxiv.org/abs/2603.28632)|null|
+|**2026-03-30**|**Rounded hard squares confined in a circle**|Zhongtian Yuan et.al.|[2603.28609](http://arxiv.org/abs/2603.28609)|null|
+|**2026-03-30**|**Path Integral Methods in Atomistic Modelling: An Introduction**|Michele Ceriotti et.al.|[2603.28588](http://arxiv.org/abs/2603.28588)|null|
+|**2026-03-30**|**Symmetry Resolved Entanglement Entropy: Equipartition under Driven and Non-unitary Evolution in a Compact Boson CFT**|Filiberto Ares et.al.|[2603.28567](http://arxiv.org/abs/2603.28567)|null|
+|**2026-03-30**|**Phase Boundaries of Bulk 2D Rhombi**|Gerardo Odriozola et.al.|[2603.28541](http://arxiv.org/abs/2603.28541)|null|
+|**2026-03-30**|**Probing excited-state quantum phase transitions with trapped cold ions**|Marek Kuchař et.al.|[2603.28509](http://arxiv.org/abs/2603.28509)|null|
+|**2026-03-30**|**Will a time-varying complex system be stable?**|Francesco Ferraro et.al.|[2603.28464](http://arxiv.org/abs/2603.28464)|null|
+|**2026-03-30**|**Three non-Hermitian random matrix universality classes of complex edge statistics: Spacing ratios and distributions**|Gernot Akemann et.al.|[2603.28457](http://arxiv.org/abs/2603.28457)|null|
+|**2026-03-30**|**Strain-stiffening critical exponents of fiber networks under uniaxial deformation**|Atharva Pandit et.al.|[2603.28397](http://arxiv.org/abs/2603.28397)|null|
 |**2026-03-29**|**Entropy Production Rate in Stochastically Time-evolving Asymmetric Networks**|Tuan Pham et.al.|[2603.27658](http://arxiv.org/abs/2603.27658)|null|
 |**2026-03-29**|**The spectrum of the stochastic Bessel operator at high temperature**|Laure Dumaz et.al.|[2603.27602](http://arxiv.org/abs/2603.27602)|null|
 |**2026-03-29**|**Microscopic Pathways to Helix Formation: Packing Stabilization and Sticky Interactions in Chiral Polymer Condensates**|Biman Bagchi et.al.|[2603.27485](http://arxiv.org/abs/2603.27485)|null|
@@ -1457,13 +1481,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Emergence of a molecular quantum liquid in one dimension**|Rajashri Parida et.al.|[2603.28635](http://arxiv.org/abs/2603.28635)|null|
 |**2026-03-27**|**Emergence of multiple quasi-ferromagnetic magnon modes induced by strong magnetoelastic coupling in $TmFeO_3$ single crystal**|Sourabh Manna et.al.|[2603.26284](http://arxiv.org/abs/2603.26284)|null|
 |**2026-03-26**|**Field-controlled interfacial transport and pinning in an active spin system**|Mintu Karmakar et.al.|[2603.25842](http://arxiv.org/abs/2603.25842)|null|
 |**2026-03-26**|**Entropic phase separation in polymer--vitrimer melts**|A. A. Rispo Constantinou et.al.|[2603.25532](http://arxiv.org/abs/2603.25532)|null|
 |**2026-03-26**|**Interfacial Permeability, Reflectivity and Preferential Internal Mixing of Phase-Separated Condensates**|Oihan Joyot et.al.|[2603.25447](http://arxiv.org/abs/2603.25447)|null|
 |**2026-03-26**|**Low regularity potentials in heterogeneous Cahn--Hilliard functionals**|Riccardo Cristoferi et.al.|[2603.25369](http://arxiv.org/abs/2603.25369)|null|
 |**2026-03-25**|**A simple model for conserved intracellular dynamics exhibits multiscale pattern formation, traveling protein domains and arrested coarsening of lipids in the membrane**|Benjamin Winkler et.al.|[2603.23856](http://arxiv.org/abs/2603.23856)|null|
-|**2026-03-24**|**Behaviour of the model antibody fluid constrained by rigid spherical obstacles: effects of the obstacle-antibody binding**|Yu. V. Kalyuzhnyi et.al.|[2603.23615](http://arxiv.org/abs/2603.23615)|null|
+|**2026-03-30**|**Behaviour of the model antibody fluid constrained by rigid spherical obstacles: effects of the obstacle-antibody binding**|Yu. V. Kalyuzhnyi et.al.|[2603.23615](http://arxiv.org/abs/2603.23615)|null|
 |**2026-03-23**|**Self-organised structures in mixed active-passive suspensions due to hydrodynamic interactions**|Alexander Chamolly et.al.|[2603.23555](http://arxiv.org/abs/2603.23555)|null|
 |**2026-03-23**|**Post-selective attack with multi-mode projection onto Fock subspace**|Andrei Gaidash et.al.|[2603.22122](http://arxiv.org/abs/2603.22122)|null|
 |**2026-03-20**|**Structural Phase Separation Couples to Charge-Density-Wave Formation in Kagome Metal FeGe**|Boyang Zhao et.al.|[2603.20459](http://arxiv.org/abs/2603.20459)|null|
@@ -1605,6 +1630,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Acoustic Black Hole Damper for Thermoacoustic Instability Control in a Hydrogen Combustor**|Bayu Dharmaputra et.al.|[2603.28231](http://arxiv.org/abs/2603.28231)|null|
 |**2026-03-28**|**Zero-waste manufacturing of ophthalmic lenses by direct Fluidic Shaping in arbitrary domains**|Yotam Katzman et.al.|[2603.27367](http://arxiv.org/abs/2603.27367)|null|
 |**2026-03-28**|**Single-material 4D-printed shape-morphing structures via spatially patterned strain trapping**|S M Asif Iqbal et.al.|[2603.27152](http://arxiv.org/abs/2603.27152)|null|
 |**2026-03-27**|**Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib**|I. Agnes Felicia Roy et.al.|[2603.26960](http://arxiv.org/abs/2603.26960)|null|
@@ -1678,9 +1704,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Phenol release from pNIPAM hydrogels: Scaling Molecular Dynamics simulations with Dynamical Density Functional Theory**|H. A. Pérez-Ramírez et.al.|[2603.28659](http://arxiv.org/abs/2603.28659)|null|
 |**2026-03-25**|**Rethinking failure in polymer networks: a probabilistic view on progressive damage**|Noy Cohen et.al.|[2603.23881](http://arxiv.org/abs/2603.23881)|null|
 |**2026-03-20**|**Mechanical response of a simple DNA nanostar hydrogel: symptoms of disorder and glassy emergence of solidity**|Hajar Ajiyel et.al.|[2603.20119](http://arxiv.org/abs/2603.20119)|null|
-|**2026-03-20**|**Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution**|A. Kovalenko et.al.|[2603.20057](http://arxiv.org/abs/2603.20057)|null|
+|**2026-03-30**|**Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution**|A. Kovalenko et.al.|[2603.20057](http://arxiv.org/abs/2603.20057)|null|
 |**2026-03-19**|**Entropy maximization underlies topology and mechanical properties in dynamic covalent hydrogels**|Lucien Cousin et.al.|[2603.17871](http://arxiv.org/abs/2603.17871)|null|
 |**2026-03-20**|**Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks**|Pietro Miotti et.al.|[2603.17180](http://arxiv.org/abs/2603.17180)|null|
 |**2026-03-15**|**Life cycle assessment for all organic chemicals**|Shaohan Chen et.al.|[2603.15686](http://arxiv.org/abs/2603.15686)|null|
@@ -1722,6 +1749,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Gen-Searcher: Reinforcing Agentic Search for Image Generation**|Kaituo Feng et.al.|[2603.28767](http://arxiv.org/abs/2603.28767)|null|
+|**2026-03-30**|**HandX: Scaling Bimanual Motion and Interaction Generation**|Zimu Zhang et.al.|[2603.28766](http://arxiv.org/abs/2603.28766)|null|
+|**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759](http://arxiv.org/abs/2603.28759)|null|
+|**2026-03-30**|**Temporal Credit Is Free**|Aur Shalev Merin et.al.|[2603.28750](http://arxiv.org/abs/2603.28750)|null|
+|**2026-03-30**|**Constrained Optimization on Matrix Lie Groups via Interior-Point Method**|Aclécio J. Santos et.al.|[2603.28747](http://arxiv.org/abs/2603.28747)|null|
+|**2026-03-30**|**FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**|Yichi Zhang et.al.|[2603.28740](http://arxiv.org/abs/2603.28740)|null|
+|**2026-03-30**|**Upper bound on the $k$ -th eigenvalue of a graph**|Varun Sivashankar et.al.|[2603.28738](http://arxiv.org/abs/2603.28738)|null|
+|**2026-03-30**|**Free energy analyticity of the disordered XY model and Debye screening in the 2D Coulomb gas**|Lucas D'Alimonte et.al.|[2603.28734](http://arxiv.org/abs/2603.28734)|null|
+|**2026-03-30**|**See it to Place it: Evolving Macro Placements with Vision-Language Models**|Ikechukwu Uchendu et.al.|[2603.28733](http://arxiv.org/abs/2603.28733)|null|
+|**2026-03-30**|**BitSov: A Composable Bitcoin-Native Architecture for Sovereign Internet Infrastructure**|Oliver Aleksander Larsen et.al.|[2603.28727](http://arxiv.org/abs/2603.28727)|null|
 |**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
 |**2026-03-29**|**Benchmarking Encoding Families in Quantum Neural Networks Under Fixed Circuit Area for Frequency Spectrum and Trainability**|Martyna Czuba et.al.|[2603.27671](http://arxiv.org/abs/2603.27671)|null|
 |**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
