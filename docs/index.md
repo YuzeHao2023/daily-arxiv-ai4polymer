@@ -464,6 +464,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Video Models Reason Early: Exploiting Plan Commitment for Maze Solving**|Kaleb Newman et.al.|[2603.30043](http://arxiv.org/abs/2603.30043)|null|
+|**2026-03-31**|**Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing**|Derek Anderson et.al.|[2603.30014](http://arxiv.org/abs/2603.30014)|null|
+|**2026-03-31**|**Conditional Diffusion-Based Point Cloud Imaging for UAV Position and Attitude Sensing**|Xinhong Dai et.al.|[2603.29822](http://arxiv.org/abs/2603.29822)|null|
+|**2026-03-31**|**Inverse Design of Strongly Localized Topological $π$ Modes in One-Dimensional Nonperiodic Systems**|Fumitatsu Iwase et.al.|[2603.29821](http://arxiv.org/abs/2603.29821)|null|
+|**2026-03-31**|**AMShortcut: An Inference- and Training-Efficient Inverse Design Model for Amorphous Materials**|Yan Lin et.al.|[2603.29812](http://arxiv.org/abs/2603.29812)|null|
 |**2026-03-31**|**Data-Driven Optimisation of Superconducting Magnets at CEA Paris-Saclay**|Damien F. G. Minenna et.al.|[2603.29740](http://arxiv.org/abs/2603.29740)|null|
 |**2026-03-31**|**mlr3mbo: Bayesian Optimization in R**|Marc Becker et.al.|[2603.29730](http://arxiv.org/abs/2603.29730)|null|
 |**2026-03-31**|**Mind the Gap: A Framework for Assessing Pitfalls in Multimodal Active Learning**|Dustin Eisenhardt et.al.|[2603.29677](http://arxiv.org/abs/2603.29677)|null|
@@ -986,6 +991,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**On the Meaning of Urban Scaling**|Ulysse Marquis et.al.|[2603.30021](http://arxiv.org/abs/2603.30021)|null|
+|**2026-03-31**|**Hilbert's Sixth Problem and Soft Logic**|Moshe Klein et.al.|[2603.29969](http://arxiv.org/abs/2603.29969)|null|
+|**2026-03-31**|**Bethe Ansatz with a Large Language Model**|Balázs Pozsgay et.al.|[2603.29932](http://arxiv.org/abs/2603.29932)|null|
+|**2026-03-31**|**Optimal Control of a Mesoscopic Information Engine**|Emanuele Panizon et.al.|[2603.29804](http://arxiv.org/abs/2603.29804)|null|
 |**2026-03-31**|**Exponential Periods for Integrals in Physics**|Anthony Massidda et.al.|[2603.29787](http://arxiv.org/abs/2603.29787)|null|
 |**2026-03-31**|**Generalizing Output-Feedback Covariance Steering to Incorporate Non-Orthogonal Estimation Errors**|Daniel C. Qi et.al.|[2603.29753](http://arxiv.org/abs/2603.29753)|null|
 |**2026-03-31**|**Enhanced synchronization with proportional coupling in Kuramoto oscillator networks**|Amit Pando et.al.|[2603.29648](http://arxiv.org/abs/2603.29648)|null|
@@ -1661,6 +1670,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Enhanced nanocomposite susceptibility by field-alignment of superparamagnetic particles**|Mathias Zambach et.al.|[2603.29983](http://arxiv.org/abs/2603.29983)|null|
 |**2026-03-30**|**Acoustic Black Hole Damper for Thermoacoustic Instability Control in a Hydrogen Combustor**|Bayu Dharmaputra et.al.|[2603.28231](http://arxiv.org/abs/2603.28231)|null|
 |**2026-03-28**|**Zero-waste manufacturing of ophthalmic lenses by direct Fluidic Shaping in arbitrary domains**|Yotam Katzman et.al.|[2603.27367](http://arxiv.org/abs/2603.27367)|null|
 |**2026-03-28**|**Single-material 4D-printed shape-morphing structures via spatially patterned strain trapping**|S M Asif Iqbal et.al.|[2603.27152](http://arxiv.org/abs/2603.27152)|null|
@@ -1780,6 +1790,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations**|Izavan dos S. Correia et.al.|[2603.30040](http://arxiv.org/abs/2603.30040)|null|
+|**2026-03-31**|**Benchmarking PhD-Level Coding in 3D Geometric Computer Vision**|Wenyi Li et.al.|[2603.30038](http://arxiv.org/abs/2603.30038)|null|
+|**2026-03-31**|**Tucker Attention: A generalization of approximate attention mechanisms**|Timon Klein et.al.|[2603.30033](http://arxiv.org/abs/2603.30033)|null|
+|**2026-03-31**|**Canonical frames in contact 3-manifolds and applications**|Brayan Ferreira et.al.|[2603.30027](http://arxiv.org/abs/2603.30027)|null|
+|**2026-03-31**|**Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models**|Md Saad et.al.|[2603.30022](http://arxiv.org/abs/2603.30022)|null|
+|**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
+|**2026-03-31**|**Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing**|Derek Anderson et.al.|[2603.30014](http://arxiv.org/abs/2603.30014)|null|
+|**2026-03-31**|**Learning the Exact Flux: Neural Riemann Solvers with Hard Constraints**|Yucheng Zhang et.al.|[2603.30007](http://arxiv.org/abs/2603.30007)|null|
+|**2026-03-31**|**A counterexample to a conjecture of Sárközy on sums and products modulo a prime**|Quanyu Tang et.al.|[2603.29992](http://arxiv.org/abs/2603.29992)|null|
+|**2026-03-31**|**SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays**|Abdullah Thabit et.al.|[2603.29990](http://arxiv.org/abs/2603.29990)|null|
 |**2026-03-31**|**Multi-Feature Fusion Approach for Generative AI Images Detection**|Abderrezzaq Sendjasni et.al.|[2603.29788](http://arxiv.org/abs/2603.29788)|null|
 |**2026-03-31**|**On the symmetry of evidential support**|Grant Molnar et.al.|[2603.29786](http://arxiv.org/abs/2603.29786)|null|
 |**2026-03-31**|**Urban mobility enables deprivation bubble breaking in Indian and Mexican cities**|Yuan Liao et.al.|[2603.29782](http://arxiv.org/abs/2603.29782)|null|
