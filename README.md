@@ -250,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**AlloyVAE: A generative model for complex probabilistic field-to-field relationships in alloys**|Ningyu Yan et.al.|[2604.02281](http://arxiv.org/abs/2604.02281)|null|
 |**2026-04-01**|**A Shakhov-based Bhatnagar-Gross-Krook model for polyatomic molecules and for atomic as well as polyatomic mixtures**|Marcel Pfeiffer et.al.|[2604.01377](http://arxiv.org/abs/2604.01377)|null|
 |**2026-04-01**|**Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability**|Léa Delance et.al.|[2604.01185](http://arxiv.org/abs/2604.01185)|null|
 |**2026-04-01**|**A comparison of Markov Chain Monte Carlo algorithms for Bayesian inference of constitutive models**|Aricia Rinkens et.al.|[2604.01121](http://arxiv.org/abs/2604.01121)|null|
@@ -500,6 +501,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|
+|**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
+|**2026-04-02**|**AlloyVAE: A generative model for complex probabilistic field-to-field relationships in alloys**|Ningyu Yan et.al.|[2604.02281](http://arxiv.org/abs/2604.02281)|null|
+|**2026-04-02**|**Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives**|Hao Zhu et.al.|[2604.02250](http://arxiv.org/abs/2604.02250)|null|
+|**2026-04-02**|**SCALE: Semantic- and Confidence-Aware Conditional Variational Autoencoder for Zero-shot Skeleton-based Action Recognition**|Soroush Oraki et.al.|[2604.02222](http://arxiv.org/abs/2604.02222)|null|
 |**2026-04-02**|**Grey-Box Bayesian Optimization for ISAC in Fluid-Antenna Assisted Air-Ground Network**|Gangyong Zhu et.al.|[2604.02181](http://arxiv.org/abs/2604.02181)|null|
 |**2026-04-02**|**Reflection Generation for Composite Image Using Diffusion Model**|Haonan Zhao et.al.|[2604.02168](http://arxiv.org/abs/2604.02168)|null|
 |**2026-04-02**|**O-ConNet: Geometry-Aware End-to-End Inference of Over-Constrained Spatial Mechanisms**|Haoyu Sun et.al.|[2604.02038](http://arxiv.org/abs/2604.02038)|null|
@@ -1049,6 +1055,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking**|Bikram Pain et.al.|[2604.02321](http://arxiv.org/abs/2604.02321)|null|
+|**2026-04-02**|**Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach**|Kuangjie Chen et.al.|[2604.02307](http://arxiv.org/abs/2604.02307)|null|
+|**2026-04-02**|**The "Intensity" Countoscope: Measuring particle dynamics in real space from microscopy images**|Sophie Hermann et.al.|[2604.02271](http://arxiv.org/abs/2604.02271)|null|
 |**2026-04-02**|**Entropic crystallization of geometrically frustrated magnets on 1/1 approximant Tsai-type quasicrystal**|Oscar Novat et.al.|[2604.02180](http://arxiv.org/abs/2604.02180)|null|
 |**2026-04-02**|**Power laws, anisotropy and center-of-mass conservation in mass transport processes**|Aniket Samanta et.al.|[2604.02167](http://arxiv.org/abs/2604.02167)|null|
 |**2026-04-02**|**Spatial Correlations Restore Zwanzig's Mean-Field Diffusion Result in Rugged Energy Landscapes**|Biman Bagchi et.al.|[2604.02143](http://arxiv.org/abs/2604.02143)|null|
@@ -1835,6 +1844,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Incorporating circular economy policies into product supply chains using bilevel optimization -- A case study on coffee packaging**|Paola Munoz Briones et.al.|[2604.02247](http://arxiv.org/abs/2604.02247)|null|
 |**2026-04-02**|**Electrochemical doping in H-terminated diamond films: Impact of O-functionalization and insights from in-situ Raman spectro electrochemistry**|N. Mohasin Sulthana et.al.|[2604.01695](http://arxiv.org/abs/2604.01695)|null|
 |**2026-04-01**|**Bipolar plates for the next generation of proton exchange membrane fuel cells (PEMFCs): A review of the latest processing methods for unconventional flow channels**|Zahra Kazemi et.al.|[2604.00461](http://arxiv.org/abs/2604.00461)|null|
 |**2026-03-30**|**Phenol release from pNIPAM hydrogels: Scaling Molecular Dynamics simulations with Dynamical Density Functional Theory**|H. A. Pérez-Ramírez et.al.|[2603.28659](http://arxiv.org/abs/2603.28659)|null|
@@ -1884,6 +1894,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|
+|**2026-04-02**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al.|[2604.02328](http://arxiv.org/abs/2604.02328)|null|
+|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
+|**2026-04-02**|**Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation**|Daiwei Chen et.al.|[2604.02324](http://arxiv.org/abs/2604.02324)|null|
+|**2026-04-02**|**Beyond Referring Expressions: Scenario Comprehension Visual Grounding**|Ruozhen He et.al.|[2604.02323](http://arxiv.org/abs/2604.02323)|null|
+|**2026-04-02**|**Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning**|Bangji Yang et.al.|[2604.02322](http://arxiv.org/abs/2604.02322)|null|
+|**2026-04-02**|**A Simple Baseline for Streaming Video Understanding**|Yujiao Shen et.al.|[2604.02317](http://arxiv.org/abs/2604.02317)|null|
+|**2026-04-02**|**Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models**|Sarath Shekkizhar et.al.|[2604.02315](http://arxiv.org/abs/2604.02315)|null|
+|**2026-04-02**|**A Positivity-Preserving Relaxation Algorithm**|Thomas Izgin et.al.|[2604.02308](http://arxiv.org/abs/2604.02308)|null|
+|**2026-04-02**|**PARD-SSM: Probabilistic Cyber-Attack Regime Detection via Variational Switching State-Space Models**|Prakul Sunil Hiremath et.al.|[2604.02299](http://arxiv.org/abs/2604.02299)|null|
 |**2026-04-02**|**CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**|Youssef Saidi et.al.|[2604.02209](http://arxiv.org/abs/2604.02209)|null|
 |**2026-04-02**|**Evaluation of gNB Monostatic Sensing for UAV Use Case**|Steve Blandino et.al.|[2604.02205](http://arxiv.org/abs/2604.02205)|null|
 |**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
