@@ -241,6 +241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Large Language Model Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb $_3$ Based Skutterudites**|Yagnik Bandyopadhyay et.al.|[2604.06048](http://arxiv.org/abs/2604.06048)|null|
 |**2026-04-07**|**Elasto-inertial transitions in viscoelastic flows through cylinder arrays**|Jack R. C. King et.al.|[2604.05892](http://arxiv.org/abs/2604.05892)|null|
 |**2026-04-07**|**Asymptotic models for viscoelastic one-dimensional blood flow**|Diego Alonso-Orán et.al.|[2604.05679](http://arxiv.org/abs/2604.05679)|null|
 |**2026-04-07**|**Robust quantized thermal conductance of Majorana floating edge bands in d-wave superconductors**|Yanmiao Han et.al.|[2604.05588](http://arxiv.org/abs/2604.05588)|null|
@@ -506,6 +507,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168](http://arxiv.org/abs/2604.06168)|null|
+|**2026-04-07**|**DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models**|Zhengming Yu et.al.|[2604.06161](http://arxiv.org/abs/2604.06161)|null|
+|**2026-04-07**|**Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring**|Krzysztof Wojciechowski et.al.|[2604.06133](http://arxiv.org/abs/2604.06133)|null|
+|**2026-04-07**|**SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation**|Hiba Dahmani et.al.|[2604.06113](http://arxiv.org/abs/2604.06113)|null|
+|**2026-04-07**|**Beyond Black-Scholes: A Computational Framework for Option Pricing Using Heston, GARCH, and Jump Diffusion Models**|Karmanpartap Singh Sidhu et.al.|[2604.06068](http://arxiv.org/abs/2604.06068)|null|
+|**2026-04-07**|**Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities**|Arthur Stéphanovitch et.al.|[2604.06065](http://arxiv.org/abs/2604.06065)|null|
+|**2026-04-07**|**Optimizing IMPULSED Acquisition Protocols for Clinical 3T Scanners Through Bayesian Experimental Design**|Yan Dai et.al.|[2604.06020](http://arxiv.org/abs/2604.06020)|null|
+|**2026-04-07**|**HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation**|Tao Hu et.al.|[2604.05961](http://arxiv.org/abs/2604.05961)|null|
 |**2026-04-07**|**JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing**|Linghui Meng et.al.|[2604.05845](http://arxiv.org/abs/2604.05845)|null|
 |**2026-04-07**|**Improving Controllable Generation: Faster Training and Better Performance via $x_0$ -Supervision**|Amadou S. Sangare et.al.|[2604.05761](http://arxiv.org/abs/2604.05761)|null|
 |**2026-04-07**|**Brain-to-Speech: Prosody Feature Engineering and Transformer-Based Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2604.05751](http://arxiv.org/abs/2604.05751)|null|
@@ -1088,6 +1097,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Mutual Linearity in and out of Stationarity for Markov Jump Processes: A Trajectory-Based Approach**|Jiming Zheng et.al.|[2604.06162](http://arxiv.org/abs/2604.06162)|null|
+|**2026-04-07**|**From generating functions to the geometric Binder cumulant**|Balázs Hetényi et.al.|[2604.06147](http://arxiv.org/abs/2604.06147)|null|
+|**2026-04-07**|**REM universality for linear random energy**|Francesco Concetti et.al.|[2604.06122](http://arxiv.org/abs/2604.06122)|null|
+|**2026-04-07**|**Sequential Audit Sampling with Statistical Guarantees**|Masahiro Kato et.al.|[2604.06116](http://arxiv.org/abs/2604.06116)|null|
+|**2026-04-07**|**Beyond Black-Scholes: A Computational Framework for Option Pricing Using Heston, GARCH, and Jump Diffusion Models**|Karmanpartap Singh Sidhu et.al.|[2604.06068](http://arxiv.org/abs/2604.06068)|null|
+|**2026-04-07**|**Dynamical phase diagram of synchronization in one dimension: universal behavior from Edwards-Wilkinson to random deposition through Kardar-Parisi-Zhang**|Ricardo Gutierrez et.al.|[2604.06040](http://arxiv.org/abs/2604.06040)|null|
+|**2026-04-07**|**Comment on "Inferring the Dynamics of Underdamped Stochastic Systems"**|Yeeren I. Low et.al.|[2604.06037](http://arxiv.org/abs/2604.06037)|null|
+|**2026-04-07**|**Design and Analysis of Chirp-Layered Superposition Coding for LoRa**|Jingxiang Huang et.al.|[2604.06033](http://arxiv.org/abs/2604.06033)|null|
+|**2026-04-07**|**Exploring bosonic bound states with parallel reaction coordinates**|Guan-Yu Lai et.al.|[2604.06027](http://arxiv.org/abs/2604.06027)|null|
+|**2026-04-07**|**Analyticity, asymptotics and natural boundary for a one-point function of the finite-volume critical Ising chain**|Yizhuang Liu et.al.|[2604.06011](http://arxiv.org/abs/2604.06011)|null|
 |**2026-04-07**|**Emergent Rotation of Passive Clusters in a Chiral Active Bath**|Divya Kushwaha et.al.|[2604.05909](http://arxiv.org/abs/2604.05909)|null|
 |**2026-04-07**|**Collective spatial reorganization from arrest to peeling and migration through density-dependent mobility in internal-state coordinates**|Yagyik Goswami et.al.|[2604.05880](http://arxiv.org/abs/2604.05880)|null|
 |**2026-04-07**|**Comments on "The impact of Solar magnetic field configurations on the production of gamma rays at the Solar disk'' (arXiv:2512.01403)**|M. N. Mazziotta et.al.|[2604.05879](http://arxiv.org/abs/2604.05879)|null|
@@ -1957,6 +1976,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework**|Komal Kumar et.al.|[2604.06170](http://arxiv.org/abs/2604.06170)|null|
+|**2026-04-07**|**HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models**|Reihaneh Zohrabi et.al.|[2604.06165](http://arxiv.org/abs/2604.06165)|null|
+|**2026-04-07**|**Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers**|Wei Huang et.al.|[2604.06163](http://arxiv.org/abs/2604.06163)|null|
+|**2026-04-07**|**The Character Error Vector: Decomposable errors for page-level OCR evaluation**|Jonathan Bourne et.al.|[2604.06160](http://arxiv.org/abs/2604.06160)|null|
+|**2026-04-07**|**MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control**|Yuchi Wang et.al.|[2604.06156](http://arxiv.org/abs/2604.06156)|null|
+|**2026-04-07**|**Testing the 3-equation Kuhfuss Convection Model using the Sun**|T. A. M. Braun et.al.|[2604.06151](http://arxiv.org/abs/2604.06151)|null|
+|**2026-04-07**|**Delta6: A Low-Cost, 6-DOF Force-Sensing Flexible End-Effector**|Yue Feng et.al.|[2604.06150](http://arxiv.org/abs/2604.06150)|null|
+|**2026-04-07**|**Massive Exchange and the Sign of the Equilateral Bispectrum**|Diptimoy Ghosh et.al.|[2604.06145](http://arxiv.org/abs/2604.06145)|null|
+|**2026-04-07**|**Deep Spectroscopy with DESI for Photometric Redshift Training and Calibration**|Biprateep Dey et.al.|[2604.06143](http://arxiv.org/abs/2604.06143)|null|
+|**2026-04-07**|**Finite index constant mean curvature hypersurfaces in low dimensions**|Ivan Miranda et.al.|[2604.06141](http://arxiv.org/abs/2604.06141)|null|
 |**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[2604.05923](http://arxiv.org/abs/2604.05923)|null|
 |**2026-04-07**|**Reference Energies for Non-Relativistic Core Ionization Potentials**|Antoine Marie et.al.|[2604.05920](http://arxiv.org/abs/2604.05920)|null|
 |**2026-04-07**|**Long distance attraction between particles in a soap film**|Youna Louyer et.al.|[2604.05918](http://arxiv.org/abs/2604.05918)|null|
