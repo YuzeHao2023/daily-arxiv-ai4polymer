@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems**|Charbel Bou Chaaya et.al.|[2604.06914](http://arxiv.org/abs/2604.06914)|null|
+|**2026-04-08**|**Enhanced Self-Supervised Multi-Image Super-Resolution for Camera Array Images**|Yating Chen et.al.|[2604.06816](http://arxiv.org/abs/2604.06816)|null|
+|**2026-04-08**|**ULTRAS -- Unified Learning of Transformer Representations for Audio and Speech Signals**|Ameenudeen P E et.al.|[2604.06702](http://arxiv.org/abs/2604.06702)|null|
+|**2026-04-08**|**VAMAE: Vessel-Aware Masked Autoencoders for OCT Angiography**|Ilerioluwakiiye Abolade et.al.|[2604.06583](http://arxiv.org/abs/2604.06583)|null|
 |**2026-04-06**|**SLSREC: Self-Supervised Contrastive Learning for Adaptive Fusion of Long- and Short-Term User Interests**|Wei Zhou et.al.|[2604.04530](http://arxiv.org/abs/2604.04530)|null|
 |**2026-04-03**|**Bridging the Dimensionality Gap: A Taxonomy and Survey of 2D Vision Model Adaptation for 3D Analysis**|Akshat Pandya et.al.|[2604.03334](http://arxiv.org/abs/2604.03334)|null|
 |**2026-04-02**|**Rapidly deploying on-device eye tracking by distilling visual foundation models**|Cheng Jiang et.al.|[2604.02509](http://arxiv.org/abs/2604.02509)|null|
@@ -241,6 +245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Computing In Spintronic Memory: A Thermal Perspective**|Patrick Miller et.al.|[2604.06667](http://arxiv.org/abs/2604.06667)|null|
+|**2026-04-07**|**Optoelectronic and Thermoelectric Properties of High-Performance AlSb Semiconductors**|Dilshod Nematov et.al.|[2604.06294](http://arxiv.org/abs/2604.06294)|null|
+|**2026-04-07**|**Asymptotic-Preserving Neural Networks for Viscoelastic Parameter Identification in Multiscale Blood Flow Modeling**|Giulia Bertaglia et.al.|[2604.06287](http://arxiv.org/abs/2604.06287)|null|
 |**2026-04-07**|**Large Language Model Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb $_3$ Based Skutterudites**|Yagnik Bandyopadhyay et.al.|[2604.06048](http://arxiv.org/abs/2604.06048)|null|
 |**2026-04-07**|**Elasto-inertial transitions in viscoelastic flows through cylinder arrays**|Jack R. C. King et.al.|[2604.05892](http://arxiv.org/abs/2604.05892)|null|
 |**2026-04-07**|**Asymptotic models for viscoelastic one-dimensional blood flow**|Diego Alonso-Orán et.al.|[2604.05679](http://arxiv.org/abs/2604.05679)|null|
@@ -507,6 +514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Fast Spatial Memory with Elastic Test-Time Training**|Ziqiao Ma et.al.|[2604.07350](http://arxiv.org/abs/2604.07350)|null|
+|**2026-04-08**|**Dual-Envelope Constrained Nonlinear MPC for Distributed Drive Electric Vehicles Drifting Under Bounded Steering and Direct Yaw-Moment Control**|Yurun Gan et.al.|[2604.07342](http://arxiv.org/abs/2604.07342)|null|
+|**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
+|**2026-04-08**|**Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions**|Guo Gan et.al.|[2604.07277](http://arxiv.org/abs/2604.07277)|null|
+|**2026-04-08**|**GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos**|Yiqian Wu et.al.|[2604.07273](http://arxiv.org/abs/2604.07273)|null|
+|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
+|**2026-04-08**|**Multiple Domain Generalization Using Category Information Independent of Domain Differences**|Reiji Saito et.al.|[2604.07175](http://arxiv.org/abs/2604.07175)|null|
+|**2026-04-08**|**What's in the latent space? Exploring coupled tropical Pacific variability within a Multi-branch $β$ -Variational Autoencoder**|Emily F. Wisinski et.al.|[2604.07137](http://arxiv.org/abs/2604.07137)|null|
+|**2026-04-08**|**Photon density of states engineering with generative inverse design for scalable 3D photonic metamaterials**|Zesen Zhou et.al.|[2604.07111](http://arxiv.org/abs/2604.07111)|null|
+|**2026-04-08**|**Granular mixing and flow dynamics in horizontal stirred bed reactors**|Sahar Pourandi et.al.|[2604.07082](http://arxiv.org/abs/2604.07082)|null|
 |**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168](http://arxiv.org/abs/2604.06168)|null|
 |**2026-04-07**|**DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models**|Zhengming Yu et.al.|[2604.06161](http://arxiv.org/abs/2604.06161)|null|
 |**2026-04-07**|**Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring**|Krzysztof Wojciechowski et.al.|[2604.06133](http://arxiv.org/abs/2604.06133)|null|
@@ -1097,6 +1114,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Explicit Electric Potential-Embedded Machine Learning Framework: A Unified Description from Atomic to Electronic Scales**|Jingwen Zhou et.al.|[2604.07322](http://arxiv.org/abs/2604.07322)|null|
+|**2026-04-08**|**Groenewold-Moyal twists, integrable spin-chains and AdS/CFT**|Riccardo Borsato et.al.|[2604.07291](http://arxiv.org/abs/2604.07291)|null|
+|**2026-04-08**|**Critical scaling and supercritical coarsening in Active Model B+**|Abir Bhowmick et.al.|[2604.07247](http://arxiv.org/abs/2604.07247)|null|
+|**2026-04-08**|**Balancing Power, Efficiency, and Constancy under Broken Time-Reversal Symmetry**|Ousi Pan et.al.|[2604.07099](http://arxiv.org/abs/2604.07099)|null|
+|**2026-04-08**|**Topological Defects in Amorphous Solids**|Matteo Baggioli et.al.|[2604.07061](http://arxiv.org/abs/2604.07061)|null|
+|**2026-04-08**|**Using test particle sum rules to improve approximations in classical DFT : White-Bear and White-Bear mark II versions of the Lutsko Functional**|Melih Gül et.al.|[2604.07050](http://arxiv.org/abs/2604.07050)|null|
+|**2026-04-08**|**Seasonality in Mixed Causal-Noncausal Processes**|Tomás del Barrio Castro et.al.|[2604.07040](http://arxiv.org/abs/2604.07040)|null|
+|**2026-04-08**|**A Practical Introduction to Tensor Network Renormalization with TNRKit.jl**|Victor Vanthilt et.al.|[2604.06922](http://arxiv.org/abs/2604.06922)|null|
+|**2026-04-08**|**Affine Subcode Ensemble Decoding of Linear Block Codes**|Jonathan Mandelbaum et.al.|[2604.06889](http://arxiv.org/abs/2604.06889)|null|
+|**2026-04-08**|**Monte Carlo Simulations of Suprathermal Enhancement in Advanced Nuclear Fusion Fuels**|Marcus Borscz et.al.|[2604.06769](http://arxiv.org/abs/2604.06769)|null|
 |**2026-04-07**|**Mutual Linearity in and out of Stationarity for Markov Jump Processes: A Trajectory-Based Approach**|Jiming Zheng et.al.|[2604.06162](http://arxiv.org/abs/2604.06162)|null|
 |**2026-04-07**|**From generating functions to the geometric Binder cumulant**|Balázs Hetényi et.al.|[2604.06147](http://arxiv.org/abs/2604.06147)|null|
 |**2026-04-07**|**REM universality for linear random energy**|Francesco Concetti et.al.|[2604.06122](http://arxiv.org/abs/2604.06122)|null|
@@ -1803,6 +1830,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems**|Yunhao Feng et.al.|[2604.06811](http://arxiv.org/abs/2604.06811)|null|
+|**2026-04-08**|**Scientific Knowledge-driven Decoding Constraints Improving the Reliability of LLMs**|Maotian Ma et.al.|[2604.06603](http://arxiv.org/abs/2604.06603)|null|
 |**2026-04-06**|**MMORF: A Multi-agent Framework for Designing Multi-objective Retrosynthesis Planning Systems**|Frazier N. Baker et.al.|[2604.05075](http://arxiv.org/abs/2604.05075)|null|
 |**2026-03-31**|**Reinforced Reasoning for End-to-End Retrosynthetic Planning**|Chenyang Zuo et.al.|[2603.29723](http://arxiv.org/abs/2603.29723)|null|
 |**2026-03-25**|**Structure, Analysis, and Synthesis of First-Order Algorithms**|Jared Miller et.al.|[2603.24795](http://arxiv.org/abs/2603.24795)|null|
@@ -1846,6 +1875,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media**|João V. T. Neves et.al.|[2604.07203](http://arxiv.org/abs/2604.07203)|null|
+|**2026-04-07**|**Too Big, Too Small, Too $O_2$ : The Pandoro Effect from Oxygen Gradients in Tomographic Volumetric Additive Manufacturing**|Riccardo Rizzo et.al.|[2604.06313](http://arxiv.org/abs/2604.06313)|null|
 |**2026-04-06**|**Feature-Aware Anisotropic Local Differential Privacy for Utility-Preserving Graph Representation Learning in Metal Additive Manufacturing**|MD Shafikul Islam et.al.|[2604.05077](http://arxiv.org/abs/2604.05077)|null|
 |**2026-04-05**|**Towards Agentic Defect Reasoning: A Graph-Assisted Retrieval Framework for Laser Powder Bed Fusion**|Muhammad Rizwan Awan et.al.|[2604.04208](http://arxiv.org/abs/2604.04208)|null|
 |**2026-04-02**|**Temperature-dependent Raman spectra of 2H-MoS2 from Machine Learning-driven statistical sampling**|Samuel Longo et.al.|[2604.02538](http://arxiv.org/abs/2604.02538)|null|
@@ -1926,6 +1957,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Too Big, Too Small, Too $O_2$ : The Pandoro Effect from Oxygen Gradients in Tomographic Volumetric Additive Manufacturing**|Riccardo Rizzo et.al.|[2604.06313](http://arxiv.org/abs/2604.06313)|null|
+|**2026-04-07**|**All LCA models are wrong. Are some of them useful? Towards open computational LCA in ICT**|Vincent Corlay et.al.|[2604.06290](http://arxiv.org/abs/2604.06290)|null|
 |**2026-04-07**|**Additive-Induced Stabilization of the Energetic Landscape of PM6:Y12 Organic Solar Cells**|Bekcy Joseph et.al.|[2604.05883](http://arxiv.org/abs/2604.05883)|null|
 |**2026-04-03**|**A Differentiable Framework for Gradient Enhanced Damage with Physics-Augmented Neural Networks in JAX-FEM**|Mark Wilkinson et.al.|[2604.03411](http://arxiv.org/abs/2604.03411)|null|
 |**2026-04-02**|**Incorporating circular economy policies into product supply chains using bilevel optimization -- A case study on coffee packaging**|Paola Munoz Briones et.al.|[2604.02247](http://arxiv.org/abs/2604.02247)|null|
@@ -1976,6 +2009,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**MoRight: Motion Control Done Right**|Shaowei Liu et.al.|[2604.07348](http://arxiv.org/abs/2604.07348)|null|
+|**2026-04-08**|**Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning**|Roberto Vercellino et.al.|[2604.07345](http://arxiv.org/abs/2604.07345)|null|
+|**2026-04-08**|**Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization**|Qiyao Ma et.al.|[2604.07343](http://arxiv.org/abs/2604.07343)|null|
+|**2026-04-08**|**Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images**|Yuechen Jiang et.al.|[2604.07338](http://arxiv.org/abs/2604.07338)|null|
+|**2026-04-08**|**Negative curvature obstructs the existence of good barriers for interior-point methods**|Christopher Criscitiello et.al.|[2604.07319](http://arxiv.org/abs/2604.07319)|null|
+|**2026-04-08**|**Intertemporal Demand Allocation for Inventory Control in Online Marketplaces**|Rene Caldentey et.al.|[2604.07312](http://arxiv.org/abs/2604.07312)|null|
+|**2026-04-08**|**Improved Implementation of Approximate Full Mass Matrix Inverse Methods into Material Point Method Simulations**|John A. Nairn et.al.|[2604.07307](http://arxiv.org/abs/2604.07307)|null|
+|**2026-04-08**|**Beyond Loss Values: Robust Dynamic Pruning via Loss Trajectory Alignment**|Huaiyuan Qin et.al.|[2604.07306](http://arxiv.org/abs/2604.07306)|null|
+|**2026-04-08**|**Robots that learn to evaluate models of collective behavior**|Mathis Hocke et.al.|[2604.07303](http://arxiv.org/abs/2604.07303)|null|
+|**2026-04-08**|**Gravitational wave signal and noise response of an optically levitated sensor in a Fabry-Pérot cavity**|Andrew Laeuger et.al.|[2604.07302](http://arxiv.org/abs/2604.07302)|null|
 |**2026-04-07**|**Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework**|Komal Kumar et.al.|[2604.06170](http://arxiv.org/abs/2604.06170)|null|
 |**2026-04-07**|**HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models**|Reihaneh Zohrabi et.al.|[2604.06165](http://arxiv.org/abs/2604.06165)|null|
 |**2026-04-07**|**Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers**|Wei Huang et.al.|[2604.06163](http://arxiv.org/abs/2604.06163)|null|
