@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Polyglot: Multilingual Style Preserving Speech-Driven Facial Animation**|Federico Nocentini et.al.|[2604.16108](http://arxiv.org/abs/2604.16108)|null|
+|**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)|null|
+|**2026-04-17**|**SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification**|Enhui Chai et.al.|[2604.15711](http://arxiv.org/abs/2604.15711)|null|
+|**2026-04-17**|**Graph self-supervised learning based on frequency corruption**|Haojie Li et.al.|[2604.15699](http://arxiv.org/abs/2604.15699)|null|
+|**2026-04-16**|**RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference**|Yuxin Liu et.al.|[2604.15459](http://arxiv.org/abs/2604.15459)|null|
 |**2026-04-16**|**Co-distilled attention guided masked image modeling with noisy teacher for self-supervised learning on medical images**|Jue Jiang et.al.|[2604.14506](http://arxiv.org/abs/2604.14506)|null|
 |**2026-04-15**|**Metric-Aware Principal Component Analysis (MAPCA):A Unified Framework for Scale-Invariant Representation Learning**|Michael Leznik et.al.|[2604.14249](http://arxiv.org/abs/2604.14249)|null|
 |**2026-04-15**|**From Alignment to Prediction: A Study of Self-Supervised Learning and Predictive Representation Learning**|Mintu Dutta et.al.|[2604.13518](http://arxiv.org/abs/2604.13518)|null|
@@ -276,6 +281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Identification of optimal history variables and corresponding hereditary laws in linear viscoelasticity**|Ignacio Romero et.al.|[2604.16072](http://arxiv.org/abs/2604.16072)|null|
 |**2026-04-16**|**Deformation of Bacterial Cell Membranes by Action of Metal Surface under Plasmon Resonance Condition**|Taras Vasyliev et.al.|[2604.15137](http://arxiv.org/abs/2604.15137)|null|
 |**2026-04-16**|**Thermal conductivity tuning of scalable nanopatterned silicon membranes measured with a three-probe method**|Jose M. Sojo-Gordillo et.al.|[2604.14770](http://arxiv.org/abs/2604.14770)|null|
 |**2026-04-15**|**Direct laser micromachining of superconducting terahertz Josephson plasma emitters**|Reo Yamaguchi et.al.|[2604.14485](http://arxiv.org/abs/2604.14485)|null|
@@ -579,6 +585,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Repurposing 3D Generative Model for Autoregressive Layout Generation**|Haoran Feng et.al.|[2604.16299](http://arxiv.org/abs/2604.16299)|null|
+|**2026-04-17**|**ASMR-Bench: Auditing for Sabotage in ML Research**|Eric Gan et.al.|[2604.16286](http://arxiv.org/abs/2604.16286)|null|
+|**2026-04-17**|**Enhancing Hazy Wildlife Imagery: AnimalHaze3k and IncepDehazeGan**|Shivarth Rai et.al.|[2604.16284](http://arxiv.org/abs/2604.16284)|null|
+|**2026-04-17**|**Synthetic data in cryptocurrencies using generative models**|André Saimon S. Sousa et.al.|[2604.16182](http://arxiv.org/abs/2604.16182)|null|
+|**2026-04-17**|**Extending Galactic foreground emission with neural networks**|Giuseppe Puglisi et.al.|[2604.16167](http://arxiv.org/abs/2604.16167)|null|
+|**2026-04-17**|**Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions**|Yue Jiang et.al.|[2604.16135](http://arxiv.org/abs/2604.16135)|null|
+|**2026-04-17**|**Elucidating the SNR-t Bias of Diffusion Probabilistic Models**|Meng Yu et.al.|[2604.16044](http://arxiv.org/abs/2604.16044)|null|
+|**2026-04-17**|**Discovering quantum phenomena with Interpretable Machine Learning**|Paulin de Schoulepnikoff et.al.|[2604.16015](http://arxiv.org/abs/2604.16015)|null|
+|**2026-04-17**|**SCHK-HTC: Sibling Contrastive Learning with Hierarchical Knowledge-Aware Prompt Tuning for Hierarchical Text Classification**|Ke Xiong et.al.|[2604.15998](http://arxiv.org/abs/2604.15998)|null|
+|**2026-04-17**|**Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets**|Mahyar Hassani-Vasmejani et.al.|[2604.15985](http://arxiv.org/abs/2604.15985)|null|
 |**2026-04-16**|**Boundary-Centric Active Learning for Temporal Action Segmentation**|Halil Ismail Helvaci et.al.|[2604.15173](http://arxiv.org/abs/2604.15173)|null|
 |**2026-04-16**|**An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation**|Onno Niemann et.al.|[2604.15171](http://arxiv.org/abs/2604.15171)|null|
 |**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
@@ -1231,6 +1247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Phase transitions in Doi-Onsager, Noisy Transformer, and other multimodal models**|Kyunghoo Mun et.al.|[2604.16288](http://arxiv.org/abs/2604.16288)|null|
+|**2026-04-17**|**Boson correlations are spurious for classical states**|Daniel E. Salazar et.al.|[2604.16283](http://arxiv.org/abs/2604.16283)|null|
+|**2026-04-17**|**Improved Desalination by Polymer Grafting**|Mamta Yadav et.al.|[2604.16267](http://arxiv.org/abs/2604.16267)|null|
+|**2026-04-17**|**MF-toolkit: A High-Performance Python Library for Multifractal Analysis with Automated Crossover Detection, Source Identification and Application to Gravitational Waves Data**|Nahuel Mendez et.al.|[2604.16257](http://arxiv.org/abs/2604.16257)|null|
+|**2026-04-17**|**Environmental Control of Self-Aligning Chiral Bristlebots**|Timo Wagner et.al.|[2604.16185](http://arxiv.org/abs/2604.16185)|null|
+|**2026-04-17**|**Spinning Living Crystals of Run-and-Tumble Particles with Environmental Feedback**|Maks Pečnik Bambič et.al.|[2604.16163](http://arxiv.org/abs/2604.16163)|null|
+|**2026-04-17**|**Prompt Gamma Timing for range verification with carbon ion irradiation: first experimental measurements and comparison with Geant4 Monte Carlo simulations**|Iram Barbaro Rivas Ortiz et.al.|[2604.16131](http://arxiv.org/abs/2604.16131)|null|
+|**2026-04-17**|**Exact Steady State of a One-end Driven XXZ Spin Chain with Boundary Field**|V. Popkov et.al.|[2604.16102](http://arxiv.org/abs/2604.16102)|null|
+|**2026-04-17**|**Convergence Time Distributions for Max-Consensus over Unreliable Networks**|Katharina Stich et.al.|[2604.16069](http://arxiv.org/abs/2604.16069)|null|
+|**2026-04-17**|**Discovering quantum phenomena with Interpretable Machine Learning**|Paulin de Schoulepnikoff et.al.|[2604.16015](http://arxiv.org/abs/2604.16015)|null|
 |**2026-04-16**|**Superstatistical Approach to Turbulent Circulation Fluctuations**|Henrique S. Lima et.al.|[2604.15277](http://arxiv.org/abs/2604.15277)|null|
 |**2026-04-16**|**Assembling Extensive Quantum Fisher Information in Stabilizer Systems**|Arnau Lira-Solanilla et.al.|[2604.15268](http://arxiv.org/abs/2604.15268)|null|
 |**2026-04-16**|**A minimal implementation of Yang-Mills theory on a digital quantum computer**|Georg Bergner et.al.|[2604.15132](http://arxiv.org/abs/2604.15132)|null|
@@ -2213,6 +2239,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Repurposing 3D Generative Model for Autoregressive Layout Generation**|Haoran Feng et.al.|[2604.16299](http://arxiv.org/abs/2604.16299)|null|
+|**2026-04-17**|**FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation**|Dian Shao et.al.|[2604.16298](http://arxiv.org/abs/2604.16298)|null|
+|**2026-04-17**|**Global dynamics and regime shifts in a resource-consumer model with facilitation and habitat loss**|Teodoro Mayayo et.al.|[2604.16291](http://arxiv.org/abs/2604.16291)|null|
+|**2026-04-17**|**NaijaS2ST: A Multi-Accent Benchmark for Speech-to-Speech Translation in Low-Resource Nigerian Languages**|Marie Maltais et.al.|[2604.16287](http://arxiv.org/abs/2604.16287)|null|
+|**2026-04-17**|**ASMR-Bench: Auditing for Sabotage in ML Research**|Eric Gan et.al.|[2604.16286](http://arxiv.org/abs/2604.16286)|null|
+|**2026-04-17**|**Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design**|Shriram Chennakesavalu et.al.|[2604.16279](http://arxiv.org/abs/2604.16279)|null|
+|**2026-04-17**|**Learning to Reason with Insight for Informal Theorem Proving**|Yunhe Li et.al.|[2604.16278](http://arxiv.org/abs/2604.16278)|null|
+|**2026-04-17**|**Yttrium ion as a platform for quantum information processing**|Christopher N. Gilbreth et.al.|[2604.16274](http://arxiv.org/abs/2604.16274)|null|
+|**2026-04-17**|**VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects**|Xiangbo Gao et.al.|[2604.16272](http://arxiv.org/abs/2604.16272)|null|
+|**2026-04-17**|**From Benchmarking to Reasoning: A Dual-Aspect, Large-Scale Evaluation of LLMs on Vietnamese Legal Text**|Van-Truong Le et.al.|[2604.16270](http://arxiv.org/abs/2604.16270)|null|
 |**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
 |**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
 |**2026-04-16**|**Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation**|Yiyang Jiang et.al.|[2604.15301](http://arxiv.org/abs/2604.15301)|null|
