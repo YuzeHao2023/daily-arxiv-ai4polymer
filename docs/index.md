@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Seeing Your Mindless Face: How Viewing One's Live Self Interrupts Mindless Short-Form Video Scrolling**|Kyungjin Kim et.al.|[2604.19424](http://arxiv.org/abs/2604.19424)|null|
 |**2026-04-20**|**Randomly Initialized Networks Can Learn from Peer-to-Peer Consensus**|Esteban Rodríguez-Betancourt et.al.|[2604.18390](http://arxiv.org/abs/2604.18390)|null|
 |**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
 |**2026-04-17**|**Polyglot: Multilingual Style Preserving Speech-Driven Facial Animation**|Federico Nocentini et.al.|[2604.16108](http://arxiv.org/abs/2604.16108)|null|
@@ -270,6 +271,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Lattice thermal transport from phonon spectra beyond perturbation theory**|Zezhu Zeng et.al.|[2604.19615](http://arxiv.org/abs/2604.19615)|null|
+|**2026-04-20**|**Thermo-mechanically coupled phase-field fracture model considering elastocaloric effect of shape memory alloy**|Shen Sun et.al.|[2604.18666](http://arxiv.org/abs/2604.18666)|null|
 |**2026-04-20**|**Fractional motions of an active particle on the quantum vortex**|Yun Jeong Kang et.al.|[2604.18527](http://arxiv.org/abs/2604.18527)|null|
 |**2026-04-20**|**Thermodiffusion in Aqueous Alkali Halide Solutions from Ambient to Supercooled Conditions: Ion-Specific, Structural, and Mass Effects**|Guansen Zhao et.al.|[2604.18084](http://arxiv.org/abs/2604.18084)|null|
 |**2026-04-19**|**Modern Solid Electrolytes for All-Solid-State Batteries: Materials Chemistry, Structure, and Transport**|Denys Butenko et.al.|[2604.17380](http://arxiv.org/abs/2604.17380)|null|
@@ -579,6 +582,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|null|
+|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](http://arxiv.org/abs/2604.19736)|null|
+|**2026-04-21**|**ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**|Zhengwentai Sun et.al.|[2604.19720](http://arxiv.org/abs/2604.19720)|null|
+|**2026-04-21**|**A Network-Aware Evaluation of Distributed Energy Resource Control in Smart Distribution Systems**|Houchao Gan et.al.|[2604.19715](http://arxiv.org/abs/2604.19715)|null|
+|**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
+|**2026-04-21**|**Budgeted Online Influence Maximization**|Pierre Perrault et.al.|[2604.19672](http://arxiv.org/abs/2604.19672)|null|
+|**2026-04-21**|**Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming**|Alex Cuellar et.al.|[2604.19670](http://arxiv.org/abs/2604.19670)|null|
+|**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
+|**2026-04-21**|**Electrically-injected room-temperature waveguide polariton laser**|Hassen Souissi et.al.|[2604.19513](http://arxiv.org/abs/2604.19513)|null|
+|**2026-04-21**|**HP-Edit: A Human-Preference Post-Training Framework for Image Editing**|Fan Li et.al.|[2604.19406](http://arxiv.org/abs/2604.19406)|null|
 |**2026-04-20**|**ReCap: Lightweight Referential Grounding for Coherent Story Visualization**|Aditya Arora et.al.|[2604.18575](http://arxiv.org/abs/2604.18575)|null|
 |**2026-04-20**|**SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy**|Wei Yao et.al.|[2604.18557](http://arxiv.org/abs/2604.18557)|null|
 |**2026-04-20**|**Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems**|William Lavery et.al.|[2604.18548](http://arxiv.org/abs/2604.18548)|null|
@@ -1249,6 +1262,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**The bosonic Hubbard model on a three dimensional flat band lattice**|Leon Haag-Fank et.al.|[2604.19703](http://arxiv.org/abs/2604.19703)|null|
+|**2026-04-21**|**Cycle holonomy induces higher-order constraints and controls remote synchronization transitions via twisted Laplacian spectra**|Lluís Torres-Hugas et.al.|[2604.19682](http://arxiv.org/abs/2604.19682)|null|
+|**2026-04-21**|**Multiscale Assessment of Tritium Behavior in Preliminary Fusion Pilot Plant Design Using Surrogate Models in TMAP8**|Lin Yang et.al.|[2604.19647](http://arxiv.org/abs/2604.19647)|null|
+|**2026-04-21**|**Information-to-energy trade-offs and the optimal alphabet of polymer replication**|Damián G. Hernández et.al.|[2604.19563](http://arxiv.org/abs/2604.19563)|null|
+|**2026-04-21**|**Nonequilibrium Kramers Turnover in a Kerr Parametric Oscillator**|Daniel K. J. Boneß et.al.|[2604.19527](http://arxiv.org/abs/2604.19527)|null|
+|**2026-04-21**|**Design and preliminary performance study of the broad-band spectrometer detector for POLAR-2**|Jian-Chao Sun et.al.|[2604.19497](http://arxiv.org/abs/2604.19497)|null|
+|**2026-04-21**|**Non-extensive entropy of Vinen quantum turbulence**|G. E. Volovik et.al.|[2604.19478](http://arxiv.org/abs/2604.19478)|null|
+|**2026-04-21**|**Generating pairwise entanglement in periodically driven quantum spin chains with stochastic resetting**|Sinchan Ghosh et.al.|[2604.19333](http://arxiv.org/abs/2604.19333)|null|
+|**2026-04-21**|**Self-propulsion protocols for swift non-equilibrium state transitions and enhanced cooling in active systems**|Kristian Stølevik Olsen et.al.|[2604.19252](http://arxiv.org/abs/2604.19252)|null|
+|**2026-04-21**|**Spectral Signatures of Third-Order Pseudo-Transitions in Finite Systems: An Eigen-Microstate Approach**|Wei Liu et.al.|[2604.19244](http://arxiv.org/abs/2604.19244)|null|
 |**2026-04-20**|**Emergent nonreciprocity in open thermodynamically-consistent chemical reaction networks**|Daniel Evans et.al.|[2604.18528](http://arxiv.org/abs/2604.18528)|null|
 |**2026-04-20**|**Fractional motions of an active particle on the quantum vortex**|Yun Jeong Kang et.al.|[2604.18527](http://arxiv.org/abs/2604.18527)|null|
 |**2026-04-20**|**Low-noise Pauli-consistent ensemble Monte Carlo for graphene with electron-electron scattering**|Tigran Zalinyan et.al.|[2604.18517](http://arxiv.org/abs/2604.18517)|null|
@@ -1918,6 +1941,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Singularities in phase separation models: a spectral element approach for the nonlocal Cahn-Hilliard equation**|Andrés Miniguano-Trujillo et.al.|[2604.19521](http://arxiv.org/abs/2604.19521)|null|
+|**2026-04-20**|**Equation of state for the edge flow of chiral colloidal fluids**|Jessica Metzger et.al.|[2604.18708](http://arxiv.org/abs/2604.18708)|null|
 |**2026-04-20**|**Weak solutions and weak-strong uniqueness for a Cahn-Hilliard type model with chemotaxis**|Robert Lasarzik et.al.|[2604.18211](http://arxiv.org/abs/2604.18211)|null|
 |**2026-04-20**|**A Deep Ritz Method for High-Dimensional Steady States of the Cahn--Hilliard Equation**|Yi Liu et.al.|[2604.17772](http://arxiv.org/abs/2604.17772)|null|
 |**2026-04-20**|**Grokking of Diffusion Models: Case Study on Modular Addition**|Joon Hyeok Kim et.al.|[2604.17673](http://arxiv.org/abs/2604.17673)|null|
@@ -2049,6 +2074,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Automated Synthesis of Hardware-implementable Analog Circuits for Constrained Optimization**|Sachin Khoja et.al.|[2604.19100](http://arxiv.org/abs/2604.19100)|null|
 |**2026-04-20**|**ComPASS: Towards Personalized Agentic Social Support via Tool-Augmented Companionship**|Zhaopei Huang et.al.|[2604.18356](http://arxiv.org/abs/2604.18356)|null|
 |**2026-04-15**|**Computational framework for multistep metabolic pathway design**|Peter Zhiping Zhang et.al.|[2604.13471](http://arxiv.org/abs/2604.13471)|null|
 |**2026-04-13**|**A collaborative agent with two lightweight synergistic models for autonomous crystal materials research**|Tongyu Shi et.al.|[2604.11540](http://arxiv.org/abs/2604.11540)|null|
@@ -2099,6 +2125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Asteroid Mining to Sustain a Mars Colony: A Logistics Point of View**|Serena Suriano et.al.|[2604.18664](http://arxiv.org/abs/2604.18664)|null|
 |**2026-04-20**|**Bridging Metal Additive Manufacturing and RF Accelerator Design: Development of a 704.4 MHz Crossbar H-Mode Linac for Efficient Beam Acceleration**|Chuan Zhang et.al.|[2604.18154](http://arxiv.org/abs/2604.18154)|null|
 |**2026-04-20**|**Muscle-inspired magnetic actuators that push, pull, crawl, and grasp**|Muhammad Bilal Khan et.al.|[2604.18090](http://arxiv.org/abs/2604.18090)|null|
 |**2026-04-16**|**Pattern formation during melting of lamellar eutectics**|Rahul Nellissery Rajan et.al.|[2604.14821](http://arxiv.org/abs/2604.14821)|null|
@@ -2251,6 +2278,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748](http://arxiv.org/abs/2604.19748)|null|
+|**2026-04-21**|**PlayCoder: Making LLM-Generated GUI Code Playable**|Zhiyuan Peng et.al.|[2604.19742](http://arxiv.org/abs/2604.19742)|null|
+|**2026-04-21**|**Boundedness properties of the bilinear fractional integral operators induced by hypermetrics of third order**|Hugo Aimar et.al.|[2604.19739](http://arxiv.org/abs/2604.19739)|null|
+|**2026-04-21**|**Safe Continual Reinforcement Learning in Non-stationary Environments**|Austin Coursey et.al.|[2604.19737](http://arxiv.org/abs/2604.19737)|null|
+|**2026-04-21**|**Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage**|Sahil Khan et.al.|[2604.19735](http://arxiv.org/abs/2604.19735)|null|
+|**2026-04-21**|**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**|Boyu Chen et.al.|[2604.19734](http://arxiv.org/abs/2604.19734)|null|
+|**2026-04-21**|**On Scott's odd induced subgraph conjecture and a related problem**|Bo Ning et.al.|[2604.19727](http://arxiv.org/abs/2604.19727)|null|
+|**2026-04-21**|**Coherent Direct Multipath SLAM**|Benjamin J. B. Deutschmann et.al.|[2604.19723](http://arxiv.org/abs/2604.19723)|null|
+|**2026-04-21**|**Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views**|Feihao Fang et.al.|[2604.19716](http://arxiv.org/abs/2604.19716)|null|
+|**2026-04-21**|**Bootstrapping Tensor Integrals**|Nathan Pagliaroli et.al.|[2604.19714](http://arxiv.org/abs/2604.19714)|null|
 |**2026-04-20**|**MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval**|Shaden Alshammari et.al.|[2604.18584](http://arxiv.org/abs/2604.18584)|null|
 |**2026-04-20**|**Sessa: Selective State Space Attention**|Liubomyr Horbatko et.al.|[2604.18580](http://arxiv.org/abs/2604.18580)|null|
 |**2026-04-20**|**Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs**|Kevin Murphy et.al.|[2604.18576](http://arxiv.org/abs/2604.18576)|null|
