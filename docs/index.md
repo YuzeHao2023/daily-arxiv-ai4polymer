@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs**|Jose Geraldo Fernandes et.al.|[2604.22618](http://arxiv.org/abs/2604.22618)|null|
+|**2026-04-24**|**ArmSSL: Adversarial Robust Black-Box Watermarking for Self-Supervised Learning Pre-trained Encoders**|Yongqi Jiang et.al.|[2604.22550](http://arxiv.org/abs/2604.22550)|null|
+|**2026-04-24**|**Distilling Vision Transformers for Distortion-Robust Representation Learning**|Konstantinos Alexis et.al.|[2604.22529](http://arxiv.org/abs/2604.22529)|null|
+|**2026-04-24**|**Advancing automatic speech recognition using feature fusion with self-supervised learning features: A case study on Fearless Steps Apollo corpus**|Szu-Jui Chen et.al.|[2604.22203](http://arxiv.org/abs/2604.22203)|null|
+|**2026-04-23**|**A Hybrid Reinforcement and Self-Supervised Learning Aided Benders Decomposition Algorithm**|Bernard T. Agyeman et.al.|[2604.22107](http://arxiv.org/abs/2604.22107)|null|
 |**2026-04-23**|**Generalizing Numerical Reasoning in Table Data through Operation Sketches and Self-Supervised Learning**|Hanjun Cho et.al.|[2604.21495](http://arxiv.org/abs/2604.21495)|null|
 |**2026-04-23**|**Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning**|Wadii Boulila et.al.|[2604.21349](http://arxiv.org/abs/2604.21349)|null|
 |**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
@@ -275,6 +280,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles**|J. I. Ramallo et.al.|[2604.22726](http://arxiv.org/abs/2604.22726)|null|
+|**2026-04-24**|**Electrostatic-Elastic Softening and Ultraviolet Instability Driven by Non-DLVO Interactions in Charged Colloidal Crystals**|Hao Wu et.al.|[2604.22448](http://arxiv.org/abs/2604.22448)|null|
+|**2026-04-24**|**Waves dictate the yo-yoing decay of a viscoelastic mixing layer**|Giulio Foggi Rota et.al.|[2604.22150](http://arxiv.org/abs/2604.22150)|null|
 |**2026-04-23**|**Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes**|Yang Hu et.al.|[2604.21842](http://arxiv.org/abs/2604.21842)|null|
 |**2026-04-23**|**Amorphous Nanoconfinement Enables Self-sustaining Sabatier Reaction at Ambient Conditions**|Zhiyong Qiu et.al.|[2604.21768](http://arxiv.org/abs/2604.21768)|null|
 |**2026-04-23**|**Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks**|Aleksander Szewczyk et.al.|[2604.21494](http://arxiv.org/abs/2604.21494)|null|
@@ -596,6 +604,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Statistical Analysis of Markovian Generative Modeling**|Eddie Aamari et.al.|[2604.22712](http://arxiv.org/abs/2604.22712)|null|
+|**2026-04-24**|**Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model**|Nivetha Jayakumar et.al.|[2604.22700](http://arxiv.org/abs/2604.22700)|null|
+|**2026-04-24**|**Fully multiplexed photonic tensor computing**|Aolong Sun et.al.|[2604.22660](http://arxiv.org/abs/2604.22660)|null|
+|**2026-04-24**|**Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction**|Yongxiang Lian et.al.|[2604.22649](http://arxiv.org/abs/2604.22649)|null|
+|**2026-04-24**|**CLVAE: A Variational Autoencoder for Long-Term Customer Revenue Forecasting**|Jeffrey Näf et.al.|[2604.22636](http://arxiv.org/abs/2604.22636)|null|
+|**2026-04-24**|**Compositional Online Learning for Multi-Objective System Co-Design**|Meshal Alharbi et.al.|[2604.22624](http://arxiv.org/abs/2604.22624)|null|
+|**2026-04-24**|**AI-based experts' knowledge visualization of cultural heritage: A case study of Terracotta Warriors**|Siyi Li et.al.|[2604.22480](http://arxiv.org/abs/2604.22480)|null|
+|**2026-04-24**|**Efficient Diffusion Distillation via Embedding Loss**|Jincheng Ying et.al.|[2604.22379](http://arxiv.org/abs/2604.22379)|null|
+|**2026-04-24**|**TabSCM: A practical Framework for Generating Realistic Tabular Data**|Sven Jacob et.al.|[2604.22337](http://arxiv.org/abs/2604.22337)|null|
+|**2026-04-24**|**Finite element model updating of building structures under seismic excitation: A parallelized latent space-based Bayesian framework**|Taro Yaoyama et.al.|[2604.22305](http://arxiv.org/abs/2604.22305)|null|
 |**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
 |**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
 |**2026-04-23**|**Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions**|Di Wu et.al.|[2604.21849](http://arxiv.org/abs/2604.21849)|null|
@@ -1296,6 +1314,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Mean-Field Theory for the Three-State Active Lattice Gas Model**|Ana L. N. Dias et.al.|[2604.22536](http://arxiv.org/abs/2604.22536)|null|
+|**2026-04-24**|**Decohered color code and emerging mixed toric code by anyon proliferation: Topological entanglement negativity perspective**|Keisuke Kataoka et.al.|[2604.22521](http://arxiv.org/abs/2604.22521)|null|
+|**2026-04-24**|**Particle-Matter Interactions**|Giuseppe Lerner et.al.|[2604.22508](http://arxiv.org/abs/2604.22508)|null|
+|**2026-04-24**|**Electrostatic-Elastic Softening and Ultraviolet Instability Driven by Non-DLVO Interactions in Charged Colloidal Crystals**|Hao Wu et.al.|[2604.22448](http://arxiv.org/abs/2604.22448)|null|
+|**2026-04-24**|**Long-Range Correlated Random Matrices**|Abbas Ali Saberi et.al.|[2604.22447](http://arxiv.org/abs/2604.22447)|null|
+|**2026-04-24**|**No-Go Theorem for Quantum Heat Engines Powered Purely by Quantum Measurements in the Steady Regime**|Kenta Koshihara et.al.|[2604.22376](http://arxiv.org/abs/2604.22376)|null|
+|**2026-04-24**|**Spiral, target, stripe, and disordered waves in active six-state Potts models**|Hiroshi Noguchi et.al.|[2604.22353](http://arxiv.org/abs/2604.22353)|null|
+|**2026-04-24**|**The quantum harmonic oscillator in a dissipative bath of anyon pairs**|Nils-Henrik Meyer et.al.|[2604.22342](http://arxiv.org/abs/2604.22342)|null|
+|**2026-04-24**|**A variational formulation of stochastic thermodynamics: Spatially extended systems**|Héctor Vaquero del Pino et.al.|[2604.22298](http://arxiv.org/abs/2604.22298)|null|
+|**2026-04-24**|**Signature of paraparticles: a minimal Gedankenexperiment**|Francesco Toppan et.al.|[2604.22178](http://arxiv.org/abs/2604.22178)|null|
 |**2026-04-23**|**Algorithmic Locality via Provable Convergence in Quantum Tensor Networks**|Siddhant Midha et.al.|[2604.21919](http://arxiv.org/abs/2604.21919)|null|
 |**2026-04-23**|**Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes**|Yang Hu et.al.|[2604.21842](http://arxiv.org/abs/2604.21842)|null|
 |**2026-04-23**|**Novel dynamics for an inertial polar tracer in an active bath**|Jing-Bo Zeng et.al.|[2604.21762](http://arxiv.org/abs/2604.21762)|null|
@@ -2279,6 +2307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Exact Resistance of an Orifice in a 2D Membrane Blocked by a Cylindrical Obstruction**|Martin Charron et.al.|[2604.22049](http://arxiv.org/abs/2604.22049)|null|
 |**2026-04-18**|**Impact dynamics of flexible hydrogels on solid substrates of different wettabilities**|Akash Chowdhury et.al.|[2604.16811](http://arxiv.org/abs/2604.16811)|null|
 |**2026-04-16**|**Persistent Free Volume Governs (Anti-)plasticization in Chitosan-Water Mixtures**|Baris E. Ugur et.al.|[2604.14559](http://arxiv.org/abs/2604.14559)|null|
 |**2026-04-13**|**Environmental Footprint of GenAI Research: Insights from the Moshi Foundation Model**|Marta López-Rauhut et.al.|[2604.11154](http://arxiv.org/abs/2604.11154)|null|
@@ -2336,6 +2365,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**|Sijie Li et.al.|[2604.22753](http://arxiv.org/abs/2604.22753)|null|
+|**2026-04-24**|**Relaxation-Informed Training of Neural Network Surrogate Models**|Calvin Tsay et.al.|[2604.22746](http://arxiv.org/abs/2604.22746)|null|
+|**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
+|**2026-04-24**|**Long-tail Internet photo reconstruction**|Yuan Li et.al.|[2604.22714](http://arxiv.org/abs/2604.22714)|null|
+|**2026-04-24**|**Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems**|Mengzhuo Chen et.al.|[2604.22708](http://arxiv.org/abs/2604.22708)|null|
+|**2026-04-24**|**Gel'fand Integration of B(E, F*)-Valued Functions With Emphasis on (q, p)-Summing Operators**|Matija Milović et.al.|[2604.22701](http://arxiv.org/abs/2604.22701)|null|
+|**2026-04-24**|**BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering**|Jinghong Chen et.al.|[2604.22678](http://arxiv.org/abs/2604.22678)|null|
+|**2026-04-24**|**Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe**|Yuchen Xiong et.al.|[2604.22676](http://arxiv.org/abs/2604.22676)|null|
+|**2026-04-24**|**Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing**|Marco De Luca et.al.|[2604.22673](http://arxiv.org/abs/2604.22673)|null|
+|**2026-04-24**|**Curvature of optimal transport with respect to the cost and applications to inverse optimal transport**|Gabriel Peyré et.al.|[2604.22670](http://arxiv.org/abs/2604.22670)|null|
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
 |**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
 |**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
