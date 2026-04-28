@@ -1,4 +1,4 @@
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**GradMAP: Gradient-Based Multi-Agent Proximal Learning for Grid-Edge Flexibility**|Yihong Zhou et.al.|[2604.24549](http://arxiv.org/abs/2604.24549)|null|
+|**2026-04-27**|**Self-Supervised Representation Learning via Hyperspherical Density Shaping**|Esteban Rodríguez-Betancourt et.al.|[2604.24498](http://arxiv.org/abs/2604.24498)|null|
+|**2026-04-27**|**Geometric Analysis of Self-Supervised Vision Representations for Semantic Image Retrieval**|Esteban Rodríguez-Betancourt et.al.|[2604.24469](http://arxiv.org/abs/2604.24469)|null|
+|**2026-04-27**|**Complexity of Linear Regions in Self-supervised Deep ReLU Networks**|Mufhumudzi Muthivhi et.al.|[2604.24393](http://arxiv.org/abs/2604.24393)|null|
+|**2026-04-27**|**CLLAP: Contrastive Learning-based LiDAR-Augmented Pretraining for Enhanced Radar-Camera Fusion**|Bingyi Liu et.al.|[2604.24044](http://arxiv.org/abs/2604.24044)|null|
+|**2026-04-26**|**VitaminP: cross-modal learning enables whole-cell segmentation from routine histology**|Yasin Shokrollahi et.al.|[2604.23799](http://arxiv.org/abs/2604.23799)|null|
+|**2026-04-25**|**H-SemiS: Hierarchical Fusion of Semi and Self-Supervised Learning for Knee Osteoarthritis Severity Grading**|Chandravardhan Singh Raghaw et.al.|[2604.23335](http://arxiv.org/abs/2604.23335)|null|
+|**2026-04-24**|**Self-Supervised Learning for Android Malware Detection on a Time-Stamped Dataset**|Annan Fu et.al.|[2604.23025](http://arxiv.org/abs/2604.23025)|null|
 |**2026-04-24**|**Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs**|Jose Geraldo Fernandes et.al.|[2604.22618](http://arxiv.org/abs/2604.22618)|null|
 |**2026-04-24**|**ArmSSL: Adversarial Robust Black-Box Watermarking for Self-Supervised Learning Pre-trained Encoders**|Yongqi Jiang et.al.|[2604.22550](http://arxiv.org/abs/2604.22550)|null|
 |**2026-04-24**|**Distilling Vision Transformers for Distortion-Robust Representation Learning**|Konstantinos Alexis et.al.|[2604.22529](http://arxiv.org/abs/2604.22529)|null|
@@ -287,19 +295,22 @@
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
 |**2026-01-08**|**Towards a Unified Theoretical Framework for Self-Supervised MRI Reconstruction**|Siying Xu et.al.|[2601.04775](http://arxiv.org/abs/2601.04775)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Property Prediction & QSPR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Pressure sensing by electro-mechanical coupling in compliant dielectric membranes polarized by a bias voltage**|Bart Van Damme et.al.|[2604.24140](http://arxiv.org/abs/2604.24140)|null|
+|**2026-04-25**|**Weak Polar Optical Phonon Scattering Decouples Electron and Phonon Transport in Layered Thermoelectric Materials**|Zhonghao Xia et.al.|[2604.23328](http://arxiv.org/abs/2604.23328)|null|
+|**2026-04-23**|**Dynamical stability and multifunctional properties of Ni2+/Pr3+ co-doped CsPbCl3 perovskite: insights from first-principles lattice dynamics and carrier transport**|Sikander Azam et.al.|[2604.22874](http://arxiv.org/abs/2604.22874)|null|
 |**2026-04-24**|**Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles**|J. I. Ramallo et.al.|[2604.22726](http://arxiv.org/abs/2604.22726)|null|
 |**2026-04-24**|**Electrostatic-Elastic Softening and Ultraviolet Instability Driven by Non-DLVO Interactions in Charged Colloidal Crystals**|Hao Wu et.al.|[2604.22448](http://arxiv.org/abs/2604.22448)|null|
 |**2026-04-24**|**Waves dictate the yo-yoing decay of a viscoelastic mixing layer**|Giulio Foggi Rota et.al.|[2604.22150](http://arxiv.org/abs/2604.22150)|null|
-|**2026-04-23**|**Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes**|Yang Hu et.al.|[2604.21842](http://arxiv.org/abs/2604.21842)|null|
+|**2026-04-26**|**Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes**|Yang Hu et.al.|[2604.21842](http://arxiv.org/abs/2604.21842)|null|
 |**2026-04-23**|**Amorphous Nanoconfinement Enables Self-sustaining Sabatier Reaction at Ambient Conditions**|Zhiyong Qiu et.al.|[2604.21768](http://arxiv.org/abs/2604.21768)|null|
 |**2026-04-23**|**Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks**|Aleksander Szewczyk et.al.|[2604.21494](http://arxiv.org/abs/2604.21494)|null|
-|**2026-04-23**|**Continuum granular flow model with restitution-derived viscoelastic damping**|Bodhinanda Chandra et.al.|[2604.21448](http://arxiv.org/abs/2604.21448)|null|
+|**2026-04-25**|**Continuum granular flow model with restitution-derived viscoelastic damping**|Bodhinanda Chandra et.al.|[2604.21448](http://arxiv.org/abs/2604.21448)|null|
 |**2026-04-23**|**GEWUM: General Exploration Workflow for the Utopia of Materials: A Unified Platform for Automated Structure Generation, Selection, and Validation**|Jiexi Song et.al.|[2604.21401](http://arxiv.org/abs/2604.21401)|null|
 |**2026-04-23**|**A transfer-learning-enhanced POD-FNN surrogate for rapid signal prediction and inverse fitting in thermoreflectance with patterned transducers**|Bingjia Xiao et.al.|[2604.21220](http://arxiv.org/abs/2604.21220)|null|
 |**2026-04-23**|**Linking molecular timescales to linear viscoelastic response in dilute and semidilute unentangled wormlike micelle solutions**|Avishek Kumar et.al.|[2604.21194](http://arxiv.org/abs/2604.21194)|null|
@@ -613,12 +624,22 @@
 |**2026-01-12**|**Understanding microfabricated nanocalorimeter performance and responses to the energy fluxes from low-temperature plasma discharges**|Carles Corbella et.al.|[2601.08009](http://arxiv.org/abs/2601.08009)|null|
 |**2026-01-15**|**PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials**|Teddy Koker et.al.|[2601.07742](http://arxiv.org/abs/2601.07742)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Generative Design & Inverse Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation**|Zhiheng Liu et.al.|[2604.24763](http://arxiv.org/abs/2604.24763)|null|
+|**2026-04-27**|**Learning to Think from Multiple Thinkers**|Nirmit Joshi et.al.|[2604.24737](http://arxiv.org/abs/2604.24737)|null|
+|**2026-04-27**|**DiffQEC: A versatile diffusion model for quantum error correction**|Tianyi Xu et.al.|[2604.24640](http://arxiv.org/abs/2604.24640)|null|
+|**2026-04-27**|**Step- and terrace-resolved crystal truncation rod scattering from vicinal surfaces under coherent heteroepitaxy**|Junlin Wu et.al.|[2604.24604](http://arxiv.org/abs/2604.24604)|null|
+|**2026-04-27**|**Point-MF: One-step Point Cloud Generation from a Single Image via Mean Flows**|Yuta Baba et.al.|[2604.24586](http://arxiv.org/abs/2604.24586)|null|
+|**2026-04-27**|**Diffusion Model as a Generalist Segmentation Learner**|Haoxiao Wang et.al.|[2604.24575](http://arxiv.org/abs/2604.24575)|null|
+|**2026-04-27**|**CA-IDD: Cross-Attention Guided Identity-Conditional Diffusion for Identity-Consistent Face Swapping**|Md Shohel Rana et.al.|[2604.24493](http://arxiv.org/abs/2604.24493)|null|
+|**2026-04-27**|**Guiding Vector Field Generation via Score-based Diffusion Model**|Zirui Chen et.al.|[2604.24487](http://arxiv.org/abs/2604.24487)|null|
+|**2026-04-27**|**Vectorial Acoustic Multiplexed Holography**|Yuan Tian et.al.|[2604.24414](http://arxiv.org/abs/2604.24414)|null|
+|**2026-04-27**|**Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion**|Zhongjie Duan et.al.|[2604.24351](http://arxiv.org/abs/2604.24351)|null|
 |**2026-04-24**|**Statistical Analysis of Markovian Generative Modeling**|Eddie Aamari et.al.|[2604.22712](http://arxiv.org/abs/2604.22712)|null|
 |**2026-04-24**|**Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model**|Nivetha Jayakumar et.al.|[2604.22700](http://arxiv.org/abs/2604.22700)|null|
 |**2026-04-24**|**Fully multiplexed photonic tensor computing**|Aolong Sun et.al.|[2604.22660](http://arxiv.org/abs/2604.22660)|null|
@@ -1325,12 +1346,22 @@
 |**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
 |**2026-01-16**|**M3DDM+: An improved video outpainting by a modified masking strategy**|Takuya Murakawa et.al.|[2601.11048](http://arxiv.org/abs/2601.11048)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Molecular Dynamics & Multiscale Modeling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Contracting Tensor Networks with Generalized Belief Propagation**|Joseph Tindall et.al.|[2604.24760](http://arxiv.org/abs/2604.24760)|null|
+|**2026-04-27**|**Universal tracer statistics in single-file transport**|Soumyabrata Saha et.al.|[2604.24741](http://arxiv.org/abs/2604.24741)|null|
+|**2026-04-27**|**Experimental high-dimensional multi-qubit Bell non-locality on a superconducting quantum processor**|Yousef Mafi et.al.|[2604.24740](http://arxiv.org/abs/2604.24740)|null|
+|**2026-04-27**|**On the geometric algebras of the Ising model**|N. Johnson et.al.|[2604.24688](http://arxiv.org/abs/2604.24688)|null|
+|**2026-04-27**|**Field-induced jammed polyhex spin liquid in the honeycomb Ising antiferromagnet**|Nicholas Franklin et.al.|[2604.24687](http://arxiv.org/abs/2604.24687)|null|
+|**2026-04-27**|**Conformal Invariance of the large- $N$ limit of the $O(N)$ universality class**|Santiago Cabrera et.al.|[2604.24675](http://arxiv.org/abs/2604.24675)|null|
+|**2026-04-27**|**Dynamical Fluctuation-Response Relations**|Timur Aslyamov et.al.|[2604.24626](http://arxiv.org/abs/2604.24626)|null|
+|**2026-04-27**|**Generalized flux-weighted boundary walls in kinetic models**|Luca Barbieri et.al.|[2604.24592](http://arxiv.org/abs/2604.24592)|null|
+|**2026-04-27**|**Energetics of stochastic limit-cycle oscillators: when does coupling reduce dissipation?**|Anton F. Burnet et.al.|[2604.24553](http://arxiv.org/abs/2604.24553)|null|
+|**2026-04-27**|**Hierarchical Causal Uplift Modeling in Overlapping Customer Journeys**|Jorge Pellegrini et.al.|[2604.24533](http://arxiv.org/abs/2604.24533)|null|
 |**2026-04-24**|**Mean-Field Theory for the Three-State Active Lattice Gas Model**|Ana L. N. Dias et.al.|[2604.22536](http://arxiv.org/abs/2604.22536)|null|
 |**2026-04-24**|**Decohered color code and emerging mixed toric code by anyon proliferation: Topological entanglement negativity perspective**|Keisuke Kataoka et.al.|[2604.22521](http://arxiv.org/abs/2604.22521)|null|
 |**2026-04-24**|**Particle-Matter Interactions**|Giuseppe Lerner et.al.|[2604.22508](http://arxiv.org/abs/2604.22508)|null|
@@ -2036,12 +2067,17 @@
 |**2026-01-15**|**Exact and Approximate Constants of Motion in Stochastic Contact Processes**|Damián H. Zanette et.al.|[2601.10776](http://arxiv.org/abs/2601.10776)|null|
 |**2026-01-15**|**Synchronization with Annealed Disorder and Higher-Harmonic Interactions in Arbitrary Dimensions: When Two Dimensions Are Special**|Rupak Majumder et.al.|[2601.10646](http://arxiv.org/abs/2601.10646)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Microstructure, Morphology & Characterization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Phase-Separated Complex Hilbert PCA on Markerless 3D Pose Estimation Data: A Global Phase Network and Its Extension to a Continuous Field on the Body Surface**|Hiromitsu Goto et.al.|[2604.24415](http://arxiv.org/abs/2604.24415)|null|
+|**2026-04-27**|**Ground state of the Hubbard model with spin-dependent linear potential**|Jacek Dobrzyniecki et.al.|[2604.24068](http://arxiv.org/abs/2604.24068)|null|
+|**2026-04-27**|**An in situ self-adaptive hydrogel coating enables seamless neural interfaces via okra mucilage polysaccharide and α-helical peptide amphiphiles co-assembly**|Tenglong Luo et.al.|[2604.23945](http://arxiv.org/abs/2604.23945)|null|
+|**2026-04-26**|**Optical Properties of Indium-Gallium-Oxide Microcrystalline Alloy Films: From the Visible to the Deep-UV**|HM Borhanul Alam et.al.|[2604.23884](http://arxiv.org/abs/2604.23884)|null|
+|**2026-04-24**|**Charge order, domain order, ideal mixing and absence of demixing in 2D binary mixtures of alcohols**|Lydia Chelli et.al.|[2604.22936](http://arxiv.org/abs/2604.22936)|null|
 |**2026-04-23**|**Geometric Decoupling and the Color--Speed Mechanism in Multispeed Stochastic Klein--Gordon Systems**|Guangqian Zhao et.al.|[2604.21884](http://arxiv.org/abs/2604.21884)|null|
 |**2026-04-23**|**A Temperature-Coupled Cahn-Hilliard-Stokes-Heat Model for Thermally Driven Phase Separation**|Maria Deliyianni et.al.|[2604.21200](http://arxiv.org/abs/2604.21200)|null|
 |**2026-04-21**|**Singularities in phase separation models: a spectral element approach for the nonlocal Cahn-Hilliard equation**|Andrés Miniguano-Trujillo et.al.|[2604.19521](http://arxiv.org/abs/2604.19521)|null|
@@ -2173,7 +2209,7 @@
 |**2026-01-09**|**On the Feasibility of Extreme Heating Rates in SEM using MEMS Heater Platforms**|C. Koenig et.al.|[2601.05831](http://arxiv.org/abs/2601.05831)|null|
 |**2026-01-09**|**Optimal velocity control of a Brinkman-Cahn-Hilliard system with curvature effects**|Pierluigi Colli et.al.|[2601.05820](http://arxiv.org/abs/2601.05820)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Synthesis, Kinetics & Automation
 
@@ -2227,12 +2263,16 @@
 |**2025-12-13**|**Layered Monoidal Theories**|Leo Lobski et.al.|[2512.12139](http://arxiv.org/abs/2512.12139)|null|
 |**2025-12-15**|**Template-Free Retrosynthesis with Graph-Prior Augmented Transformers**|Youjun Zhao et.al.|[2512.10770](http://arxiv.org/abs/2512.10770)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Processing, Manufacturing & Composites
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Graph-augmented Segmentation of Complex Shapes in Laser Powder bed Fusion for Enhanced In Situ Inspection**|Stefano Raimondo et.al.|[2604.24234](http://arxiv.org/abs/2604.24234)|null|
+|**2026-04-26**|**Pixelated Plastic Scintillator Array Manufacturing using Fast-, Photo-Curable Resin**|Chandler Moore et.al.|[2604.23769](http://arxiv.org/abs/2604.23769)|null|
+|**2026-04-25**|**Ultra-High Dynamic Strength of Additively Manufactured GRX-810 Under Coupled Conditions of High Strain Rate and Elevated Temperature**|Naveen Dinujaya et.al.|[2604.23143](http://arxiv.org/abs/2604.23143)|null|
+|**2026-04-22**|**IoT-Enhanced CNN-Based Labelled Crack Detection for Additive Manufacturing Image Annotation in Industry 4.0**|Mohsen Asghari Ilani et.al.|[2604.22857](http://arxiv.org/abs/2604.22857)|null|
 |**2026-04-23**|**How it cools? Studying the heat flow out of a semi-infinite slab in welding: An analytical approach**|Fawzi Aly et.al.|[2604.21250](http://arxiv.org/abs/2604.21250)|null|
 |**2026-04-20**|**Asteroid Mining to Sustain a Mars Colony: A Logistics Point of View**|Serena Suriano et.al.|[2604.18664](http://arxiv.org/abs/2604.18664)|null|
 |**2026-04-20**|**Bridging Metal Additive Manufacturing and RF Accelerator Design: Development of a 704.4 MHz Crossbar H-Mode Linac for Efficient Beam Acceleration**|Chuan Zhang et.al.|[2604.18154](http://arxiv.org/abs/2604.18154)|null|
@@ -2326,12 +2366,13 @@
 |**2026-01-08**|**Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing**|Yeongbin Cha et.al.|[2601.05298](http://arxiv.org/abs/2601.05298)|null|
 |**2026-01-07**|**Probing optical and acoustic phonons in heated nano-Si/epoxy composites**|Bayan Kurbanova et.al.|[2601.04021](http://arxiv.org/abs/2601.04021)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Sustainability & Functional Applications
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**An in situ self-adaptive hydrogel coating enables seamless neural interfaces via okra mucilage polysaccharide and α-helical peptide amphiphiles co-assembly**|Tenglong Luo et.al.|[2604.23945](http://arxiv.org/abs/2604.23945)|null|
 |**2026-04-23**|**Exact Resistance of an Orifice in a 2D Membrane Blocked by a Cylindrical Obstruction**|Martin Charron et.al.|[2604.22049](http://arxiv.org/abs/2604.22049)|null|
 |**2026-04-18**|**Impact dynamics of flexible hydrogels on solid substrates of different wettabilities**|Akash Chowdhury et.al.|[2604.16811](http://arxiv.org/abs/2604.16811)|null|
 |**2026-04-16**|**Persistent Free Volume Governs (Anti-)plasticization in Chitosan-Water Mixtures**|Baris E. Ugur et.al.|[2604.14559](http://arxiv.org/abs/2604.14559)|null|
@@ -2386,12 +2427,22 @@
 |**2025-12-31**|**Non-Contact and Non-Destructive Detection of Structural Defects in Bioprinted Constructs Using Video-Based Vibration Analysis**|Md Anisur Rahman et.al.|[2601.00073](http://arxiv.org/abs/2601.00073)|null|
 |**2025-12-29**|**Renormalization group approach to graphene bilayers**|L. Delzescaux et.al.|[2512.23349](http://arxiv.org/abs/2512.23349)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Informatics & Data Infrastructure
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation**|Zhiheng Liu et.al.|[2604.24763](http://arxiv.org/abs/2604.24763)|null|
+|**2026-04-27**|**OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer**|Boyang Wang et.al.|[2604.24762](http://arxiv.org/abs/2604.24762)|null|
+|**2026-04-27**|**The Hyperboloidal and Spacetime Positive Mass Theorem in All Dimensions**|Sven Hirsch et.al.|[2604.24746](http://arxiv.org/abs/2604.24746)|null|
+|**2026-04-27**|**Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes**|Zhangyong Liang et.al.|[2604.24745](http://arxiv.org/abs/2604.24745)|null|
+|**2026-04-27**|**Universal tracer statistics in single-file transport**|Soumyabrata Saha et.al.|[2604.24741](http://arxiv.org/abs/2604.24741)|null|
+|**2026-04-27**|**Experimental high-dimensional multi-qubit Bell non-locality on a superconducting quantum processor**|Yousef Mafi et.al.|[2604.24740](http://arxiv.org/abs/2604.24740)|null|
+|**2026-04-27**|**CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling**|Jason D. Chadwick et.al.|[2604.24739](http://arxiv.org/abs/2604.24739)|null|
+|**2026-04-27**|**SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning**|Zijian Guo et.al.|[2604.24729](http://arxiv.org/abs/2604.24729)|null|
+|**2026-04-27**|**Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking**|Hermawan Manurung et.al.|[2604.24720](http://arxiv.org/abs/2604.24720)|null|
+|**2026-04-27**|**Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling**|Hailing Cheng et.al.|[2604.24717](http://arxiv.org/abs/2604.24717)|null|
 |**2026-04-24**|**Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection**|Sijie Li et.al.|[2604.22753](http://arxiv.org/abs/2604.22753)|null|
 |**2026-04-24**|**Relaxation-Informed Training of Neural Network Surrogate Models**|Calvin Tsay et.al.|[2604.22746](http://arxiv.org/abs/2604.22746)|null|
 |**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
@@ -3123,7 +3174,7 @@
 |**2026-01-16**|**Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs**|Alessandro Padella et.al.|[2601.11468](http://arxiv.org/abs/2601.11468)|null|
 |**2026-01-16**|**The XL Instances for the Capacitated Vehicle Routing Problem**|Eduardo Queiroga et.al.|[2601.11467](http://arxiv.org/abs/2601.11467)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4polymer-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4polymer-arxiv-daily/graphs/contributors
