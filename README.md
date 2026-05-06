@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
+|**2026-05-05**|**Understanding Self-Supervised Learning via Latent Distribution Matching**|Fabian A Mikulasch et.al.|[2605.03517](http://arxiv.org/abs/2605.03517)|null|
+|**2026-05-05**|**Text-Conditional JEPA for Learning Semantically Rich Visual Representations**|Chen Huang et.al.|[2605.03245](http://arxiv.org/abs/2605.03245)|null|
+|**2026-05-03**|**SignMAE: Segmentation-Driven Self-Supervised Learning for Sign Language Recognition**|Kunyuan Xie et.al.|[2605.02094](http://arxiv.org/abs/2605.02094)|null|
+|**2026-05-03**|**TumorXAI: Self-Supervised Deep Learning Framework for Explainable Brain MRI Tumor Classification**|Abrar Hossain Zahin et.al.|[2605.01999](http://arxiv.org/abs/2605.01999)|null|
+|**2026-05-03**|**ProtoFair: Fair Self-Supervised Contrastive Learning via Pseudo-Counterfactual Pairs**|Marah Halawa et.al.|[2605.01971](http://arxiv.org/abs/2605.01971)|null|
+|**2026-05-03**|**PointCSP: Cross-Sample Semantic Propagation and Stability Preservation in Self-Supervised Point Cloud Learning**|Xinxing Yu et.al.|[2605.01759](http://arxiv.org/abs/2605.01759)|null|
+|**2026-05-03**|**Adaptive Texture-aware Masking for Self-Supervised Learning in 3D Dental CBCT Analysis**|Xinquan Yang et.al.|[2605.01741](http://arxiv.org/abs/2605.01741)|null|
+|**2026-05-03**|**TRIMMER: A New Paradigm for Video Summarization through Self-Supervised Reinforcement Learning**|Pritam Mishra et.al.|[2605.01659](http://arxiv.org/abs/2605.01659)|null|
+|**2026-05-02**|**GraphSculptor: Sculpting Pre-training Coreset for Graph Self-supervised Learning**|Chuang Liu et.al.|[2605.01310](http://arxiv.org/abs/2605.01310)|null|
 |**2026-04-30**|**Self-Supervised Learning of Plant Image Representations**|Ilyass Moummad et.al.|[2604.27538](http://arxiv.org/abs/2604.27538)|null|
 |**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448](http://arxiv.org/abs/2604.27448)|null|
 |**2026-04-30**|**BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning**|Yizhou Wu et.al.|[2604.27277](http://arxiv.org/abs/2604.27277)|null|
@@ -299,12 +309,20 @@
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
 |**2026-01-08**|**Towards a Unified Theoretical Framework for Self-Supervised MRI Reconstruction**|Siying Xu et.al.|[2601.04775](http://arxiv.org/abs/2601.04775)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Property Prediction & QSPR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Dynamic properties of a confined quasi-two-dimensional granular fluid driven by a stochastic bath with friction**|David González Méndez et.al.|[2605.03455](http://arxiv.org/abs/2605.03455)|null|
+|**2026-05-04**|**Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites**|Chady Ghnatios et.al.|[2605.03186](http://arxiv.org/abs/2605.03186)|null|
+|**2026-05-03**|**Entropic lattice Boltzmann method for general anisotropic advection--diffusion**|Jingsen Feng et.al.|[2605.01774](http://arxiv.org/abs/2605.01774)|null|
+|**2026-05-02**|**First-principles simulation of shocked H-He mixture along the principal Hugoniot**|Ammar A. Ellaboudy et.al.|[2605.01593](http://arxiv.org/abs/2605.01593)|null|
+|**2026-05-02**|**Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions**|M. Affouf et.al.|[2605.01183](http://arxiv.org/abs/2605.01183)|null|
+|**2026-05-01**|**Tracking thermal transport in colloidal quantum dot films using in-situ time-resolved X-ray diffraction**|Eliza Wieman et.al.|[2605.01141](http://arxiv.org/abs/2605.01141)|null|
+|**2026-05-01**|**Suppressing Plasmonic Heating in Aqueous Environments with Hexagonal Boron Nitride**|Martina Russo et.al.|[2605.00587](http://arxiv.org/abs/2605.00587)|null|
+|**2026-04-30**|**Multi-Objective Adaptive Beamforming Using Partial Knowledge of Dynamic Dielectric Media for Non-Invasive Microwave Hyperthermia**|Ahona Bhattacharyya et.al.|[2605.00215](http://arxiv.org/abs/2605.00215)|null|
 |**2026-04-30**|**On three-dimensional flows of thermo-viscoelastic fluids of Giesekus type**|Miroslav Bulíček et.al.|[2604.27978](http://arxiv.org/abs/2604.27978)|null|
 |**2026-04-30**|**Guided elastic waves for soft elastomer characterization: an alternative to conventional rheometry**|Samuel Croquette et.al.|[2604.27722](http://arxiv.org/abs/2604.27722)|null|
 |**2026-04-30**|**From Elastic to Viscoelastic: An EEMD-Enhanced Pulse Transit Time Model for Robust Blood Pressure Estimation**|Boyuan Gu et.al.|[2604.27500](http://arxiv.org/abs/2604.27500)|null|
@@ -644,12 +662,22 @@
 |**2026-01-12**|**Understanding microfabricated nanocalorimeter performance and responses to the energy fluxes from low-temperature plasma discharges**|Carles Corbella et.al.|[2601.08009](http://arxiv.org/abs/2601.08009)|null|
 |**2026-01-15**|**PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials**|Teddy Koker et.al.|[2601.07742](http://arxiv.org/abs/2601.07742)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Generative Design & Inverse Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Large Language Models are Universal Reasoners for Visual Generation**|Sucheng Ren et.al.|[2605.04040](http://arxiv.org/abs/2605.04040)|null|
+|**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
+|**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
+|**2026-05-05**|**Time-dependent variational Monte Carlo without bias**|Wladislaw Krinitsin et.al.|[2605.03930](http://arxiv.org/abs/2605.03930)|null|
+|**2026-05-05**|**Inverse-designed release-free optomechanical crystal with high photon-phonon coupling**|David Hambraeus et.al.|[2605.03910](http://arxiv.org/abs/2605.03910)|null|
+|**2026-05-05**|**DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models**|Qichao Wang et.al.|[2605.03877](http://arxiv.org/abs/2605.03877)|null|
+|**2026-05-05**|**Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation**|Bin Wu et.al.|[2605.03849](http://arxiv.org/abs/2605.03849)|null|
+|**2026-05-05**|**Towards accurate extreme event likelihoods from diffusion model climate emulators**|Peter Manshausen et.al.|[2605.03802](http://arxiv.org/abs/2605.03802)|null|
+|**2026-05-05**|**Neural-network reconstruction of THz transmission spectra using electrically tunable AlGaN/GaN plasmonic-crystal analyzer**|A. Witkowska et.al.|[2605.03778](http://arxiv.org/abs/2605.03778)|null|
+|**2026-05-05**|**Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials**|Ashique Lal et.al.|[2605.03737](http://arxiv.org/abs/2605.03737)|null|
 |**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
 |**2026-04-30**|**Sequential Inference for Gaussian Processes: A Signal Processing Perspective**|Daniel Waxman et.al.|[2604.28163](http://arxiv.org/abs/2604.28163)|null|
 |**2026-04-30**|**Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces**|Andrew Bond et.al.|[2604.28122](http://arxiv.org/abs/2604.28122)|null|
@@ -1396,12 +1424,22 @@
 |**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
 |**2026-01-16**|**M3DDM+: An improved video outpainting by a modified masking strategy**|Takuya Murakawa et.al.|[2601.11048](http://arxiv.org/abs/2601.11048)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Molecular Dynamics & Multiscale Modeling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Entanglement transitions in translation-invariant tensor networks**|Yi-Cheng Wang et.al.|[2605.04026](http://arxiv.org/abs/2605.04026)|null|
+|**2026-05-05**|**Late-Time Relaxation from Landau Singularities**|Dong-Lin Wang et.al.|[2605.04020](http://arxiv.org/abs/2605.04020)|null|
+|**2026-05-05**|**Do Venture Capitalists Beat Random Allocation?**|Max Sina Knicker et.al.|[2605.03980](http://arxiv.org/abs/2605.03980)|null|
+|**2026-05-05**|**Measurement of the neutron shielding efficacy of magnetite for Proton Therapy Facilities and other applications**|Kijun Park et.al.|[2605.03931](http://arxiv.org/abs/2605.03931)|null|
+|**2026-05-05**|**Fiscal Aggregation and the Limits of IS--LM--BP: Derivations, Aggregation Bias and Reproducible Adversarial Simulations**|Ricardo Alonzo Fernandez Salguero et.al.|[2605.03881](http://arxiv.org/abs/2605.03881)|null|
+|**2026-05-05**|**Thermodynamic phase transitions reveal the resilience structure of urban traffic congestion**|Luis E. Olmos et.al.|[2605.03879](http://arxiv.org/abs/2605.03879)|null|
+|**2026-05-05**|**A Berry-Esseen Bound for Quantum Lattice Systems**|Marcus Cramer et.al.|[2605.03829](http://arxiv.org/abs/2605.03829)|null|
+|**2026-05-05**|**Thermal activation rate of dilute axion stars close to the maximum mass**|Pierre-Henri Chavanis et.al.|[2605.03771](http://arxiv.org/abs/2605.03771)|null|
+|**2026-05-05**|**Information-Geometric Signatures of Nonconservative Driving**|Andrea Auconi et.al.|[2605.03757](http://arxiv.org/abs/2605.03757)|null|
+|**2026-05-05**|**Spontaneous Topological Locking and Symmetry Restoration of Meron Lattices in Synthetic Antiferromagnets**|Gülşen Doğan et.al.|[2605.03755](http://arxiv.org/abs/2605.03755)|null|
 |**2026-04-30**|**Observation of Vinen turbulence during far-from-equilibrium Bose-Einstein condensation**|Sebastian J. Morris et.al.|[2604.28191](http://arxiv.org/abs/2604.28191)|null|
 |**2026-04-30**|**Optimal current-based sensing of phonon temperature using a finite reservoir**|Sindre Brattegard et.al.|[2604.28155](http://arxiv.org/abs/2604.28155)|null|
 |**2026-04-30**|**Domain-wall melting in all-to-all QSSEP from random-matrix theory**|Denis Bernard et.al.|[2604.28151](http://arxiv.org/abs/2604.28151)|null|
@@ -2147,12 +2185,22 @@
 |**2026-01-15**|**Exact and Approximate Constants of Motion in Stochastic Contact Processes**|Damián H. Zanette et.al.|[2601.10776](http://arxiv.org/abs/2601.10776)|null|
 |**2026-01-15**|**Synchronization with Annealed Disorder and Higher-Harmonic Interactions in Arbitrary Dimensions: When Two Dimensions Are Special**|Rupak Majumder et.al.|[2601.10646](http://arxiv.org/abs/2601.10646)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Microstructure, Morphology & Characterization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Magneto Transport and Spin Reorientation in Pt Co78Ho22 Heterostructures Near the Sublattice Compensation Temperature**|Rajeev Nepal et.al.|[2605.03982](http://arxiv.org/abs/2605.03982)|null|
+|**2026-05-05**|**Dimer models on astroidal zig-zag graphs**|Tomas Berggren et.al.|[2605.03896](http://arxiv.org/abs/2605.03896)|null|
+|**2026-05-03**|**Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a clean magnetic semiconductor GdGaI**|Kazuki Guzman et.al.|[2605.01804](http://arxiv.org/abs/2605.01804)|null|
+|**2026-05-02**|**First-principles simulation of shocked H-He mixture along the principal Hugoniot**|Ammar A. Ellaboudy et.al.|[2605.01593](http://arxiv.org/abs/2605.01593)|null|
+|**2026-05-02**|**Effective attraction by repulsion**|Rosalba Garcia-Millan et.al.|[2605.01421](http://arxiv.org/abs/2605.01421)|null|
+|**2026-05-02**|**Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation**|Arghya Kundu et.al.|[2605.01377](http://arxiv.org/abs/2605.01377)|null|
+|**2026-05-02**|**Loop expansion in polymer field theory: application to phase separation**|Kiyoharu Kawana et.al.|[2605.01261](http://arxiv.org/abs/2605.01261)|null|
+|**2026-05-01**|**Influence of Coherent Elastic Strain on Phase Separation in BCC Nb-V Alloys**|Siya Zhu et.al.|[2605.01031](http://arxiv.org/abs/2605.01031)|null|
+|**2026-05-01**|**Model-agnostic cooling algorithms for strongly interacting fermions**|Henning Schlömer et.al.|[2605.01029](http://arxiv.org/abs/2605.01029)|null|
+|**2026-04-30**|**Surface-Adsorbed Nanodroplets of Symmetric Diblock Copolymers Form Versatile and Stimuli-Responsive Nanostructures**|Artem Petrov et.al.|[2605.00293](http://arxiv.org/abs/2605.00293)|null|
 |**2026-04-30**|**Propelling catalytic structures using active phase separation**|Benjamin Sorkin et.al.|[2604.27965](http://arxiv.org/abs/2604.27965)|null|
 |**2026-04-29**|**Phases and dynamics of an impurity immersed in one-dimensional quantum droplets**|Dimitrios Diplaris et.al.|[2604.26528](http://arxiv.org/abs/2604.26528)|null|
 |**2026-04-29**|**Energy stable auxiliary variable method for Cahn--Hilliard equations**|Fei Xie et.al.|[2604.26402](http://arxiv.org/abs/2604.26402)|null|
@@ -2295,7 +2343,7 @@
 |**2026-01-09**|**On the Feasibility of Extreme Heating Rates in SEM using MEMS Heater Platforms**|C. Koenig et.al.|[2601.05831](http://arxiv.org/abs/2601.05831)|null|
 |**2026-01-09**|**Optimal velocity control of a Brinkman-Cahn-Hilliard system with curvature effects**|Pierluigi Colli et.al.|[2601.05820](http://arxiv.org/abs/2601.05820)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Synthesis, Kinetics & Automation
 
@@ -2351,12 +2399,13 @@
 |**2025-12-13**|**Layered Monoidal Theories**|Leo Lobski et.al.|[2512.12139](http://arxiv.org/abs/2512.12139)|null|
 |**2025-12-15**|**Template-Free Retrosynthesis with Graph-Prior Augmented Transformers**|Youjun Zhao et.al.|[2512.10770](http://arxiv.org/abs/2512.10770)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Processing, Manufacturing & Composites
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing**|Ahmadreza Eslaminia et.al.|[2605.03328](http://arxiv.org/abs/2605.03328)|null|
 |**2026-04-29**|**Inverse Design of Cellular Composites for Targeted Nonlinear Mechanical Response via Multi-Fidelity Bayesian Optimisation**|Hirak Kansara et.al.|[2604.26657](http://arxiv.org/abs/2604.26657)|null|
 |**2026-04-28**|**A new diffuse reflector filament for additive manufacturing of 3D printing finely-segmented plastic scintillator**|A. Krech et.al.|[2604.26033](http://arxiv.org/abs/2604.26033)|null|
 |**2026-04-27**|**Graph-augmented Segmentation of Complex Shapes in Laser Powder bed Fusion for Enhanced In Situ Inspection**|Stefano Raimondo et.al.|[2604.24234](http://arxiv.org/abs/2604.24234)|null|
@@ -2456,12 +2505,14 @@
 |**2026-01-08**|**Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing**|Yeongbin Cha et.al.|[2601.05298](http://arxiv.org/abs/2601.05298)|null|
 |**2026-01-07**|**Probing optical and acoustic phonons in heated nano-Si/epoxy composites**|Bayan Kurbanova et.al.|[2601.04021](http://arxiv.org/abs/2601.04021)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Sustainability & Functional Applications
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow**|Nasrollah Hajaliakbari et.al.|[2605.03728](http://arxiv.org/abs/2605.03728)|null|
+|**2026-05-03**|**Hindered transport of spherical particles in cylindrical pores: The role of structural heterogeneity in rejection-permeability trade-offs**|Debanik Bhattacharjee et.al.|[2605.01820](http://arxiv.org/abs/2605.01820)|null|
 |**2026-04-30**|**Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures**|Ilya Olevsko et.al.|[2604.27726](http://arxiv.org/abs/2604.27726)|null|
 |**2026-04-29**|**Confinement-Connectivity Coupling Enables High-Efficiency Piezoionic Transduction**|Tofayel Ahammad Ovee et.al.|[2604.27240](http://arxiv.org/abs/2604.27240)|null|
 |**2026-04-29**|**Linear poroelastic response of thin permeable gel films**|Caroline Kopecz-Muller et.al.|[2604.26464](http://arxiv.org/abs/2604.26464)|null|
@@ -2521,12 +2572,22 @@
 |**2025-12-31**|**Non-Contact and Non-Destructive Detection of Structural Defects in Bioprinted Constructs Using Video-Based Vibration Analysis**|Md Anisur Rahman et.al.|[2601.00073](http://arxiv.org/abs/2601.00073)|null|
 |**2025-12-29**|**Renormalization group approach to graphene bilayers**|L. Delzescaux et.al.|[2512.23349](http://arxiv.org/abs/2512.23349)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Informatics & Data Infrastructure
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**FTPrimitiveBench: A Benchmark Suite For Logical Computation Under Hardware-Motivated and Biased Noise Models**|Shuwen Kan et.al.|[2605.04049](http://arxiv.org/abs/2605.04049)|null|
+|**2026-05-05**|**A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification**|Sushovan Majhi et.al.|[2605.04046](http://arxiv.org/abs/2605.04046)|null|
+|**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
+|**2026-05-05**|**UniCorrn: Unified Correspondence Transformer Across 2D and 3D**|Prajnan Goswami et.al.|[2605.04044](http://arxiv.org/abs/2605.04044)|null|
+|**2026-05-05**|**Safety and accuracy follow different scaling laws in clinical large language models**|Sebastian Wind et.al.|[2605.04039](http://arxiv.org/abs/2605.04039)|null|
+|**2026-05-05**|**Model order reduction for parametrized variational inequalities: application to crowd motion**|Giulia Sambataro et.al.|[2605.04037](http://arxiv.org/abs/2605.04037)|null|
+|**2026-05-05**|**OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories**|Yuwen Du et.al.|[2605.04036](http://arxiv.org/abs/2605.04036)|null|
+|**2026-05-05**|**Probabilistic-bit Guided CDCL for SAT Solving using Ising Consensus Assumptions**|Melki Bino et.al.|[2605.04033](http://arxiv.org/abs/2605.04033)|null|
+|**2026-05-05**|**Can Transformers predict system collapse in dynamical systems?**|Zheng-Meng Zhai et.al.|[2605.04024](http://arxiv.org/abs/2605.04024)|null|
+|**2026-05-05**|**Quantum work beyond classical (commuting) limits**|Sumit Rout et.al.|[2605.04021](http://arxiv.org/abs/2605.04021)|null|
 |**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
 |**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
@@ -3298,7 +3359,7 @@
 |**2026-01-16**|**Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs**|Alessandro Padella et.al.|[2601.11468](http://arxiv.org/abs/2601.11468)|null|
 |**2026-01-16**|**The XL Instances for the Capacitated Vehicle Routing Problem**|Eduardo Queiroga et.al.|[2601.11467](http://arxiv.org/abs/2601.11467)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4polymer-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4polymer-arxiv-daily/graphs/contributors
