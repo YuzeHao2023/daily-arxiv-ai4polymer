@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.05.07
+## Updated on 2026.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|
+|**2026-05-07**|**SIGMA-ASL: Sensor-Integrated Multimodal Dataset for Sign Language Recognition**|Xiaofang Xiao et.al.|[2605.06351](http://arxiv.org/abs/2605.06351)|null|
+|**2026-05-07**|**Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces**|Zakaria Elabid et.al.|[2605.06303](http://arxiv.org/abs/2605.06303)|null|
+|**2026-05-06**|**Robustness of Graph Self-Supervised Learning to Real-World Noise: A Case Study on Text-Driven Biomedical Graphs**|Othmane Kabal et.al.|[2605.05463](http://arxiv.org/abs/2605.05463)|null|
 |**2026-05-06**|**Chaotic Contrastive Learning for Robust Texture Classification**|Joao B Florindo et.al.|[2605.05012](http://arxiv.org/abs/2605.05012)|null|
 |**2026-05-06**|**Attention-Based Chaotic Self-Supervision for Medical Image Classification**|Joao Batista Florindo et.al.|[2605.04985](http://arxiv.org/abs/2605.04985)|null|
 |**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
@@ -304,6 +308,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Colossal Magnetoresistance and Phonon Driven Exchange Dynamics in Eu $_5$Sn$_2$As$_6$**|Luke Pritchard Cairns et.al.|[2605.06649](http://arxiv.org/abs/2605.06649)|null|
+|**2026-05-07**|**The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell**|Prince Romeo Mensah et.al.|[2605.06463](http://arxiv.org/abs/2605.06463)|null|
+|**2026-05-07**|**Sub-kelvin thermal conductivity of substrates and on-chip routing in quantum integrated systems**|Charles Bon-Mardion et.al.|[2605.06146](http://arxiv.org/abs/2605.06146)|null|
+|**2026-05-07**|**Physics-Grounded Understanding of Thermal Boundary Conductance between Ga $_2$O$_3$ and SiC from a Feedforward Neural Network Potential**|Nuohao Liu et.al.|[2605.05620](http://arxiv.org/abs/2605.05620)|null|
+|**2026-05-06**|**From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics**|Zheng Yu et.al.|[2605.05361](http://arxiv.org/abs/2605.05361)|null|
 |**2026-05-06**|**From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes**|Matúš Kaintz et.al.|[2605.04942](http://arxiv.org/abs/2605.04942)|null|
 |**2026-05-06**|**Local elastic perturbation of colloidal suspensions near the colloidal glass transition**|Piotr Habdas et.al.|[2605.04937](http://arxiv.org/abs/2605.04937)|null|
 |**2026-05-05**|**Blow-Up Criteria and Weak--Strong Uniqueness for Compressible Fluid--Viscoelastic Shell Interactions**|Pierre Marie Ngougoue Ngougoue et.al.|[2605.04314](http://arxiv.org/abs/2605.04314)|null|
@@ -658,6 +667,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows**|Prateek Paudel et.al.|[2605.06629](http://arxiv.org/abs/2605.06629)|null|
+|**2026-05-07**|**MTRBO: Multiple trust-region based Bayesian optimization**|Sourav Das et.al.|[2605.06618](http://arxiv.org/abs/2605.06618)|null|
+|**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
+|**2026-05-07**|**Continuous Latent Diffusion Language Model**|Hongcan Guo et.al.|[2605.06548](http://arxiv.org/abs/2605.06548)|null|
+|**2026-05-07**|**DCR: Counterfactual Attractor Guidance for Rare Compositional Generation**|Taewon Kang et.al.|[2605.06512](http://arxiv.org/abs/2605.06512)|null|
+|**2026-05-07**|**FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction**|Fangda Chen et.al.|[2605.06509](http://arxiv.org/abs/2605.06509)|null|
+|**2026-05-07**|**MARBLE: Multi-Aspect Reward Balance for Diffusion RL**|Canyu Zhao et.al.|[2605.06507](http://arxiv.org/abs/2605.06507)|null|
+|**2026-05-07**|**ORTHOBO: Orthogonal Bayesian Hyperparameter Optimization**|Maresa Schröder et.al.|[2605.06454](http://arxiv.org/abs/2605.06454)|null|
 |**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](http://arxiv.org/abs/2605.05206)|null|
 |**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|null|
 |**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163](http://arxiv.org/abs/2605.05163)|null|
@@ -1428,6 +1447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**The Kubo-Thermalization Correspondence**|Songtao Huang et.al.|[2605.06666](http://arxiv.org/abs/2605.06666)|null|
+|**2026-05-07**|**Affine Subcode Ensemble Decoding for Degeneracy-Aware Quantum Error Correction**|Leo Wursthorn et.al.|[2605.06547](http://arxiv.org/abs/2605.06547)|null|
+|**2026-05-07**|**A Rayleigh criterion for mechanical instability: inducing activity by chemo-mechanical coupling**|Aaron Beyen et.al.|[2605.06543](http://arxiv.org/abs/2605.06543)|null|
+|**2026-05-07**|**Activation in Vesicle-Mediated Signaling Shaped by Batch Arrival Statistics**|Jan Hauke et.al.|[2605.06456](http://arxiv.org/abs/2605.06456)|null|
+|**2026-05-07**|**Criticality around the Spinodal Point of First-Order Quantum Phase Transitions**|Fan Zhang et.al.|[2605.06436](http://arxiv.org/abs/2605.06436)|null|
+|**2026-05-07**|**Comparative Study of Potts Machine Dynamics and Performance for Max-k-Cut**|Bjarke Almer Frederiksen et.al.|[2605.06425](http://arxiv.org/abs/2605.06425)|null|
+|**2026-05-07**|**Finite-Time Optimal Control by Noisy Traps**|Luca Cocconi et.al.|[2605.06424](http://arxiv.org/abs/2605.06424)|null|
+|**2026-05-07**|**Dynamical cooling driven by self-similar fronts in the 2D nonlinear Schrödinger model**|Jason Laurie et.al.|[2605.06396](http://arxiv.org/abs/2605.06396)|null|
+|**2026-05-07**|**Edge Triggering in IoT Mesh Networks: A Comparative Monte Carlo Study of Seven Detection Algorithms**|Sergii Makovetskyi et.al.|[2605.06358](http://arxiv.org/abs/2605.06358)|null|
+|**2026-05-07**|**Higher-order interactions in ecology can be hidden in plain sight**|Violeta Calleja-Solanas et.al.|[2605.06301](http://arxiv.org/abs/2605.06301)|null|
 |**2026-05-06**|**Singular Behavior of Observables at Hopf Bifurcations**|Benedikt Remlein et.al.|[2605.05194](http://arxiv.org/abs/2605.05194)|null|
 |**2026-05-06**|**Lattice Tadpoles**|S G Whittington et.al.|[2605.05137](http://arxiv.org/abs/2605.05137)|null|
 |**2026-05-06**|**Kink-kink correlations in nonlinear quenches across a quantum critical point**|Lakshita Jindal et.al.|[2605.05106](http://arxiv.org/abs/2605.05106)|null|
@@ -2197,6 +2226,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**An Open-Source Flow for Single-Phase, Edge-Triggered to Two-Phase, Non-Overlapping Clocking Conversion**|Paolo Pedroso et.al.|[2605.05374](http://arxiv.org/abs/2605.05374)|null|
+|**2026-05-06**|**Structural effects of liquid infiltration of 3Y-Zirconia with Sc, Mg and Y**|Asbjoern Slagtern Fjellvaag et.al.|[2605.05364](http://arxiv.org/abs/2605.05364)|null|
 |**2026-05-06**|**Thermodynamics of stacking faults and phase stability in cobalt alloys: A combined computational and experimental study**|Zheng Zhong et.al.|[2605.04420](http://arxiv.org/abs/2605.04420)|null|
 |**2026-05-05**|**Pattern Formation and Stick-Slip Dynamics in Binary Particle Assemblies with Rotating Drives**|C. Reichhardt et.al.|[2605.04322](http://arxiv.org/abs/2605.04322)|null|
 |**2026-05-05**|**Magneto Transport and Spin Reorientation in Pt Co78Ho22 Heterostructures Near the Sublattice Compensation Temperature**|Rajeev Nepal et.al.|[2605.03982](http://arxiv.org/abs/2605.03982)|null|
@@ -2513,6 +2544,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**From Cradle to Cloud: A Life Cycle Review of AI's Environmental Footprint**|Katherine Lambert et.al.|[2605.05416](http://arxiv.org/abs/2605.05416)|null|
 |**2026-05-05**|**Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow**|Nasrollah Hajaliakbari et.al.|[2605.03728](http://arxiv.org/abs/2605.03728)|null|
 |**2026-05-03**|**Hindered transport of spherical particles in cylindrical pores: The role of structural heterogeneity in rejection-permeability trade-offs**|Debanik Bhattacharjee et.al.|[2605.01820](http://arxiv.org/abs/2605.01820)|null|
 |**2026-04-30**|**Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures**|Ilya Olevsko et.al.|[2604.27726](http://arxiv.org/abs/2604.27726)|null|
@@ -2578,6 +2610,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels**|Sushant Gautam et.al.|[2605.06652](http://arxiv.org/abs/2605.06652)|null|
+|**2026-05-07**|**AI Co-Mathematician: Accelerating Mathematicians with Agentic AI**|Daniel Zheng et.al.|[2605.06651](http://arxiv.org/abs/2605.06651)|null|
+|**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
+|**2026-05-07**|**Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval**|Zeyu Yang et.al.|[2605.06647](http://arxiv.org/abs/2605.06647)|null|
+|**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[2605.06644](http://arxiv.org/abs/2605.06644)|null|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|null|
+|**2026-05-07**|**GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation**|Ziyu Zhai et.al.|[2605.06641](http://arxiv.org/abs/2605.06641)|null|
 |**2026-05-06**|**S-LCG: Structured Linear Congruential Generator-Based Deterministic Algorithm for Search and Optimization**|Ahmed Qasim Mohammed et.al.|[2605.05198](http://arxiv.org/abs/2605.05198)|null|
 |**2026-05-06**|**Implicit Representations of Grammaticality in Language Models**|Yingshan Susan Wang et.al.|[2605.05197](http://arxiv.org/abs/2605.05197)|null|
 |**2026-05-06**|**LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents**|Yijun Lu et.al.|[2605.05191](http://arxiv.org/abs/2605.05191)|null|
