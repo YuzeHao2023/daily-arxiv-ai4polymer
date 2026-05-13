@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**NARA: Anchor-Conditioned Relation-Aware Contextualization of Heterogeneous Geoentities**|Jina Kim et.al.|[2605.12276](http://arxiv.org/abs/2605.12276)|null|
+|**2026-05-12**|**Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study**|M A Al-Masud et.al.|[2605.12241](http://arxiv.org/abs/2605.12241)|null|
 |**2026-05-12**|**Modulation Consistency-based Contrastive Learning for Self-Supervised Automatic Modulation Classification**|Chenxu Wang et.al.|[2605.11875](http://arxiv.org/abs/2605.11875)|null|
 |**2026-05-12**|**Information theoretic underpinning of self-supervised learning by clustering**|Josef Kittler et.al.|[2605.11870](http://arxiv.org/abs/2605.11870)|null|
 |**2026-05-12**|**Martingale-Consistent Self-Supervised Learning**|Moritz Gögl et.al.|[2605.11846](http://arxiv.org/abs/2605.11846)|null|
@@ -331,6 +333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Identifying the relevant parameters in design strategies for stable glasses**|Leonardo Galliano et.al.|[2605.12127](http://arxiv.org/abs/2605.12127)|null|
 |**2026-05-12**|**Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates**|Kichitaro Nakajima et.al.|[2605.11660](http://arxiv.org/abs/2605.11660)|null|
 |**2026-05-12**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610](http://arxiv.org/abs/2605.11610)|null|
 |**2026-05-12**|**Thermoviscoelasticity of polydomain liquid crystal elastomers regulated by soft elasticity**|Zhengxuan Wei et.al.|[2605.11455](http://arxiv.org/abs/2605.11455)|null|
@@ -702,6 +705,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry**|Yanyu Duan et.al.|[2605.12489](http://arxiv.org/abs/2605.12489)|null|
+|**2026-05-12**|**GaitProtector: Impersonation-Driven Gait De-Identification via Training-Free Diffusion Latent Optimization**|Huiran Duan et.al.|[2605.12431](http://arxiv.org/abs/2605.12431)|null|
+|**2026-05-12**|**GeoQuery: Geometry-Query Diffusion for Sparse-View Reconstruction**|Xiao Cao et.al.|[2605.12399](http://arxiv.org/abs/2605.12399)|null|
+|**2026-05-12**|**Fast Image Super-Resolution via Consistency Rectified Flow**|Jiaqi Xu et.al.|[2605.12377](http://arxiv.org/abs/2605.12377)|null|
+|**2026-05-12**|**Tangent-Plane Evidential Uncertainty in Active Learning for Magnetic Interatomic Potentials**|Yang Cheng et.al.|[2605.12353](http://arxiv.org/abs/2605.12353)|null|
+|**2026-05-12**|**Manifold Sampling via Entropy Maximization**|Cornelius V. Braun et.al.|[2605.12338](http://arxiv.org/abs/2605.12338)|null|
+|**2026-05-12**|**G $^2$ TR: Generation-Guided Visual Token Reduction for Separate-Encoder Unified Multimodal Models**|Junxian Li et.al.|[2605.12309](http://arxiv.org/abs/2605.12309)|null|
+|**2026-05-12**|**Geometric Asymptotics of Score Mixing and Guidance in Diffusion Models**|Kang Liu et.al.|[2605.12231](http://arxiv.org/abs/2605.12231)|null|
+|**2026-05-12**|**Information-Theoretic Generalization Bounds for Sequential Decision Making**|Futoshi Futami et.al.|[2605.12190](http://arxiv.org/abs/2605.12190)|null|
+|**2026-05-12**|**DriftXpress: Faster Drifting Models via Projected RKHS Fields**|Ali Falahati et.al.|[2605.12183](http://arxiv.org/abs/2605.12183)|null|
 |**2026-05-12**|**High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning**|Ricard Montalà et.al.|[2605.11981](http://arxiv.org/abs/2605.11981)|null|
 |**2026-05-12**|**Assessment of cloud and associated radiation fields from a GAN stochastic cloud subcolumn generator**|Dongmin Lee et.al.|[2605.11968](http://arxiv.org/abs/2605.11968)|null|
 |**2026-05-12**|**RealDiffusion: Physics-informed Attention for Multi-character Storybook Generation**|Qi Zhao et.al.|[2605.11927](http://arxiv.org/abs/2605.11927)|null|
@@ -1494,6 +1507,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Variational approach to droplet motion on uneven solid surfaces, including contact line dynamics and evaporation**|Gyula I Tóth et.al.|[2605.12393](http://arxiv.org/abs/2605.12393)|null|
+|**2026-05-12**|**Link length and energy fluctuations in extensible freely jointed chains**|Michael R. Buche et.al.|[2605.12333](http://arxiv.org/abs/2605.12333)|null|
+|**2026-05-12**|**Time-variant reliability using time-dependent surrogate models**|Stefano Marelli et.al.|[2605.12248](http://arxiv.org/abs/2605.12248)|null|
+|**2026-05-12**|**Toward Charge-Dependent Tests of the Equivalence Principle: A Phenomenological Parameter and an Unexplored Frontier**|Renato Vieira dos Santos et.al.|[2605.12246](http://arxiv.org/abs/2605.12246)|null|
+|**2026-05-12**|**Identifying the relevant parameters in design strategies for stable glasses**|Leonardo Galliano et.al.|[2605.12127](http://arxiv.org/abs/2605.12127)|null|
+|**2026-05-12**|**Squeezing and adiabaticity breaking in time-dependent quantum harmonic oscillators**|Mattia Orlandini et.al.|[2605.12124](http://arxiv.org/abs/2605.12124)|null|
+|**2026-05-12**|**Statistical Potential for Identical Fermions: Emergent Attraction and Pauli Crystal Formation**|Kawon Lee et.al.|[2605.12043](http://arxiv.org/abs/2605.12043)|null|
 |**2026-05-12**|**High-energy Neutrino and Gamma Ray Emission from Clusters-like Perseus**|Saqib Hussain et.al.|[2605.11894](http://arxiv.org/abs/2605.11894)|null|
 |**2026-05-12**|**Critical Dynamics of Non-Reciprocally Coupled Conserved Systems**|Emir Sezik et.al.|[2605.11892](http://arxiv.org/abs/2605.11892)|null|
 |**2026-05-12**|**Adaptive TD-Lambda for Cooperative Multi-agent Reinforcement Learning**|Yue Deng et.al.|[2605.11880](http://arxiv.org/abs/2605.11880)|null|
@@ -2688,6 +2708,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Scalable Measurement-Based Quantum Simulation Patterns for Benchmarking**|V. W. Scarola et.al.|[2605.12502](http://arxiv.org/abs/2605.12502)|null|
+|**2026-05-12**|**Covering Human Action Space for Computer Use: Data Synthesis and Benchmark**|Miaosen Zhang et.al.|[2605.12501](http://arxiv.org/abs/2605.12501)|null|
+|**2026-05-12**|**EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera**|Christen Millerdurai et.al.|[2605.12498](http://arxiv.org/abs/2605.12498)|null|
+|**2026-05-12**|**From Web to Pixels: Bringing Agentic Search into Visual Perception**|Bokang Yang et.al.|[2605.12497](http://arxiv.org/abs/2605.12497)|null|
+|**2026-05-12**|**AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**|Runhui Huang et.al.|[2605.12495](http://arxiv.org/abs/2605.12495)|null|
+|**2026-05-12**|**LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues**|Di Wu et.al.|[2605.12493](http://arxiv.org/abs/2605.12493)|null|
+|**2026-05-12**|**Task-Adaptive Embedding Refinement via Test-time LLM Guidance**|Ariel Gera et.al.|[2605.12487](http://arxiv.org/abs/2605.12487)|null|
+|**2026-05-12**|**Automated multiphase identification and refinement in powder diffraction using mismatch-tolerant machine learning**|Lalit Yadav et.al.|[2605.12478](http://arxiv.org/abs/2605.12478)|null|
+|**2026-05-12**|**MEME: Multi-entity & Evolving Memory Evaluation**|Seokwon Jung et.al.|[2605.12477](http://arxiv.org/abs/2605.12477)|null|
+|**2026-05-12**|**KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference**|Alireza Nadali et.al.|[2605.12471](http://arxiv.org/abs/2605.12471)|null|
 |**2026-05-12**|**Random-Set Graph Neural Networks**|Tommy Woodley et.al.|[2605.11987](http://arxiv.org/abs/2605.11987)|null|
 |**2026-05-12**|**On Predicting the Post-training Potential of Pre-trained LLMs**|Xiaoyuan Li et.al.|[2605.11978](http://arxiv.org/abs/2605.11978)|null|
 |**2026-05-12**|**Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation**|Mohammad Khoshkdahan et.al.|[2605.11972](http://arxiv.org/abs/2605.11972)|null|
