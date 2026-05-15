@@ -1,4 +1,4 @@
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**AudioMosaic: Contrastive Masked Audio Representation Learning**|Hanxun Huang et.al.|[2605.14231](http://arxiv.org/abs/2605.14231)|null|
+|**2026-05-13**|**Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning**|Leo Milecki et.al.|[2605.14048](http://arxiv.org/abs/2605.14048)|null|
+|**2026-05-13**|**Masked Autoencoders with Limited Data: Does It Work? A Fine-Grained Bioacoustics Case Study**|Wuao Liu et.al.|[2605.14031](http://arxiv.org/abs/2605.14031)|null|
+|**2026-05-13**|**Self-Supervised On-Policy Reinforcement Learning via Contrastive Proximal Policy Optimisation**|Asim Osman et.al.|[2605.13554](http://arxiv.org/abs/2605.13554)|null|
 |**2026-05-13**|**ECG-NAT: A Self-supervised Neighborhood Attention Transformer for Multi-lead Electrocardiogram Classification**|Mahsa Gazeran et.al.|[2605.13194](http://arxiv.org/abs/2605.13194)|null|
 |**2026-05-13**|**CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions**|Tianbo Liu et.al.|[2605.12980](http://arxiv.org/abs/2605.12980)|null|
 |**2026-05-12**|**A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions**|Mohamed Mahmoud Amar et.al.|[2605.12685](http://arxiv.org/abs/2605.12685)|null|
@@ -330,12 +334,17 @@
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
 |**2026-01-08**|**Towards a Unified Theoretical Framework for Self-Supervised MRI Reconstruction**|Siying Xu et.al.|[2601.04775](http://arxiv.org/abs/2601.04775)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Property Prediction & QSPR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution**|Pritha Acharya et.al.|[2605.14564](http://arxiv.org/abs/2605.14564)|null|
+|**2026-05-13**|**Enhanced Near-Field Thermal Radiation Driven by Multiple Corner and Edge Modes in Subwavelength Square Nanowires**|Jose Ordonez-Miranda et.al.|[2605.13712](http://arxiv.org/abs/2605.13712)|null|
+|**2026-05-13**|**Nonlinear dynamic elastic moduli from equilibrium stress fluctuations**|F. E. Garbuzov et.al.|[2605.13703](http://arxiv.org/abs/2605.13703)|null|
+|**2026-05-13**|**Theory of fracture initiation and propagation in viscoelastic media**|Giuseppe Carbonea et.al.|[2605.13682](http://arxiv.org/abs/2605.13682)|null|
+|**2026-05-13**|**Plastics and Composite Materials**|Ana Teresa Perez Fontenla et.al.|[2605.13506](http://arxiv.org/abs/2605.13506)|null|
 |**2026-05-13**|**From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems**|Giovanni P. Galdi et.al.|[2605.12892](http://arxiv.org/abs/2605.12892)|null|
 |**2026-05-12**|**Identifying the relevant parameters in design strategies for stable glasses**|Leonardo Galliano et.al.|[2605.12127](http://arxiv.org/abs/2605.12127)|null|
 |**2026-05-12**|**Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates**|Kichitaro Nakajima et.al.|[2605.11660](http://arxiv.org/abs/2605.11660)|null|
@@ -703,12 +712,22 @@
 |**2026-01-12**|**Understanding microfabricated nanocalorimeter performance and responses to the energy fluxes from low-temperature plasma discharges**|Carles Corbella et.al.|[2601.08009](http://arxiv.org/abs/2601.08009)|null|
 |**2026-01-15**|**PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials**|Teddy Koker et.al.|[2601.07742](http://arxiv.org/abs/2601.07742)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Generative Design & Inverse Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU**|Thorben Wegner et.al.|[2605.14839](http://arxiv.org/abs/2605.14839)|null|
+|**2026-05-14**|**HDRFace: Rethinking Face Restoration with High-Dimensional Representation**|Zirui Wang et.al.|[2605.14821](http://arxiv.org/abs/2605.14821)|null|
+|**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](http://arxiv.org/abs/2605.14815)|null|
+|**2026-05-14**|**Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation**|Mamadou Keita et.al.|[2605.14799](http://arxiv.org/abs/2605.14799)|null|
+|**2026-05-14**|**Beyond What to Select: A Plug-and-play Oscillatory Data-Volume Scheduling for Efficient Model Training**|Suorong Yang et.al.|[2605.14773](http://arxiv.org/abs/2605.14773)|null|
+|**2026-05-14**|**Composable Crystals: Controllable Materials Discovery via Concept Learning**|Nian Liu et.al.|[2605.14769](http://arxiv.org/abs/2605.14769)|null|
+|**2026-05-14**|**Are Candidate Models Really Needed for Active Learning?**|Harshini Mridula Mohan et.al.|[2605.14689](http://arxiv.org/abs/2605.14689)|null|
+|**2026-05-14**|**LLM-Enabled Automated Algorithm Design for Multiuser Fluid Antenna Communications**|Gan Zheng et.al.|[2605.14661](http://arxiv.org/abs/2605.14661)|null|
+|**2026-05-14**|**VMU-Diff: A Coarse-to-fine Multi-source Data Fusion Framework for Precipitation Nowcasting**|Chunlei Shi et.al.|[2605.14597](http://arxiv.org/abs/2605.14597)|null|
+|**2026-05-14**|**TOPOS: High-Fidelity and Efficient Industry-Grade 3D Head Generation**|Bojun Xiong et.al.|[2605.14594](http://arxiv.org/abs/2605.14594)|null|
 |**2026-05-13**|**Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation**|Junhyuk Jeon et.al.|[2605.13333](http://arxiv.org/abs/2605.13333)|null|
 |**2026-05-13**|**PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding**|Yunhe Han et.al.|[2605.13319](http://arxiv.org/abs/2605.13319)|null|
 |**2026-05-13**|**Safe Bayesian Optimization for Uncertain Correlations Matrices in Linear Models of Co-Regionalization**|Jannis Lübsen et.al.|[2605.13302](http://arxiv.org/abs/2605.13302)|null|
@@ -1515,12 +1534,22 @@
 |**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
 |**2026-01-16**|**M3DDM+: An improved video outpainting by a modified masking strategy**|Takuya Murakawa et.al.|[2601.11048](http://arxiv.org/abs/2601.11048)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Molecular Dynamics & Multiscale Modeling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Lévy-like flights and fractal geometry of finite point sets**|Konstantinos Chalas et.al.|[2605.14861](http://arxiv.org/abs/2605.14861)|null|
+|**2026-05-14**|**Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study**|Francesca Menescardi et.al.|[2605.14793](http://arxiv.org/abs/2605.14793)|null|
+|**2026-05-14**|**Betweenness Central Nodes Under Uncertainty: An Absorbing Markov Chain Approach**|Wencheng Bao et.al.|[2605.14743](http://arxiv.org/abs/2605.14743)|null|
+|**2026-05-14**|**Generalized Suzuki-Chin Factorization in Bosonic Path Integral Molecular Dynamics**|Jacob Higer et.al.|[2605.14687](http://arxiv.org/abs/2605.14687)|null|
+|**2026-05-14**|**Spontaneous symmetry breaking and Goldstone modes for deep information propagation**|Nabil Iqbal et.al.|[2605.14685](http://arxiv.org/abs/2605.14685)|null|
+|**2026-05-14**|**Matrix-Product Belief Propagation for continuous-state-space variables**|Federico Florio et.al.|[2605.14522](http://arxiv.org/abs/2605.14522)|null|
+|**2026-05-14**|**A $Z_1^2$ framework for rotational-parameter estimation and uncertainty quantification in high-energy pulsars**|Akshat Singhal et.al.|[2605.14348](http://arxiv.org/abs/2605.14348)|null|
+|**2026-05-13**|**A microcanonical approach to criticality in the mean-field $φ^4$ model: evidence of intrinsic microcanonical structure before the thermodynamic limit**|Loris Di Cairano et.al.|[2605.14198](http://arxiv.org/abs/2605.14198)|null|
+|**2026-05-13**|**Interference of dynamical arrest, thermodynamic instabilities and energy-scale competition in symmetric binary mixtures**|Ricardo Peredo-Ortiz et.al.|[2605.14064](http://arxiv.org/abs/2605.14064)|null|
+|**2026-05-13**|**Finite-size scaling of hetero-associative retrieval in continuous-signal-driven Ising spin systems**|Andrea Ladiana et.al.|[2605.14059](http://arxiv.org/abs/2605.14059)|null|
 |**2026-05-13**|**Ergodic Optimization and Ground States: a brief Introduction**|Artur O. Lopes et.al.|[2605.13342](http://arxiv.org/abs/2605.13342)|null|
 |**2026-05-13**|**Fluctuation-Dissipation Framework for Size-Dependent Surface Tension**|Sergii Burian et.al.|[2605.13244](http://arxiv.org/abs/2605.13244)|null|
 |**2026-05-13**|**Crossover and universality breaking in the dilute Baxter-Wu model**|Dimitrios Mataragkas et.al.|[2605.13238](http://arxiv.org/abs/2605.13238)|null|
@@ -2323,12 +2352,14 @@
 |**2026-01-15**|**Exact and Approximate Constants of Motion in Stochastic Contact Processes**|Damián H. Zanette et.al.|[2601.10776](http://arxiv.org/abs/2601.10776)|null|
 |**2026-01-15**|**Synchronization with Annealed Disorder and Higher-Harmonic Interactions in Arbitrary Dimensions: When Two Dimensions Are Special**|Rupak Majumder et.al.|[2601.10646](http://arxiv.org/abs/2601.10646)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Microstructure, Morphology & Characterization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks**|Léa Beaulès et.al.|[2605.14516](http://arxiv.org/abs/2605.14516)|null|
+|**2026-05-14**|**Chiroptical Ternary Entropy Harvesting from Self-Assembled Block Copolymer Nanopatterns**|Wookjin Jung et.al.|[2605.14353](http://arxiv.org/abs/2605.14353)|null|
 |**2026-05-12**|**Topological edge states of the hexagonal linear chain**|M. Niţă et.al.|[2605.11948](http://arxiv.org/abs/2605.11948)|null|
 |**2026-05-12**|**Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates**|Kichitaro Nakajima et.al.|[2605.11660](http://arxiv.org/abs/2605.11660)|null|
 |**2026-05-11**|**SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis**|Sean Feeney et.al.|[2605.10327](http://arxiv.org/abs/2605.10327)|null|
@@ -2489,7 +2520,7 @@
 |**2026-01-09**|**On the Feasibility of Extreme Heating Rates in SEM using MEMS Heater Platforms**|C. Koenig et.al.|[2601.05831](http://arxiv.org/abs/2601.05831)|null|
 |**2026-01-09**|**Optimal velocity control of a Brinkman-Cahn-Hilliard system with curvature effects**|Pierluigi Colli et.al.|[2601.05820](http://arxiv.org/abs/2601.05820)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Synthesis, Kinetics & Automation
 
@@ -2549,12 +2580,13 @@
 |**2025-12-13**|**Layered Monoidal Theories**|Leo Lobski et.al.|[2512.12139](http://arxiv.org/abs/2512.12139)|null|
 |**2025-12-15**|**Template-Free Retrosynthesis with Graph-Prior Augmented Transformers**|Youjun Zhao et.al.|[2512.10770](http://arxiv.org/abs/2512.10770)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Processing, Manufacturing & Composites
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Compositional and Magnetic Characterisation of Oblique Co and Fe Nanowire Structures Fabricated Using Focused Electron Beam Induced Deposition**|Aurys Silinga et.al.|[2605.14673](http://arxiv.org/abs/2605.14673)|null|
 |**2026-05-13**|**Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor**|Runchen Zhou et.al.|[2605.13184](http://arxiv.org/abs/2605.13184)|null|
 |**2026-05-10**|**From Angle of Repose to Heap Morphology: Full-Field Calibration of DEM for Granular Powders**|Olivier Gaboriault et.al.|[2605.09371](http://arxiv.org/abs/2605.09371)|null|
 |**2026-05-08**|**Design and fabrication of a micro-ion trap with a 3D-printed loading zone for improved hot-ion capture**|Sayan Patra et.al.|[2605.08502](http://arxiv.org/abs/2605.08502)|null|
@@ -2658,12 +2690,13 @@
 |**2026-01-08**|**Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing**|Yeongbin Cha et.al.|[2601.05298](http://arxiv.org/abs/2601.05298)|null|
 |**2026-01-07**|**Probing optical and acoustic phonons in heated nano-Si/epoxy composites**|Bayan Kurbanova et.al.|[2601.04021](http://arxiv.org/abs/2601.04021)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Sustainability & Functional Applications
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Kin-ematic Exclusion in Active Matter: Modelling Mutual Inhibition in \textit{Pseudomonas aeruginosa} Sibling Colonies**|Dario Buonomo et.al.|[2605.13927](http://arxiv.org/abs/2605.13927)|null|
 |**2026-05-12**|**Nanostructure of PEGDA-PEG hydrogel membranes and how it controls their permeability**|Sixtine de Chateauneuf-Randon et.al.|[2605.11719](http://arxiv.org/abs/2605.11719)|null|
 |**2026-05-11**|**A molecular perspective on coordination, screening, and emergent length scales in lithium electrolytes**|A. Coste et.al.|[2605.10089](http://arxiv.org/abs/2605.10089)|null|
 |**2026-05-07**|**Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells**|Francesc Xavier Capella-Guardià et.al.|[2605.07718](http://arxiv.org/abs/2605.07718)|null|
@@ -2729,12 +2762,22 @@
 |**2025-12-31**|**Non-Contact and Non-Destructive Detection of Structural Defects in Bioprinted Constructs Using Video-Based Vibration Analysis**|Md Anisur Rahman et.al.|[2601.00073](http://arxiv.org/abs/2601.00073)|null|
 |**2025-12-29**|**Renormalization group approach to graphene bilayers**|L. Delzescaux et.al.|[2512.23349](http://arxiv.org/abs/2512.23349)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Informatics & Data Infrastructure
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Lévy-like flights and fractal geometry of finite point sets**|Konstantinos Chalas et.al.|[2605.14861](http://arxiv.org/abs/2605.14861)|null|
+|**2026-05-14**|**Do Coding Agents Understand Least-Privilege Authorization?**|Zheng Yan et.al.|[2605.14859](http://arxiv.org/abs/2605.14859)|null|
+|**2026-05-14**|**FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery**|Patrick Kwon et.al.|[2605.14854](http://arxiv.org/abs/2605.14854)|null|
+|**2026-05-14**|**Discrimination Is Generation: Unifying Ranking and Retrieval from a Tokenizer Perspective**|Shuli Wang et.al.|[2605.14853](http://arxiv.org/abs/2605.14853)|null|
+|**2026-05-14**|**SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation**|Ivan Molodetskikh et.al.|[2605.14847](http://arxiv.org/abs/2605.14847)|null|
+|**2026-05-14**|**Successive convex optimization for transformer encoder model predictive control**|Xingxiao Chen et.al.|[2605.14846](http://arxiv.org/abs/2605.14846)|null|
+|**2026-05-14**|**Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study**|Marta Robledo-Moreno et.al.|[2605.14845](http://arxiv.org/abs/2605.14845)|null|
+|**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](http://arxiv.org/abs/2605.14843)|null|
+|**2026-05-14**|**Editor's Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis**|Mor Ventura et.al.|[2605.14842](http://arxiv.org/abs/2605.14842)|null|
+|**2026-05-14**|**In-Context Learning for Data-Driven Censored Inventory Control**|Sohom Mukherjee et.al.|[2605.14840](http://arxiv.org/abs/2605.14840)|null|
 |**2026-05-13**|**BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**|Ruiheng Wang et.al.|[2605.13382](http://arxiv.org/abs/2605.13382)|null|
 |**2026-05-13**|**Robust Matrix-Free Newton-Krylov Solvers via Automatic Differentiation**|Marco Pasquale et.al.|[2605.13378](http://arxiv.org/abs/2605.13378)|null|
 |**2026-05-13**|**GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models**|Mingzhe Huang et.al.|[2605.13375](http://arxiv.org/abs/2605.13375)|null|
@@ -3566,7 +3609,7 @@
 |**2026-01-16**|**Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs**|Alessandro Padella et.al.|[2601.11468](http://arxiv.org/abs/2601.11468)|null|
 |**2026-01-16**|**The XL Instances for the Capacitated Vehicle Routing Problem**|Eduardo Queiroga et.al.|[2601.11467](http://arxiv.org/abs/2601.11467)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4polymer-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4polymer-arxiv-daily/graphs/contributors
