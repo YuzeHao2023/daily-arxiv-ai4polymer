@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
 |**2026-05-14**|**AudioMosaic: Contrastive Masked Audio Representation Learning**|Hanxun Huang et.al.|[2605.14231](http://arxiv.org/abs/2605.14231)|null|
 |**2026-05-13**|**Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning**|Leo Milecki et.al.|[2605.14048](http://arxiv.org/abs/2605.14048)|null|
 |**2026-05-13**|**Masked Autoencoders with Limited Data: Does It Work? A Fine-Grained Bioacoustics Case Study**|Wuao Liu et.al.|[2605.14031](http://arxiv.org/abs/2605.14031)|null|
@@ -327,6 +328,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity**|Dong Xiao et.al.|[2605.15089](http://arxiv.org/abs/2605.15089)|null|
+|**2026-05-14**|**Weak Solutions and Inertial Limits for Quasi-static Filtrations**|Peter Lavagnino et.al.|[2605.15007](http://arxiv.org/abs/2605.15007)|null|
 |**2026-05-14**|**Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution**|Pritha Acharya et.al.|[2605.14564](http://arxiv.org/abs/2605.14564)|null|
 |**2026-05-13**|**Enhanced Near-Field Thermal Radiation Driven by Multiple Corner and Edge Modes in Subwavelength Square Nanowires**|Jose Ordonez-Miranda et.al.|[2605.13712](http://arxiv.org/abs/2605.13712)|null|
 |**2026-05-13**|**Nonlinear dynamic elastic moduli from equilibrium stress fluctuations**|F. E. Garbuzov et.al.|[2605.13703](http://arxiv.org/abs/2605.13703)|null|
@@ -703,6 +706,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
+|**2026-05-14**|**Aligning Latent Geometry for Spherical Flow Matching in Image Generation**|Tuna Han Salih Meral et.al.|[2605.15193](http://arxiv.org/abs/2605.15193)|null|
+|**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|null|
+|**2026-05-14**|**DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models**|Quanhao Li et.al.|[2605.15055](http://arxiv.org/abs/2605.15055)|null|
+|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
+|**2026-05-14**|**MicroscopyMatching: Towards a Ready-to-use Framework for Microscopy Image Analysis in Diverse Conditions**|Xiaofei Hui et.al.|[2605.14980](http://arxiv.org/abs/2605.14980)|null|
+|**2026-05-14**|**ACE-LoRA: Adaptive Orthogonal Decoupling for Continual Image Editing**|Yuehao Liu et.al.|[2605.14948](http://arxiv.org/abs/2605.14948)|null|
+|**2026-05-14**|**Not All Symbols Are Equal: Importance-Aware Constellation Design for Semantic Communication**|Albert Shaju et.al.|[2605.14940](http://arxiv.org/abs/2605.14940)|null|
+|**2026-05-14**|**A Mutual Information Lower Bound for Multimodal Regression Active Learning**|Leonardo Ferreira Guilhoto et.al.|[2605.14917](http://arxiv.org/abs/2605.14917)|null|
+|**2026-05-14**|**Chrono-Gymnasium: An Open-Source, Gymnasium-Compatible Distributed Simulation Framework**|Bocheng Zou et.al.|[2605.14911](http://arxiv.org/abs/2605.14911)|null|
 |**2026-05-14**|**GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU**|Thorben Wegner et.al.|[2605.14839](http://arxiv.org/abs/2605.14839)|null|
 |**2026-05-14**|**HDRFace: Rethinking Face Restoration with High-Dimensional Representation**|Zirui Wang et.al.|[2605.14821](http://arxiv.org/abs/2605.14821)|null|
 |**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](http://arxiv.org/abs/2605.14815)|null|
@@ -1523,6 +1536,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Mixed-State Long-Range Entanglement from Dimensional Constraints**|Leonardo A. Lessa et.al.|[2605.15201](http://arxiv.org/abs/2605.15201)|null|
+|**2026-05-14**|**Universal quantum resource distillation via composite generalised quantum Stein's lemma**|Ludovico Lami et.al.|[2605.15174](http://arxiv.org/abs/2605.15174)|null|
+|**2026-05-14**|**Downlink Performance Analysis of Pinching Antenna Systems: WDMA or NOMA?**|Han Zhang et.al.|[2605.15129](http://arxiv.org/abs/2605.15129)|null|
+|**2026-05-14**|**Identification and Estimation of Staggered Difference-in-Differences with Network Spillovers**|Hayato Tagawa et.al.|[2605.15119](http://arxiv.org/abs/2605.15119)|null|
+|**2026-05-14**|**Multi-regime Markov-switching models with time-varying transition probabilities: An application to U.S. Treasury yields**|Samuel Modée et.al.|[2605.14976](http://arxiv.org/abs/2605.14976)|null|
+|**2026-05-14**|**Piece-wise linear isotonic regression**|Timo Kuosmanen et.al.|[2605.14943](http://arxiv.org/abs/2605.14943)|null|
+|**2026-05-14**|**FKPP fronts in quenched random media**|Ulysse Marquis et.al.|[2605.14914](http://arxiv.org/abs/2605.14914)|null|
 |**2026-05-14**|**Lévy-like flights and fractal geometry of finite point sets**|Konstantinos Chalas et.al.|[2605.14861](http://arxiv.org/abs/2605.14861)|null|
 |**2026-05-14**|**Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study**|Francesca Menescardi et.al.|[2605.14793](http://arxiv.org/abs/2605.14793)|null|
 |**2026-05-14**|**Betweenness Central Nodes Under Uncertainty: An Absorbing Markov Chain Approach**|Wencheng Bao et.al.|[2605.14743](http://arxiv.org/abs/2605.14743)|null|
@@ -2339,6 +2359,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Duality Between Chemical Potential Dynamics and Reaction-Diffusion Systems**|Daniel Zhou et.al.|[2605.15158](http://arxiv.org/abs/2605.15158)|null|
+|**2026-05-14**|**Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics**|Ali R. Safi et.al.|[2605.14898](http://arxiv.org/abs/2605.14898)|null|
 |**2026-05-14**|**A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks**|Léa Beaulès et.al.|[2605.14516](http://arxiv.org/abs/2605.14516)|null|
 |**2026-05-14**|**Chiroptical Ternary Entropy Harvesting from Self-Assembled Block Copolymer Nanopatterns**|Wookjin Jung et.al.|[2605.14353](http://arxiv.org/abs/2605.14353)|null|
 |**2026-05-12**|**Topological edge states of the hexagonal linear chain**|M. Niţă et.al.|[2605.11948](http://arxiv.org/abs/2605.11948)|null|
@@ -2741,6 +2763,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**|Ruozhen He et.al.|[2605.15199](http://arxiv.org/abs/2605.15199)|null|
+|**2026-05-14**|**ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both**|Ziyu Guo et.al.|[2605.15198](http://arxiv.org/abs/2605.15198)|null|
+|**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
+|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
+|**2026-05-14**|**FutureSim: Replaying World Events to Evaluate Adaptive Agents**|Shashwat Goel et.al.|[2605.15188](http://arxiv.org/abs/2605.15188)|null|
+|**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182](http://arxiv.org/abs/2605.15182)|null|
+|**2026-05-14**|**SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer**|Haoyi Zhu et.al.|[2605.15178](http://arxiv.org/abs/2605.15178)|null|
+|**2026-05-14**|**OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation**|Shang Zhou et.al.|[2605.15177](http://arxiv.org/abs/2605.15177)|null|
+|**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
+|**2026-05-14**|**Evidential Reasoning Advances Interpretable Real-World Disease Screening**|Chenyu Lian et.al.|[2605.15171](http://arxiv.org/abs/2605.15171)|null|
 |**2026-05-14**|**Lévy-like flights and fractal geometry of finite point sets**|Konstantinos Chalas et.al.|[2605.14861](http://arxiv.org/abs/2605.14861)|null|
 |**2026-05-14**|**Do Coding Agents Understand Least-Privilege Authorization?**|Zheng Yan et.al.|[2605.14859](http://arxiv.org/abs/2605.14859)|null|
 |**2026-05-14**|**FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery**|Patrick Kwon et.al.|[2605.14854](http://arxiv.org/abs/2605.14854)|null|
